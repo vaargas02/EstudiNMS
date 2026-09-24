@@ -1,0 +1,452 @@
+{
+ "trapecio": {
+  "file": "img/trapezius.jpg",
+  "name": "Trapezius.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Trapezius.png",
+  "credit": "CC BY-SA 3.0"
+ },
+ "romboides": {
+  "file": "img/rhomboideus-major.jpg",
+  "name": "Rhomboideus_major.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Rhomboideus_major.png",
+  "credit": "modified by Uwe Gille, Public domain"
+ },
+ "serrato": {
+  "file": "img/serratusmagnus.jpg",
+  "name": "SerratusMagnus.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SerratusMagnus.jpg",
+  "credit": "Leo Testut, Public domain"
+ },
+ "pectclav": {
+  "file": "img/gray410.jpg",
+  "name": "Gray410.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray410.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "pectest": {
+  "file": "img/gray410.jpg",
+  "name": "Gray410.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray410.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "supraesp": {
+  "file": "img/supraspinatus-muscle-back4.jpg",
+  "name": "Supraspinatus_muscle_back4.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Supraspinatus_muscle_back4.png",
+  "credit": "Anatomography, CC BY-SA 2.1 jp"
+ },
+ "bfcorta": {
+  "file": "img/grays-anatomy-1918-plate-434-biceps-femoris-muscle-both-head.jpg",
+  "name": "Grays anatomy 1918 plate 434 biceps femoris muscle both heads marked.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Grays_anatomy_1918_plate_434_biceps_femoris_muscle_both_heads_marked.png",
+  "credit": "Fredrik x nilsson, CC BY-SA 4.0"
+ },
+ "tibant": {
+  "file": "img/tibialis.jpg",
+  "name": "Tibialis.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Tibialis.png",
+  "credit": "Bildberabetning: sv:Användare:Chrizz. Original uploader was Chrizz at sv.wikipedia, CC BY-SA 3.0"
+ },
+ "eldg": {
+  "file": "img/gray441.jpg",
+  "name": "Gray441.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray441.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "eld": {
+  "file": "img/gray1241.jpg",
+  "name": "Gray1241.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1241.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "pedio": {
+  "file": "img/gray441.jpg",
+  "name": "Gray441.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray441.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "lumb12": {
+  "file": "img/lumbricales-hand.jpg",
+  "name": "Lumbricales_(hand).png",
+  "page": "https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png",
+  "credit": "Image:Gray427.png modified, Public domain"
+ },
+ "lumb34": {
+  "file": "img/lumbricales-hand.jpg",
+  "name": "Lumbricales_(hand).png",
+  "page": "https://commons.wikimedia.org/wiki/File:Lumbricales_(hand).png",
+  "credit": "Image:Gray427.png modified, Public domain"
+ },
+ "fcc": {
+  "file": "img/gray214.jpg",
+  "name": "Gray214.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray214.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "infraesp": {
+  "file": "img/infraspinatus.jpg",
+  "name": "Infraspinatus.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Infraspinatus.PNG",
+  "credit": "Mikael Häggström. When using this image in external works, it may be cited as: Häggström, Mikael (2014). \"Medical galler, Public domain"
+ },
+ "subesc": {
+  "file": "img/subscapularis-muscle-frontal.jpg",
+  "name": "Subscapularis_muscle_frontal.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Subscapularis_muscle_frontal.png",
+  "credit": "Anatomography, CC BY-SA 2.1 jp"
+ },
+ "dorsalancho": {
+  "file": "img/latissimus.jpg",
+  "name": "Latissimus.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Latissimus.jpg",
+  "credit": "Leo Testut, Public domain"
+ },
+ "redmayor": {
+  "file": "img/teres-major.jpg",
+  "name": "Teres_major.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Teres_major.PNG",
+  "credit": "User:Mikael Häggström, Public domain"
+ },
+ "deltoides": {
+  "file": "img/deltoideus.jpg",
+  "name": "Deltoideus.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Deltoideus.png",
+  "credit": "Original: sv:Användare:Chrizz, CC BY-SA 3.0"
+ },
+ "redmenor": {
+  "file": "img/teres-minor-muscle-back3.jpg",
+  "name": "Teres_minor_muscle_back3.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Teres_minor_muscle_back3.png",
+  "credit": "Anatomography, CC BY-SA 2.1 jp"
+ },
+ "biceps": {
+  "file": "img/1120-muscles-that-move-the-forearm-humerus-flex-sin.jpg",
+  "name": "1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Sin.png",
+  "page": "https://commons.wikimedia.org/wiki/File:1120_Muscles_that_Move_the_Forearm_Humerus_Flex_Sin.png",
+  "credit": "CFCF, CC BY-SA 4.0"
+ },
+ "braquial": {
+  "file": "img/musclesant-rieuresdubras.jpg",
+  "name": "MusclesAntérieuresDuBras.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MusclesAnt%C3%A9rieuresDuBras.jpg",
+  "credit": "Adrien Charpy, Public domain"
+ },
+ "triceps": {
+  "file": "img/triceps-brachii.jpg",
+  "name": "Triceps_brachii.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Triceps_brachii.png",
+  "credit": "CC BY-SA 3.0"
+ },
+ "braquiorr": {
+  "file": "img/gray417-color.jpg",
+  "name": "Gray417_color.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray417_color.PNG",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "erlc": {
+  "file": "img/gray417-color.jpg",
+  "name": "Gray417 color.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray417_color.PNG",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "supinador": {
+  "file": "img/croquissupinadorcorto.jpg",
+  "name": "CroquisSupinadorCorto.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:CroquisSupinadorCorto.jpg",
+  "credit": "Leo Testut, Public domain"
+ },
+ "ecc": {
+  "file": "img/superficialmuscularlayerofposteriorforearm-hand.jpg",
+  "name": "SuperficialMuscularLayerOfPosteriorForearm&Hand.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SuperficialMuscularLayerOfPosteriorForearm%26Hand.jpg",
+  "credit": "George A. Piersol, Public domain"
+ },
+ "edc": {
+  "file": "img/extensor-digitorum-muscle.jpg",
+  "name": "Extensor digitorum muscle.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Extensor_digitorum_muscle.jpg",
+  "credit": "Anatomist90, CC BY-SA 3.0"
+ },
+ "alp": {
+  "file": "img/grant-1962-74.jpg",
+  "name": "Grant_1962_74.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Grant_1962_74.png",
+  "credit": "Grant, John Charles Boileau, Public domain"
+ },
+ "elp": {
+  "file": "img/grant-1962-74.jpg",
+  "name": "Grant_1962_74.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Grant_1962_74.png",
+  "credit": "Grant, John Charles Boileau, Public domain"
+ },
+ "ecp": {
+  "file": "img/gray1231.jpg",
+  "name": "Gray1231.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1231.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "eip": {
+  "file": "img/gray421.jpg",
+  "name": "Gray421.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray421.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "pronred": {
+  "file": "img/gray417-color.jpg",
+  "name": "Gray417 color.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray417_color.PNG",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "frc": {
+  "file": "img/gray1231.jpg",
+  "name": "Gray1231.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1231.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "fsd": {
+  "file": "img/gray421.jpg",
+  "name": "Gray421.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray421.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "fdp23": {
+  "file": "img/musculaturaprodundadelantebrazo.jpg",
+  "name": "MusculaturaProdundaDelAntebrazo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MusculaturaProdundaDelAntebrazo.jpg",
+  "credit": "George A. Piersol, Public domain"
+ },
+ "fdp45": {
+  "file": "img/musculaturaprodundadelantebrazo.jpg",
+  "name": "MusculaturaProdundaDelAntebrazo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MusculaturaProdundaDelAntebrazo.jpg",
+  "credit": "George A. Piersol, Public domain"
+ },
+ "flp": {
+  "file": "img/musculaturaprodundadelantebrazo.jpg",
+  "name": "MusculaturaProdundaDelAntebrazo.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:MusculaturaProdundaDelAntebrazo.jpg",
+  "credit": "George A. Piersol, Public domain"
+ },
+ "pcuad": {
+  "file": "img/pronatorquadratus-surroundinganatomy.jpg",
+  "name": "PronatorQuadratus&SurroundingAnatomy.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:PronatorQuadratus%26SurroundingAnatomy.jpg",
+  "credit": "George A. Piersol, Public domain"
+ },
+ "acp": {
+  "file": "img/1121-intrinsic-muscles-of-the-hand-superficial-sin.jpg",
+  "name": "1121_Intrinsic_Muscles_of_the_Hand_Superficial_sin.png",
+  "page": "https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_Superficial_sin.png",
+  "credit": "CFCF, CC BY-SA 4.0"
+ },
+ "oponente": {
+  "file": "img/1121-intrinsic-muscles-of-the-hand-deep-ld.jpg",
+  "name": "1121_Intrinsic_Muscles_of_the_Hand_Deep_LD.png",
+  "page": "https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_Deep_LD.png",
+  "credit": "CFCF, CC BY-SA 4.0"
+ },
+ "adm": {
+  "file": "img/musculus-abductor-digiti-minimi-hand.jpg",
+  "name": "Musculus_abductor_digiti_minimi_(Hand).png",
+  "page": "https://commons.wikimedia.org/wiki/File:Musculus_abductor_digiti_minimi_(Hand).png",
+  "credit": "modified by Uwe Gille, Public domain"
+ },
+ "pid": {
+  "file": "img/gray220.jpg",
+  "name": "Gray220.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray220.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "aductpulg": {
+  "file": "img/1121-intrinsic-muscles-of-the-hand-superficial-sin.jpg",
+  "name": "1121_Intrinsic_Muscles_of_the_Hand_Superficial_sin.png",
+  "page": "https://commons.wikimedia.org/wiki/File:1121_Intrinsic_Muscles_of_the_Hand_Superficial_sin.png",
+  "credit": "CFCF, CC BY-SA 4.0"
+ },
+ "iliopsoas": {
+  "file": "img/gray430-en.jpg",
+  "name": "Gray430-en.svg",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray430-en.svg",
+  "credit": "Jmarchn, CC BY-SA 3.0"
+ },
+ "sartorio": {
+  "file": "img/sartorius.jpg",
+  "name": "Sartorius.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Sartorius.png",
+  "credit": "modified by Uwe Gille, Public domain"
+ },
+ "cuadriceps": {
+  "file": "img/quadriceps.jpg",
+  "name": "Quadriceps.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Quadriceps.png",
+  "credit": "colorized by Michael Gasperl, Public domain"
+ },
+ "aductlargo": {
+  "file": "img/anterior-hip-muscles-2.jpg",
+  "name": "Anterior_Hip_Muscles_2.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+  "credit": "Beth ohara, CC BY-SA 3.0"
+ },
+ "gracil": {
+  "file": "img/anterior-hip-muscles-2.jpg",
+  "name": "Anterior_Hip_Muscles_2.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+  "credit": "Beth ohara, CC BY-SA 3.0"
+ },
+ "aductmayor": {
+  "file": "img/anterior-hip-muscles-2.jpg",
+  "name": "Anterior_Hip_Muscles_2.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Anterior_Hip_Muscles_2.PNG",
+  "credit": "Beth ohara, CC BY-SA 3.0"
+ },
+ "gluteomedio": {
+  "file": "img/gluteus-medius-muscle08.jpg",
+  "name": "Gluteus_medius_muscle08.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gluteus_medius_muscle08.png",
+  "credit": "Anatomography, CC BY-SA 2.1 jp"
+ },
+ "tfl": {
+  "file": "img/gray1238.jpg",
+  "name": "Gray1238.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray1238.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "gluteomayor": {
+  "file": "img/gluteus-maximus-muscle.jpg",
+  "name": "Gluteus maximus muscle.PNG",
+  "page": "https://commons.wikimedia.org/wiki/File:Gluteus_maximus_muscle.PNG",
+  "credit": "Mikael Häggström. When using this image in external works, it may be cited as: Häggström, Mikael (2014). \"Medical galler, Public domain"
+ },
+ "semis": {
+  "file": "img/gray432-color.jpg",
+  "name": "Gray432_color.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray432_color.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "bflarga": {
+  "file": "img/grays-anatomy-1918-plate-434-biceps-femoris-muscle-both-head.jpg",
+  "name": "Grays anatomy 1918 plate 434 biceps femoris muscle both heads marked.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Grays_anatomy_1918_plate_434_biceps_femoris_muscle_both_heads_marked.png",
+  "credit": "Fredrik x nilsson, CC BY-SA 4.0"
+ },
+ "peroneos": {
+  "file": "img/intraoperative-fibularis-longus-tendon.jpg",
+  "name": "Intraoperative fibularis longus tendon.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Intraoperative_fibularis_longus_tendon.jpg",
+  "credit": "Whoisjohngalt, CC0"
+ },
+ "tibpost": {
+  "file": "img/gray442.jpg",
+  "name": "Gray442.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray442.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "gastro": {
+  "file": "img/gastrocnemius.jpg",
+  "name": "Gastrocnemius.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gastrocnemius.png",
+  "credit": "CC BY-SA 3.0"
+ },
+ "soleo": {
+  "file": "img/soleusandarch.jpg",
+  "name": "SoleusAndArch.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:SoleusAndArch.jpg",
+  "credit": "Johannes Sobotta, Public domain"
+ },
+ "fld": {
+  "file": "img/inferior-view-of-flexor-digitorum-longus-muscle-animation.jpg",
+  "name": "Inferior_view_of_flexor_digitorum_longus_muscle_-_animation.gif",
+  "page": "https://commons.wikimedia.org/wiki/File:Inferior_view_of_flexor_digitorum_longus_muscle_-_animation.gif",
+  "credit": "Polygon data were generated by Database Center for Life Science (DBCLS)[2], CC BY-SA 2.1 jp"
+ },
+ "fldg": {
+  "file": "img/posterior-compartment-of-leg-flexor-hallucis-longus.jpg",
+  "name": "Posterior_compartment_of_leg_-_flexor_hallucis_longus.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Posterior_compartment_of_leg_-_flexor_hallucis_longus.png",
+  "credit": "Polygon data were generated by Database Center for Life Science (DBCLS)[2], CC BY-SA 2.1 jp"
+ },
+ "abdhallux": {
+  "file": "img/sobo-1909-310.jpg",
+  "name": "Sobo_1909_310.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Sobo_1909_310.png",
+  "credit": "Dr. Johannes Sobotta, Public domain"
+ },
+ "ecm": {
+  "file": "img/sternocleidomastoideus.jpg",
+  "name": "Sternocleidomastoideus.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Sternocleidomastoideus.png",
+  "credit": "Image:Gray385.png modified by Uwe Gille, Public domain"
+ },
+ "diafragma": {
+  "file": "img/gray577.jpg",
+  "name": "Gray577.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray577.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "flexcuello": {
+  "file": "img/longus-colli.jpg",
+  "name": "Longus_colli.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Longus_colli.png",
+  "credit": "modified by Uwe Gille, Public domain"
+ },
+ "paraesp": {
+  "file": "img/gray389-erector-spinae.jpg",
+  "name": "Gray389_-_Erector_spinae.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray389_-_Erector_spinae.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "rectoabd": {
+  "file": "img/rectus-abdominis.jpg",
+  "name": "Rectus_abdominis.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Rectus_abdominis.png",
+  "credit": "CC BY-SA 3.0"
+ },
+ "orbocular": {
+  "file": "img/gray379.jpg",
+  "name": "Gray379.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray379.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "orbboca": {
+  "file": "img/orbicularis-oris.jpg",
+  "name": "Orbicularis_oris.jpg",
+  "page": "https://commons.wikimedia.org/wiki/File:Orbicularis_oris.jpg",
+  "credit": "Public domain"
+ },
+ "masetero": {
+  "file": "img/gray378-masseter-highlight.jpg",
+  "name": "Gray378_(masseter_highlight).png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray378_(masseter_highlight).png",
+  "credit": "Kevjonesin, CC BY-SA 3.0"
+ },
+ "lengua": {
+  "file": "img/genioglossus.jpg",
+  "name": "Genioglossus.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Genioglossus.png",
+  "credit": "Image:Gray1019.png modiefied by Uwe Gille, Public domain"
+ },
+ "elevpalp": {
+  "file": "img/eyemuscles.jpg",
+  "name": "Eyemuscles.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Eyemuscles.png",
+  "credit": "Edelhart Kempeneers, Public domain"
+ },
+ "rectolat": {
+  "file": "img/gray785.jpg",
+  "name": "Gray785.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Gray785.png",
+  "credit": "Henry Vandyke Carter, Public domain"
+ },
+ "oblsup": {
+  "file": "img/eyemuscles.jpg",
+  "name": "Eyemuscles.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Eyemuscles.png",
+  "credit": "Edelhart Kempeneers, Public domain"
+ },
+ "velo": {
+  "file": "img/musculuslevatorvelipalatini.jpg",
+  "name": "Musculuslevatorvelipalatini.png",
+  "page": "https://commons.wikimedia.org/wiki/File:Musculuslevatorvelipalatini.png",
+  "credit": "Public domain"
+ }
+}

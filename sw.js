@@ -1,8 +1,20 @@
 // Raíz y nervio: service worker (cache-first, offline total)
-const CACHE = 'raiz-nervio-v1.1.0';
+const CACHE = 'raiz-nervio-v1.2.0';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(c => c.addAll(FILES.map(f => new Request(f, { cache: 'reload' })))).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then(async c => {
+    await c.addAll(FILES.map(f => new Request(f, { cache: 'reload' })));
+    // imágenes de músculos (opcionales)
+    try {
+      const r = await fetch('./img/index.json', { cache: 'reload' });
+      if (r.ok) {
+        await c.put('./img/index.json', r.clone());
+        const idx = await r.json();
+        const files = [...new Set(Object.values(idx).map(e => './' + e.file))];
+        await Promise.all(files.map(f => c.add(new Request(f, { cache: 'reload' })).catch(() => {})));
+      }
+    } catch (e) {}
+  }).then(() => self.skipWaiting()));
 });
 self.addEventListener('activate', e => {
   e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));

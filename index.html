@@ -326,6 +326,15 @@ button { cursor: pointer; }
 .think { background: var(--surface); border: 1.5px dashed var(--line); border-radius: var(--radius-l); padding: 18px 16px 16px; text-align: center; }
 .think p { margin: 0 0 14px; color: var(--muted); font-size: .92rem; }
 
+.mimg { margin: 12px 0 4px; }
+.mimg-btn { display: block; width: 100%; padding: 0; border: 1px solid var(--line); border-radius: var(--radius-m); background: #fff; overflow: hidden; cursor: zoom-in; }
+.mimg img { display: block; width: 100%; height: auto; max-height: 60vh; object-fit: contain; }
+.mimg figcaption { font-size: .72rem; color: var(--muted); margin-top: 5px; line-height: 1.3; }
+.lightbox { position: fixed; inset: 0; z-index: 50; background: rgba(8, 12, 20, .92); display: flex; flex-direction: column; }
+.lb-scroll { flex: 1; overflow: auto; -webkit-overflow-scrolling: touch; display: flex; align-items: center; justify-content: center; padding: 12px; }
+.lb-scroll img { max-width: 100%; height: auto; background: #fff; border-radius: 6px; }
+.lb-close { position: absolute; top: calc(12px + env(safe-area-inset-top, 0px)); right: 12px; z-index: 2; background: rgba(255,255,255,.9); color: #15233C; }
+
 </style>
 </head>
 <body>
@@ -1189,7 +1198,8 @@ function renderFig(spec) {
 // ============================================================
 //  Raíz y nervio — lógica de la app
 // ============================================================
-const APP_VERSION = '1.1.0';
+const APP_VERSION = '1.2.0';
+let IMG = {}; // imágenes de músculos (img/index.json), opcionales
 const INTERVALS = [1, 3, 7, 14, 30, 60]; // días tras cada acierto consecutivo
 const DAY_CUTOFF_H = 4; // el día cambia a las 4:00 (guardias)
 
@@ -1263,6 +1273,13 @@ const save = () => Store.set('state', S);
 const RELATED = { ciatico: ['tibial', 'peroneo', 'obturador'], tibial: ['ciatico'], peroneo: ['ciatico'], obturador: ['ciatico'] };
 const muscleById = Object.fromEntries(MUSCLES.map(m => [m.id, m]));
 
+function muscleImg(id) {
+  const e = IMG[id];
+  if (!e || !e.file) return '';
+  return `<figure class="mimg"><button class="mimg-btn" data-zoom="${esc(e.file)}" aria-label="Ampliar imagen"><img src="${esc(e.file)}" alt="Lámina anatómica: ${esc(muscleById[id].n)}" loading="lazy"></button>
+    ${e.credit ? `<figcaption>${esc(e.credit)}</figcaption>` : ''}</figure>`;
+}
+
 function muscleProfile(m) {
   return `<dl class="profile">
     <dt>Nervio</dt><dd>${esc(m.nerve)}</dd>
@@ -1282,32 +1299,32 @@ function buildCards() {
   for (const m of MUSCLES) {
     const region = MUSCLES.filter(x => x.r === m.r);
     const tags = m.roots.slice();
-    const exFull = `<p class="ex-title">${esc(m.n)}</p>${muscleProfile(m)}<p>${esc(m.ex)}</p>`;
+    const exFullFn = () => `<p class="ex-title">${esc(m.n)}</p>${muscleProfile(m)}<p>${esc(m.ex)}</p>${muscleImg(m.id)}`;
     if (m.roots.length) add({
       id: m.id + ':raiz', block: m.r, kind: 'multi', title: m.n, q: '¿Qué raíces lo inervan?',
       hint: 'Marca las raíces principales. Las accesorias no restan.', chips: ROOT_CHIPS[m.r], main: m.roots, minor: m.minor,
-      tags, answer: fmtRoots(m.roots, m.minor), make: () => ({ ex: exFull }),
+      tags, answer: fmtRoots(m.roots, m.minor), make: () => ({ ex: exFullFn() }),
     });
     add({
       id: m.id + ':nervio', block: m.r, kind: 'mcq', title: m.n, q: '¿Qué nervio lo inerva?', tags, answer: m.nerve,
       make: () => {
         const bad = [m.group, ...(RELATED[m.group] || [])];
         const pool = uniq(region.filter(x => !bad.includes(x.group) && x.nerve !== m.nerve).map(x => x.nerve));
-        return { options: shuffle([m.nerve, ...pick(pool, 3)]), correct: m.nerve, ex: exFull };
+        return { options: shuffle([m.nerve, ...pick(pool, 3)]), correct: m.nerve, ex: exFullFn() };
       },
     });
     add({
       id: m.id + ':funcion', block: m.r, kind: 'mcq', title: m.n, q: '¿Cuál es su función principal?', tags, answer: m.act,
       make: () => {
         const pool = uniq(region.filter(x => x.fam !== m.fam && x.act !== m.act).map(x => x.act));
-        return { options: shuffle([m.act, ...pick(pool, 3)]), correct: m.act, ex: exFull };
+        return { options: shuffle([m.act, ...pick(pool, 3)]), correct: m.act, ex: exFullFn() };
       },
     });
     if (m.inv) add({
       id: m.id + ':inv', block: m.r, kind: 'mcq', title: m.act, q: '¿Qué músculo se encarga principalmente de esto?', tags, answer: m.n,
       make: () => {
         const pool = uniq(region.filter(x => x.fam !== m.fam && x.act !== m.act).map(x => x.n));
-        return { options: shuffle([m.n, ...pick(pool, 3)]), correct: m.n, ex: exFull };
+        return { options: shuffle([m.n, ...pick(pool, 3)]), correct: m.n, ex: exFullFn() };
       },
     });
   }
@@ -1731,7 +1748,7 @@ function viewConsulta() {
       <p class="count-line">${list.length} ${list.length === 1 ? 'músculo' : 'músculos'}</p>
       <ul class="mlist">${list.map(m => `<li><details><summary><span class="mn">${esc(m.n)}</span>
         <span class="mr">${m.roots.length ? esc(fmtRoots(m.roots, m.minor)) : esc(m.nerve.match(/\(([^)]+)\)/)?.[1] || '')}</span></summary>
-        ${muscleProfile(m)}<p class="mex">${esc(m.ex)}</p></details></li>`).join('')}</ul>`;
+        ${muscleProfile(m)}<p class="mex">${esc(m.ex)}</p>${muscleImg(m.id)}</details></li>`).join('')}</ul>`;
   } else if (consultaTab === 'dibujos') {
     body = viewDrawings();
   } else {
@@ -1849,6 +1866,7 @@ function viewSettings() {
     <button class="btn danger" id="reset">Borrar todo el progreso</button></section>
   <section class="card-sec about"><h2 class="sec-title">Fuentes</h2>
     <p class="note">Inervación: <em>Aids to the Examination of the Peripheral Nervous System</em> (O'Brien, 6.ª ed.). Raíz principal marcada; accesorias entre paréntesis. Dermatomas: puntos clave de la ISNCSCI (ASIA) y mapa basado en la evidencia de Lee et al. (2008). Las raíces y los dermatomas varían entre fuentes y personas.</p>
+    ${Object.keys(IMG).length ? `<p class="note">Imágenes de músculos: Wikimedia Commons, en su mayoría láminas de <em>Gray's Anatomy</em> (1918, dominio público). Autoría y licencia bajo cada imagen.</p>` : ''}
     <p class="note">${CARDS.length} tarjetas. Versión ${APP_VERSION}.</p></section>`;
 }
 
@@ -1912,8 +1930,23 @@ function applyTheme() {
 }
 
 // ---------- arranque ----------
+// Ampliar imagen
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-zoom]');
+  if (b) {
+    const ov = document.createElement('div');
+    ov.className = 'lightbox';
+    ov.innerHTML = `<button class="icon-btn lb-close" aria-label="Cerrar"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button><div class="lb-scroll"><img src="${b.dataset.zoom}" alt=""></div>`;
+    ov.onclick = ev => { if (ev.target === ov || ev.target.closest('.lb-close')) ov.remove(); };
+    document.body.appendChild(ov);
+    ov.querySelector('.lb-close').focus();
+  }
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') document.querySelector('.lightbox')?.remove(); });
+
 (async function init() {
   await Store.open();
+  try { const r = await fetch('img/index.json', { cache: 'no-cache' }); if (r.ok) IMG = await r.json(); } catch (e) { }
   const loaded = await Store.get('state');
   S = Object.assign(defaultState(), loaded || {});
   S.settings = Object.assign(defaultState().settings, (loaded || {}).settings || {});
