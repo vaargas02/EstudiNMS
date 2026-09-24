@@ -323,6 +323,9 @@ button { cursor: pointer; }
   .page { padding-top: 32px; }
 }
 
+.think { background: var(--surface); border: 1.5px dashed var(--line); border-radius: var(--radius-l); padding: 18px 16px 16px; text-align: center; }
+.think p { margin: 0 0 14px; color: var(--muted); font-size: .92rem; }
+
 </style>
 </head>
 <body>
@@ -1186,7 +1189,7 @@ function renderFig(spec) {
 // ============================================================
 //  Raíz y nervio — lógica de la app
 // ============================================================
-const APP_VERSION = '1.0.0';
+const APP_VERSION = '1.1.0';
 const INTERVALS = [1, 3, 7, 14, 30, 60]; // días tras cada acierto consecutivo
 const DAY_CUTOFF_H = 4; // el día cambia a las 4:00 (guardias)
 
@@ -1251,7 +1254,7 @@ let S = null;
 function defaultState() {
   return {
     v: 1, cards: {}, bank: 0, lastGrant: null, history: {},
-    settings: { perDay: 10, theme: 'auto', blocks: Object.fromEntries(BLOCKS.map(b => [b.id, true])) },
+    settings: { perDay: 10, theme: 'auto', thinkFirst: true, blocks: Object.fromEntries(BLOCKS.map(b => [b.id, true])) },
   };
 }
 const save = () => Store.set('state', S);
@@ -1510,7 +1513,7 @@ function startSession(extraNew = 0) {
 function showCard() {
   const id = session.queue[session.idx];
   const card = CARD[id];
-  session.cur = { id, card, inst: card.make(), selected: new Set(), answered: false };
+  session.cur = { id, card, inst: card.make(), selected: new Set(), answered: false, revealed: !S.settings.thinkFirst };
   render();
 }
 
@@ -1633,7 +1636,10 @@ function viewSession() {
   const pct = Math.round(100 * session.idx / session.queue.length);
   const isNew = !session.seen.has(card.id) && !S.cards[card.id];
   let body = '';
-  if (card.kind === 'multi') {
+  if (!session.cur.revealed) {
+    body = `<div class="think"><p>Piensa la respuesta antes de ver las opciones.</p>
+      <button class="btn primary" id="reveal">Mostrar opciones</button></div>`;
+  } else if (card.kind === 'multi') {
     const sel = session.cur.selected;
     body = `<div class="chips" role="group" aria-label="Raíces">${card.chips.map(r => {
       let c = sel.has(r) ? 'on' : '';
@@ -1668,7 +1674,7 @@ function viewSession() {
     ${card.fig ? `<div class="fig-wrap">${renderFig(card.fig)}</div>` : ''}
     ${card.title ? `<h2 class="q-title">${esc(card.title)}</h2>` : ''}
     <p class="q ${card.title ? '' : 'q-big'}">${esc(card.q)}</p>
-    ${card.hint && !answered ? `<p class="hint">${esc(card.hint)}</p>` : ''}
+    ${card.hint && !answered && session.cur.revealed ? `<p class="hint">${esc(card.hint)}</p>` : ''}
     ${body}${fb}
   </main>`;
 }
@@ -1682,6 +1688,11 @@ function bindSession() {
     b.classList.toggle('on'); b.setAttribute('aria-pressed', s.has(r));
     $('#check').disabled = !s.size;
   });
+  const rv = $('#reveal');
+  if (rv) {
+    rv.onclick = () => { session.cur.revealed = true; render(); const f = $('.opt, .chip'); if (f) f.focus({ preventScroll: true }); };
+    rv.focus({ preventScroll: true });
+  }
   const ck = $('#check'); if (ck) ck.onclick = () => answer();
   const nx = $('#next'); if (nx) { nx.onclick = next; nx.focus({ preventScroll: true }); }
 }
@@ -1820,6 +1831,10 @@ function viewSettings() {
   <section class="card-sec"><h2 class="sec-title">Tarjetas nuevas por día</h2>
     <div class="stepper"><button class="icon-btn" id="pd-" aria-label="Menos">−</button><span class="pd">${S.settings.perDay}</span><button class="icon-btn" id="pd+" aria-label="Más">+</button></div>
     <p class="note">Si un día no estudias, las nuevas de ese día se suman al siguiente. Los repasos que tocan se añaden siempre. El día cambia a las 4:00.</p></section>
+  <section class="card-sec"><h2 class="sec-title">Forma de responder</h2>
+    <ul class="toggles"><li><label><span>Pensar antes de ver las opciones</span>
+      <input type="checkbox" id="think" ${S.settings.thinkFirst ? 'checked' : ''}><i class="sw"></i></label></li></ul>
+    <p class="note">Las opciones aparecen al pulsar «Mostrar opciones».</p></section>
   <section class="card-sec"><h2 class="sec-title">Bloques activos</h2>
     <ul class="toggles">${BLOCKS.map(b => `<li><label><span>${b.name} <small>${CARDS.filter(c => c.block === b.id).length}</small></span>
       <input type="checkbox" data-blk="${b.id}" ${S.settings.blocks[b.id] !== false ? 'checked' : ''}><i class="sw"></i></label></li>`).join('')}</ul>
@@ -1856,6 +1871,7 @@ function bindCommon() {
   if (pdm) pdm.onclick = () => { S.settings.perDay = Math.max(1, S.settings.perDay - 1); save(); render(); };
   if (pdp) pdp.onclick = () => { S.settings.perDay = Math.min(50, S.settings.perDay + 1); save(); render(); };
   document.querySelectorAll('[data-blk]').forEach(i => i.onchange = () => { S.settings.blocks[i.dataset.blk] = i.checked; save(); });
+  const th = $('#think'); if (th) th.onchange = () => { S.settings.thinkFirst = th.checked; save(); };
   document.querySelectorAll('[data-theme-set]').forEach(b => b.onclick = () => { S.settings.theme = b.dataset.themeSet; save(); render(); });
   const ex = $('#exp');
   if (ex) ex.onclick = () => {
