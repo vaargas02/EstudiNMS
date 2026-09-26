@@ -1,0 +1,317 @@
+[
+ {
+  "id": "rn-der-001",
+  "grupo": "C2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista posterior)?",
+  "opciones": [
+   "C2",
+   "C3",
+   "C5",
+   "C4"
+  ],
+  "correcta": 0,
+  "explicacion": "C2: al menos 1 cm lateral a la protuberancia occipital (o unos 3 cm por detrás de la oreja). El C1 no suele tener dermatoma cutáneo. La cara es territorio del trigémino.",
+  "imagen": "img/punto-c2.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-002",
+  "grupo": "C2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: al menos 1 cm lateral a la protuberancia occipital (o unos 3 cm por detrás de la oreja)?",
+  "opciones": [
+   "C2",
+   "C4",
+   "C5",
+   "C3"
+  ],
+  "correcta": 0,
+  "explicacion": "C2: al menos 1 cm lateral a la protuberancia occipital (o unos 3 cm por detrás de la oreja). El C1 no suele tener dermatoma cutáneo. La cara es territorio del trigémino.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-003",
+  "grupo": "C3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "C3",
+   "C5",
+   "C6",
+   "C2"
+  ],
+  "correcta": 0,
+  "explicacion": "C3: fosa supraclavicular, por detrás de la clavícula, en la línea medioclavicular. Discrepancia clásica: la región supraclavicular es C4 en Keegan-Garrett y C3 en Foerster.",
+  "imagen": "img/punto-c3.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-004",
+  "grupo": "C3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: fosa supraclavicular, por detrás de la clavícula, en la línea medioclavicular?",
+  "opciones": [
+   "C3",
+   "C2",
+   "C6",
+   "C4"
+  ],
+  "correcta": 0,
+  "explicacion": "C3: fosa supraclavicular, por detrás de la clavícula, en la línea medioclavicular. Discrepancia clásica: la región supraclavicular es C4 en Keegan-Garrett y C3 en Foerster.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-005",
+  "grupo": "C4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "C4",
+   "C7",
+   "C2",
+   "C3"
+  ],
+  "correcta": 0,
+  "explicacion": "C4: sobre la articulación acromioclavicular. Discrepancia clásica: el hombro es C4 en Foerster y C5 en Keegan-Garrett. La ISNCSCI usa la acromioclavicular para C4.",
+  "imagen": "img/punto-c4.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-006",
+  "grupo": "C4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: sobre la articulación acromioclavicular?",
+  "opciones": [
+   "C4",
+   "C3",
+   "C7",
+   "C5"
+  ],
+  "correcta": 0,
+  "explicacion": "C4: sobre la articulación acromioclavicular. Discrepancia clásica: el hombro es C4 en Foerster y C5 en Keegan-Garrett. La ISNCSCI usa la acromioclavicular para C4.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-007",
+  "grupo": "C5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "C5",
+   "C3",
+   "C4",
+   "C8"
+  ],
+  "correcta": 0,
+  "explicacion": "C5: cara lateral (radial) de la fosa antecubital, justo proximal al pliegue del codo. C5 cubre la cara lateral del brazo. Radiculopatía C5: dolor en hombro y debilidad de deltoides y bíceps.",
+  "imagen": "img/punto-c5.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-008",
+  "grupo": "C5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: cara lateral (radial) de la fosa antecubital, justo proximal al pliegue del codo?",
+  "opciones": [
+   "C5",
+   "C6",
+   "C2",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "C5: cara lateral (radial) de la fosa antecubital, justo proximal al pliegue del codo. C5 cubre la cara lateral del brazo. Radiculopatía C5: dolor en hombro y debilidad de deltoides y bíceps.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-009",
+  "grupo": "C6",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en el dorso de la mano?",
+  "opciones": [
+   "C6",
+   "C8",
+   "C4",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "C6: dorso de la falange proximal del pulgar. Radiculopatía C6: parestesias en pulgar (± índice), bíceps y estilorradial hiporreflexicos.",
+  "imagen": "img/punto-c6.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-010",
+  "grupo": "C6",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: dorso de la falange proximal del pulgar?",
+  "opciones": [
+   "C6",
+   "T1",
+   "C4",
+   "C5"
+  ],
+  "correcta": 0,
+  "explicacion": "C6: dorso de la falange proximal del pulgar. Radiculopatía C6: parestesias en pulgar (± índice), bíceps y estilorradial hiporreflexicos.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-011",
+  "grupo": "C7",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en el dorso de la mano?",
+  "opciones": [
+   "C7",
+   "C5",
+   "C4",
+   "T2"
+  ],
+  "correcta": 0,
+  "explicacion": "C7: dorso de la falange proximal del dedo medio. Radiculopatía C7 (la más frecuente): parestesias en el dedo medio, tricipital abolido, debilidad de tríceps y FRC.",
+  "imagen": "img/punto-c7.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-012",
+  "grupo": "C7",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: dorso de la falange proximal del dedo medio?",
+  "opciones": [
+   "C7",
+   "T1",
+   "C8",
+   "C6"
+  ],
+  "correcta": 0,
+  "explicacion": "C7: dorso de la falange proximal del dedo medio. Radiculopatía C7 (la más frecuente): parestesias en el dedo medio, tricipital abolido, debilidad de tríceps y FRC.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-013",
+  "grupo": "C8",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en el dorso de la mano?",
+  "opciones": [
+   "C8",
+   "T1",
+   "T2",
+   "C5"
+  ],
+  "correcta": 0,
+  "explicacion": "C8: dorso de la falange proximal del meñique. C8: meñique y borde cubital de la mano y antebrazo distal. Diferénciala del cubital por el antebrazo medial.",
+  "imagen": "img/punto-c8.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-014",
+  "grupo": "C8",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: dorso de la falange proximal del meñique?",
+  "opciones": [
+   "C8",
+   "T1",
+   "T2",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "C8: dorso de la falange proximal del meñique. C8: meñique y borde cubital de la mano y antebrazo distal. Diferénciala del cubital por el antebrazo medial.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-015",
+  "grupo": "T1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T1",
+   "T4",
+   "T3",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "T1: cara medial (cubital) de la fosa antecubital, proximal al epicóndilo medial. T1 ocupa la cara medial del antebrazo proximal y del brazo.",
+  "imagen": "img/punto-t1.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-016",
+  "grupo": "T1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: cara medial (cubital) de la fosa antecubital, proximal al epicóndilo medial?",
+  "opciones": [
+   "T1",
+   "T3",
+   "C6",
+   "T2"
+  ],
+  "correcta": 0,
+  "explicacion": "T1: cara medial (cubital) de la fosa antecubital, proximal al epicóndilo medial. T1 ocupa la cara medial del antebrazo proximal y del brazo.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-017",
+  "grupo": "T2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T2",
+   "T3",
+   "T5",
+   "T1"
+  ],
+  "correcta": 0,
+  "explicacion": "T2: vértice de la axila. T2 llega al vértice axilar y la cara medial del brazo. T2 y C4 son adyacentes en el tórax anterior (C5-T1 se van al brazo).",
+  "imagen": "img/punto-t2.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-018",
+  "grupo": "T2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: cuello y miembro superior",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: vértice de la axila?",
+  "opciones": [
+   "T2",
+   "T3",
+   "T5",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "T2: vértice de la axila. T2 llega al vértice axilar y la cara medial del brazo. T2 y C4 son adyacentes en el tórax anterior (C5-T1 se van al brazo).",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ }
+]

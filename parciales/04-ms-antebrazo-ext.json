@@ -1,0 +1,421 @@
+[
+ {
+  "id": "rn-ms-055",
+  "enunciado": "¿Qué nervio inerva el extensor radial largo del carpo?",
+  "opciones": [
+   "Radial",
+   "Subescapulares superior e inferior",
+   "Mediano",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "Inervado por el radial antes de su división. En la lesión del interóseo posterior la muñeca se extiende con desviación radial (ERLC preservado, extensor cubital afectado).",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-056",
+  "enunciado": "¿Qué raíces inervan el extensor radial largo del carpo?",
+  "opciones": [
+   "C5, C6",
+   "C7, C8",
+   "C8, T1",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor radial largo del carpo: Radial, C5, C6. Inervado por el radial antes de su división. En la lesión del interóseo posterior la muñeca se extiende con desviación radial (ERLC preservado, extensor cubital afectado)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-057",
+  "enunciado": "¿Cuál es la función principal del extensor radial largo del carpo?",
+  "opciones": [
+   "Extensión de la muñeca con desviación radial",
+   "Aducción de los dedos",
+   "Flexión de la interfalángica distal del índice y medio",
+   "Abducción del pulgar en el plano de la palma"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor radial largo del carpo: extensión de la muñeca con desviación radial. Nervio: Radial, C5, C6. Inervado por el radial antes de su división. En la lesión del interóseo posterior la muñeca se extiende con desviación radial (ERLC preservado, extensor cubital afectado)."
+ },
+ {
+  "id": "rn-ms-058",
+  "enunciado": "¿Qué nervio inerva el supinador?",
+  "opciones": [
+   "Interóseo posterior",
+   "Musculocutáneo",
+   "Accesorio espinal (XI)",
+   "Subescapular inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "El interóseo posterior atraviesa el supinador por la arcada de Frohse, sitio típico de atrapamiento.",
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-059",
+  "enunciado": "¿Qué raíces inervan el supinador?",
+  "opciones": [
+   "C6, C7",
+   "C4, C5",
+   "C5",
+   "C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Supinador: Interóseo posterior, C6, C7. El interóseo posterior atraviesa el supinador por la arcada de Frohse, sitio típico de atrapamiento."
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-060",
+  "enunciado": "¿Cuál es la función principal del supinador?",
+  "opciones": [
+   "Supinación del antebrazo (con el codo extendido)",
+   "Flexión y aducción del brazo",
+   "Flexión de la interfalángica distal del anular y meñique",
+   "Extensión de las metacarpofalángicas de los dedos"
+  ],
+  "correcta": 0,
+  "explicacion": "Supinador: supinación del antebrazo (con el codo extendido). Nervio: Interóseo posterior, C6, C7. El interóseo posterior atraviesa el supinador por la arcada de Frohse, sitio típico de atrapamiento."
+ },
+ {
+  "id": "rn-ms-061",
+  "enunciado": "¿Qué nervio inerva el extensor cubital del carpo?",
+  "opciones": [
+   "Interóseo posterior",
+   "Pectoral lateral",
+   "Subescapular inferior",
+   "Toracodorsal"
+  ],
+  "correcta": 0,
+  "explicacion": "Primer extensor que se pierde en la lesión del interóseo posterior: por eso la muñeca se desvía hacia radial al extender.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-062",
+  "enunciado": "¿Qué raíces inervan el extensor cubital del carpo?",
+  "opciones": [
+   "C7, C8",
+   "T1",
+   "C7, C8, T1",
+   "C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor cubital del carpo: Interóseo posterior, C7, C8. Primer extensor que se pierde en la lesión del interóseo posterior: por eso la muñeca se desvía hacia radial al extender."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-063",
+  "enunciado": "¿Cuál es la función principal del extensor cubital del carpo?",
+  "opciones": [
+   "Extensión de la muñeca con desviación cubital",
+   "Abducción del índice",
+   "Flexión del codo en cualquier posición del antebrazo",
+   "Inicio de la abducción del brazo (0–15°)"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor cubital del carpo: extensión de la muñeca con desviación cubital. Nervio: Interóseo posterior, C7, C8. Primer extensor que se pierde en la lesión del interóseo posterior: por eso la muñeca se desvía hacia radial al extender."
+ },
+ {
+  "id": "rn-ms-064",
+  "enunciado": "¿Qué nervio inerva el extensor de los dedos?",
+  "opciones": [
+   "Interóseo posterior",
+   "Toracodorsal",
+   "Musculocutáneo",
+   "Pectorales lateral y medial"
+  ],
+  "correcta": 0,
+  "explicacion": "En la lesión del interóseo posterior hay dedos caídos sin déficit sensitivo: el nervio es puramente motor.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-065",
+  "enunciado": "¿Qué raíces inervan el extensor de los dedos?",
+  "opciones": [
+   "C7, C8",
+   "C8, T1",
+   "C5, C6",
+   "C6, C7, C8"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor de los dedos: Interóseo posterior, C7, C8. En la lesión del interóseo posterior hay dedos caídos sin déficit sensitivo: el nervio es puramente motor."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-066",
+  "enunciado": "¿Cuál es la función principal del extensor de los dedos?",
+  "opciones": [
+   "Extensión de las metacarpofalángicas de los dedos",
+   "Supinación del antebrazo (con el codo extendido)",
+   "Flexión de las interfalángicas proximales",
+   "Flexión del codo con el antebrazo en semipronación"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor de los dedos: extensión de las metacarpofalángicas de los dedos. Nervio: Interóseo posterior, C7, C8. En la lesión del interóseo posterior hay dedos caídos sin déficit sensitivo: el nervio es puramente motor."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-067",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: extensión de las metacarpofalángicas de los dedos?",
+  "opciones": [
+   "Extensor de los dedos",
+   "Flexor superficial de los dedos",
+   "Tríceps braquial",
+   "Pectoral mayor (porción esternocostal)"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor de los dedos: Interóseo posterior, C7, C8. En la lesión del interóseo posterior hay dedos caídos sin déficit sensitivo: el nervio es puramente motor."
+ },
+ {
+  "id": "rn-ms-068",
+  "enunciado": "¿Qué nervio inerva el abductor largo del pulgar?",
+  "opciones": [
+   "Interóseo posterior",
+   "Axilar",
+   "Torácico largo",
+   "Musculocutáneo"
+  ],
+  "correcta": 0,
+  "explicacion": "Abduce el pulgar hacia radial (en el plano de la palma), a diferencia del abductor corto, que lo hace perpendicular a la palma.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-069",
+  "enunciado": "¿Qué raíces inervan el abductor largo del pulgar?",
+  "opciones": [
+   "C7, C8",
+   "C7, C8, T1",
+   "C5, C6, C7",
+   "C5"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor largo del pulgar: Interóseo posterior, C7, C8. Abduce el pulgar hacia radial (en el plano de la palma), a diferencia del abductor corto, que lo hace perpendicular a la palma."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-070",
+  "enunciado": "¿Cuál es la función principal del abductor largo del pulgar?",
+  "opciones": [
+   "Abducción del pulgar en el plano de la palma",
+   "Flexión del codo en cualquier posición del antebrazo",
+   "Rotación externa del brazo",
+   "Flexión de la interfalángica distal del índice y medio"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor largo del pulgar: abducción del pulgar en el plano de la palma. Nervio: Interóseo posterior, C7, C8. Abduce el pulgar hacia radial (en el plano de la palma), a diferencia del abductor corto, que lo hace perpendicular a la palma."
+ },
+ {
+  "id": "rn-ms-071",
+  "enunciado": "¿Qué nervio inerva el extensor largo del pulgar?",
+  "opciones": [
+   "Interóseo posterior",
+   "Musculocutáneo",
+   "Dorsal de la escápula",
+   "Axilar"
+  ],
+  "correcta": 0,
+  "explicacion": "Se explora extendiendo la punta del pulgar con la mano apoyada. Puede romperse tras fractura de Colles.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-072",
+  "enunciado": "¿Qué raíces inervan el extensor largo del pulgar?",
+  "opciones": [
+   "C7, C8",
+   "C4, C5",
+   "C5, C6, C7",
+   "C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo del pulgar: Interóseo posterior, C7, C8. Se explora extendiendo la punta del pulgar con la mano apoyada. Puede romperse tras fractura de Colles."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-073",
+  "enunciado": "¿Cuál es la función principal del extensor largo del pulgar?",
+  "opciones": [
+   "Extensión de la interfalángica del pulgar",
+   "Protracción de la escápula y fijación contra el tórax",
+   "Elevación y retracción de la escápula",
+   "Flexión de la interfalángica distal del anular y meñique"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo del pulgar: extensión de la interfalángica del pulgar. Nervio: Interóseo posterior, C7, C8. Se explora extendiendo la punta del pulgar con la mano apoyada. Puede romperse tras fractura de Colles."
+ },
+ {
+  "id": "rn-ms-074",
+  "enunciado": "¿Qué nervio inerva el extensor corto del pulgar?",
+  "opciones": [
+   "Interóseo posterior",
+   "Subescapular inferior",
+   "Cubital",
+   "Toracodorsal"
+  ],
+  "correcta": 0,
+  "explicacion": "Forma con el abductor largo el borde radial de la tabaquera anatómica.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-075",
+  "enunciado": "¿Qué raíces inervan el extensor corto del pulgar?",
+  "opciones": [
+   "C7, C8",
+   "C6, C7",
+   "C5, C6, C7",
+   "C4, C5"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor corto del pulgar: Interóseo posterior, C7, C8. Forma con el abductor largo el borde radial de la tabaquera anatómica."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-076",
+  "enunciado": "¿Cuál es la función principal del extensor corto del pulgar?",
+  "opciones": [
+   "Extensión de la metacarpofalángica del pulgar",
+   "Elevación y retracción de la escápula",
+   "Pronación del antebrazo",
+   "Rotación externa del brazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor corto del pulgar: extensión de la metacarpofalángica del pulgar. Nervio: Interóseo posterior, C7, C8. Forma con el abductor largo el borde radial de la tabaquera anatómica."
+ },
+ {
+  "id": "rn-ms-077",
+  "enunciado": "¿Qué nervio inerva el extensor propio del índice?",
+  "opciones": [
+   "Interóseo posterior",
+   "Axilar",
+   "Accesorio espinal (XI)",
+   "Dorsal de la escápula"
+  ],
+  "correcta": 0,
+  "explicacion": "Último músculo inervado por el interóseo posterior: útil en EMG para confirmar la extensión distal de la lesión.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-078",
+  "enunciado": "¿Qué raíces inervan el extensor propio del índice?",
+  "opciones": [
+   "C7, C8",
+   "C5",
+   "C6, C7",
+   "C7, C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor propio del índice: Interóseo posterior, C7, C8. Último músculo inervado por el interóseo posterior: útil en EMG para confirmar la extensión distal de la lesión."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: extensores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-079",
+  "enunciado": "¿Cuál es la función principal del extensor propio del índice?",
+  "opciones": [
+   "Extensión del índice",
+   "Extensión de la metacarpofalángica del pulgar",
+   "Aducción, extensión y rotación interna del brazo",
+   "Protracción de la escápula y fijación contra el tórax"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor propio del índice: extensión del índice. Nervio: Interóseo posterior, C7, C8. Último músculo inervado por el interóseo posterior: útil en EMG para confirmar la extensión distal de la lesión."
+ }
+]

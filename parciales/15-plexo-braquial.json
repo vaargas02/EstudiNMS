@@ -1,0 +1,189 @@
+[
+ {
+  "id": "rn-plx-001",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De qué fascículo del plexo braquial sale el nervio axilar?",
+  "opciones": [
+   "Fascículo posterior",
+   "Fascículo lateral",
+   "Fascículo medial",
+   "Tronco superior"
+  ],
+  "correcta": 0,
+  "explicacion": "El fascículo posterior da axilar, radial, toracodorsal y subescapulares. Lesión del fascículo posterior: deltoides + extensores + dorsal ancho.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-002",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De qué fascículo sale el nervio radial?",
+  "opciones": [
+   "Fascículo posterior",
+   "Fascículo lateral",
+   "Fascículo medial",
+   "Tronco medio"
+  ],
+  "correcta": 0,
+  "explicacion": "Recibe fibras de C5 a T1 a través del fascículo posterior.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-003",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De qué fascículo sale el musculocutáneo?",
+  "opciones": [
+   "Fascículo lateral",
+   "Fascículo posterior",
+   "Fascículo medial",
+   "Tronco inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "El fascículo lateral da el musculocutáneo, la raíz lateral del mediano y el pectoral lateral.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-004",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De qué fascículo sale el nervio cubital?",
+  "opciones": [
+   "Fascículo medial",
+   "Fascículo lateral",
+   "Fascículo posterior",
+   "Tronco superior"
+  ],
+  "correcta": 0,
+  "explicacion": "El fascículo medial (C8-T1) da el cubital, la raíz medial del mediano, el cutáneo braquial medial y el antebraquial medial.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-005",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De dónde procede el nervio mediano?",
+  "opciones": [
+   "De los fascículos lateral y medial",
+   "Solo del fascículo medial",
+   "Del fascículo posterior",
+   "Del tronco superior"
+  ],
+  "correcta": 0,
+  "explicacion": "La raíz lateral (C6-C7) lleva sobre todo fibras sensitivas y para el pronador y el FRC; la medial (C8-T1), fibras para la musculatura intrínseca tenar.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-006",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De dónde sale el nervio supraescapular?",
+  "opciones": [
+   "Del tronco superior (C5-C6)",
+   "Del fascículo posterior",
+   "Del fascículo lateral",
+   "Directamente de la raíz C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Por eso se afecta en lesiones del tronco superior (Erb) pero no del fascículo posterior.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-007",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De dónde sale el nervio torácico largo?",
+  "opciones": [
+   "Directamente de las raíces C5, C6 y C7",
+   "Del tronco superior",
+   "Del fascículo posterior",
+   "Del fascículo medial"
+  ],
+  "correcta": 0,
+  "explicacion": "Al salir de las raíces, el serrato anterior ayuda a separar una radiculopatía de una lesión del plexo.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-008",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De dónde sale el nervio dorsal de la escápula?",
+  "opciones": [
+   "Directamente de la raíz C5",
+   "Del tronco superior",
+   "Del fascículo posterior",
+   "Del fascículo lateral"
+  ],
+  "correcta": 0,
+  "explicacion": "Romboides afectado + deltoides afectado = raíz C5. Romboides normal + deltoides afectado = tronco superior o más distal.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-009",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De dónde sale el nervio toracodorsal (dorsal ancho)?",
+  "opciones": [
+   "Fascículo posterior",
+   "Fascículo medial",
+   "Tronco inferior",
+   "Directamente de C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Rama del fascículo posterior, entre los dos subescapulares.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-010",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿De dónde sale el cutáneo antebraquial medial?",
+  "opciones": [
+   "Fascículo medial (C8-T1)",
+   "Nervio cubital",
+   "Nervio mediano",
+   "Fascículo posterior"
+  ],
+  "correcta": 0,
+  "explicacion": "Su territorio (borde cubital del antebrazo) NO es del cubital: se altera en lesiones C8-T1, del tronco inferior o del fascículo medial, y es normal en la neuropatía cubital.",
+  "imagen": "img/plexo-braquial.svg"
+ },
+ {
+  "id": "rn-plx-011",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo braquial",
+  "teoria": "plexo-braquial",
+  "enunciado": "¿Qué raíces forman el tronco inferior del plexo braquial?",
+  "opciones": [
+   "C8 y T1",
+   "C7",
+   "C5 y C6",
+   "C6 y C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Tronco superior C5-C6, medio C7, inferior C8-T1. Lesiones del tronco inferior: parálisis de Klumpke, tumor de Pancoast, desfiladero torácico neurogénico.",
+  "imagen": "img/plexo-braquial.svg"
+ }
+]

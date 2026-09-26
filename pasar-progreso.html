@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Pasar el progreso a la versión nueva</title>
+<style>
+  :root { color-scheme: light dark; --papel:#F1F4F7; --caja:#fff; --tinta:#15233C; --tenue:#5E6E86; --linea:#D9E1EA; --acento:#0E7C7B; }
+  @media (prefers-color-scheme: dark) { :root { --papel:#101827; --caja:#182235; --tinta:#E7EDF6; --tenue:#97A6BD; --linea:#2A3852; --acento:#3DB7B1; } }
+  body { margin:0; background:var(--papel); color:var(--tinta); font:16px/1.55 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,system-ui,sans-serif; }
+  main { max-width:560px; margin:0 auto; padding:24px 18px 60px; }
+  h1 { font-size:1.5rem; margin:0 0 4px; }
+  p.sub { color:var(--tenue); margin:0 0 22px; }
+  ol { padding-left:20px; } li { margin-bottom:10px; }
+  .caja { background:var(--caja); border:1px solid var(--linea); border-radius:16px; padding:18px; margin-bottom:16px; }
+  .btn { display:inline-flex; align-items:center; justify-content:center; min-height:48px; padding:0 22px; border-radius:999px;
+         border:0; background:var(--acento); color:#fff; font-weight:650; font-size:1rem; cursor:pointer; width:100%; }
+  .btn[disabled] { opacity:.4; cursor:default; }
+  label.file { position:relative; overflow:hidden; display:block; }
+  label.file input { position:absolute; inset:0; opacity:0; cursor:pointer; }
+  .estado { margin-top:14px; font-size:.95rem; }
+  .ok { color:var(--acento); } .mal { color:#CF3F2E; }
+  ul.det { font-size:.9rem; color:var(--tenue); margin:10px 0 0; padding-left:18px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Pasar el progreso a la versión nueva</h1>
+  <p class="sub">Convierte la copia que exportaste de la versión anterior de Raíz y nervio en un archivo que la versión nueva puede importar. Todo ocurre en este dispositivo: el archivo no se envía a ninguna parte.</p>
+
+  <div class="caja">
+    <ol>
+      <li>En la app <strong>antigua</strong>: Ajustes › Exportar progreso.</li>
+      <li>Aquí abajo, elige ese archivo.</li>
+      <li>Se descargará el archivo convertido.</li>
+      <li>En la app <strong>nueva</strong>: Ajustes › Importar progreso, y elige el archivo convertido.</li>
+    </ol>
+  </div>
+
+  <div class="caja">
+    <label class="file"><span class="btn">Elegir la copia antigua</span><input type="file" id="f" accept="application/json,.json"></label>
+    <div class="estado" id="e"></div>
+  </div>
+</main>
+<script>
+const MAPA = {"trapecio:nervio":"rn-ms-001","trapecio:funcion":"rn-ms-002","romboides:nervio":"rn-ms-003","romboides:raiz":"rn-ms-004","romboides:funcion":"rn-ms-005","serrato:nervio":"rn-ms-006","serrato:raiz":"rn-ms-007","serrato:funcion":"rn-ms-008","serrato:inv":"rn-ms-009","pectclav:nervio":"rn-ms-010","pectclav:raiz":"rn-ms-011","pectclav:funcion":"rn-ms-012","pectest:nervio":"rn-ms-013","pectest:raiz":"rn-ms-014","pectest:funcion":"rn-ms-015","supraesp:nervio":"rn-ms-016","supraesp:raiz":"rn-ms-017","supraesp:funcion":"rn-ms-018","supraesp:inv":"rn-ms-019","infraesp:nervio":"rn-ms-020","infraesp:raiz":"rn-ms-021","infraesp:funcion":"rn-ms-022","infraesp:inv":"rn-ms-023","subesc:nervio":"rn-ms-024","subesc:raiz":"rn-ms-025","subesc:funcion":"rn-ms-026","dorsalancho:nervio":"rn-ms-027","dorsalancho:raiz":"rn-ms-028","dorsalancho:funcion":"rn-ms-029","redmayor:nervio":"rn-ms-030","redmayor:raiz":"rn-ms-031","redmayor:funcion":"rn-ms-032","deltoides:nervio":"rn-ms-033","deltoides:raiz":"rn-ms-034","deltoides:funcion":"rn-ms-035","deltoides:inv":"rn-ms-036","redmenor:nervio":"rn-ms-037","redmenor:raiz":"rn-ms-038","redmenor:funcion":"rn-ms-039","biceps:nervio":"rn-ms-040","biceps:raiz":"rn-ms-041","biceps:funcion":"rn-ms-042","biceps:inv":"rn-ms-043","braquial:nervio":"rn-ms-044","braquial:raiz":"rn-ms-045","braquial:funcion":"rn-ms-046","triceps:nervio":"rn-ms-047","triceps:raiz":"rn-ms-048","triceps:funcion":"rn-ms-049","triceps:inv":"rn-ms-050","braquiorr:nervio":"rn-ms-051","braquiorr:raiz":"rn-ms-052","braquiorr:funcion":"rn-ms-053","braquiorr:inv":"rn-ms-054","erlc:nervio":"rn-ms-055","erlc:raiz":"rn-ms-056","erlc:funcion":"rn-ms-057","supinador:nervio":"rn-ms-058","supinador:raiz":"rn-ms-059","supinador:funcion":"rn-ms-060","ecc:nervio":"rn-ms-061","ecc:raiz":"rn-ms-062","ecc:funcion":"rn-ms-063","edc:nervio":"rn-ms-064","edc:raiz":"rn-ms-065","edc:funcion":"rn-ms-066","edc:inv":"rn-ms-067","alp:nervio":"rn-ms-068","alp:raiz":"rn-ms-069","alp:funcion":"rn-ms-070","elp:nervio":"rn-ms-071","elp:raiz":"rn-ms-072","elp:funcion":"rn-ms-073","ecp:nervio":"rn-ms-074","ecp:raiz":"rn-ms-075","ecp:funcion":"rn-ms-076","eip:nervio":"rn-ms-077","eip:raiz":"rn-ms-078","eip:funcion":"rn-ms-079","pronred:nervio":"rn-ms-080","pronred:raiz":"rn-ms-081","pronred:funcion":"rn-ms-082","pronred:inv":"rn-ms-083","frc:nervio":"rn-ms-084","frc:raiz":"rn-ms-085","frc:funcion":"rn-ms-086","fsd:nervio":"rn-ms-087","fsd:raiz":"rn-ms-088","fsd:funcion":"rn-ms-089","fdp23:nervio":"rn-ms-090","fdp23:raiz":"rn-ms-091","fdp23:funcion":"rn-ms-092","flp:nervio":"rn-ms-093","flp:raiz":"rn-ms-094","flp:funcion":"rn-ms-095","flp:inv":"rn-ms-096","pcuad:nervio":"rn-ms-097","pcuad:raiz":"rn-ms-098","pcuad:funcion":"rn-ms-099","acp:nervio":"rn-ms-100","acp:raiz":"rn-ms-101","acp:funcion":"rn-ms-102","acp:inv":"rn-ms-103","oponente:nervio":"rn-ms-104","oponente:raiz":"rn-ms-105","oponente:funcion":"rn-ms-106","lumb12:nervio":"rn-ms-107","lumb12:raiz":"rn-ms-108","lumb12:funcion":"rn-ms-109","fcc:nervio":"rn-ms-110","fcc:raiz":"rn-ms-111","fcc:funcion":"rn-ms-112","fdp45:nervio":"rn-ms-113","fdp45:raiz":"rn-ms-114","fdp45:funcion":"rn-ms-115","adm:nervio":"rn-ms-116","adm:raiz":"rn-ms-117","adm:funcion":"rn-ms-118","adm:inv":"rn-ms-119","pid:nervio":"rn-ms-120","pid:raiz":"rn-ms-121","pid:funcion":"rn-ms-122","pid:inv":"rn-ms-123","intpalm:nervio":"rn-ms-124","intpalm:raiz":"rn-ms-125","intpalm:funcion":"rn-ms-126","aductpulg:nervio":"rn-ms-127","aductpulg:raiz":"rn-ms-128","aductpulg:funcion":"rn-ms-129","aductpulg:inv":"rn-ms-130","lumb34:nervio":"rn-ms-131","lumb34:raiz":"rn-ms-132","lumb34:funcion":"rn-ms-133","iliopsoas:nervio":"rn-mi-001","iliopsoas:raiz":"rn-mi-002","iliopsoas:funcion":"rn-mi-003","iliopsoas:inv":"rn-mi-004","sartorio:nervio":"rn-mi-005","sartorio:raiz":"rn-mi-006","sartorio:funcion":"rn-mi-007","cuadriceps:nervio":"rn-mi-008","cuadriceps:raiz":"rn-mi-009","cuadriceps:funcion":"rn-mi-010","cuadriceps:inv":"rn-mi-011","aductlargo:nervio":"rn-mi-012","aductlargo:raiz":"rn-mi-013","aductlargo:funcion":"rn-mi-014","aductlargo:inv":"rn-mi-015","gracil:nervio":"rn-mi-016","gracil:raiz":"rn-mi-017","gracil:funcion":"rn-mi-018","aductmayor:nervio":"rn-mi-019","aductmayor:raiz":"rn-mi-020","aductmayor:funcion":"rn-mi-021","gluteomedio:nervio":"rn-mi-022","gluteomedio:raiz":"rn-mi-023","gluteomedio:funcion":"rn-mi-024","gluteomedio:inv":"rn-mi-025","tfl:nervio":"rn-mi-026","tfl:raiz":"rn-mi-027","tfl:funcion":"rn-mi-028","gluteomayor:nervio":"rn-mi-029","gluteomayor:raiz":"rn-mi-030","gluteomayor:funcion":"rn-mi-031","gluteomayor:inv":"rn-mi-032","semis:nervio":"rn-mi-033","semis:raiz":"rn-mi-034","semis:funcion":"rn-mi-035","bflarga:nervio":"rn-mi-036","bflarga:raiz":"rn-mi-037","bflarga:funcion":"rn-mi-038","bfcorta:nervio":"rn-mi-039","bfcorta:raiz":"rn-mi-040","bfcorta:funcion":"rn-mi-041","tibant:nervio":"rn-mi-042","tibant:raiz":"rn-mi-043","tibant:funcion":"rn-mi-044","tibant:inv":"rn-mi-045","eldg:nervio":"rn-mi-046","eldg:raiz":"rn-mi-047","eldg:funcion":"rn-mi-048","eldg:inv":"rn-mi-049","eld:nervio":"rn-mi-050","eld:raiz":"rn-mi-051","eld:funcion":"rn-mi-052","pedio:nervio":"rn-mi-053","pedio:raiz":"rn-mi-054","pedio:funcion":"rn-mi-055","peroneos:nervio":"rn-mi-056","peroneos:raiz":"rn-mi-057","peroneos:funcion":"rn-mi-058","peroneos:inv":"rn-mi-059","tibpost:nervio":"rn-mi-060","tibpost:raiz":"rn-mi-061","tibpost:funcion":"rn-mi-062","tibpost:inv":"rn-mi-063","gastro:nervio":"rn-mi-064","gastro:raiz":"rn-mi-065","gastro:funcion":"rn-mi-066","gastro:inv":"rn-mi-067","soleo:nervio":"rn-mi-068","soleo:raiz":"rn-mi-069","soleo:funcion":"rn-mi-070","fld:nervio":"rn-mi-071","fld:raiz":"rn-mi-072","fld:funcion":"rn-mi-073","fldg:nervio":"rn-mi-074","fldg:raiz":"rn-mi-075","fldg:funcion":"rn-mi-076","abdhallux:nervio":"rn-mi-077","abdhallux:raiz":"rn-mi-078","abdhallux:funcion":"rn-mi-079","ecm:nervio":"rn-ax-001","ecm:funcion":"rn-ax-002","diafragma:nervio":"rn-ax-003","diafragma:raiz":"rn-ax-004","diafragma:funcion":"rn-ax-005","diafragma:inv":"rn-ax-006","flexcuello:nervio":"rn-ax-007","flexcuello:funcion":"rn-ax-008","paraesp:nervio":"rn-ax-009","paraesp:funcion":"rn-ax-010","rectoabd:nervio":"rn-ax-011","rectoabd:funcion":"rn-ax-012","orbocular:nervio":"rn-ax-013","orbocular:funcion":"rn-ax-014","orbocular:inv":"rn-ax-015","orbboca:nervio":"rn-ax-016","orbboca:funcion":"rn-ax-017","masetero:nervio":"rn-ax-018","masetero:funcion":"rn-ax-019","lengua:nervio":"rn-ax-020","lengua:funcion":"rn-ax-021","lengua:inv":"rn-ax-022","elevpalp:nervio":"rn-ax-023","elevpalp:funcion":"rn-ax-024","elevpalp:inv":"rn-ax-025","rectolat:nervio":"rn-ax-026","rectolat:funcion":"rn-ax-027","oblsup:nervio":"rn-ax-028","oblsup:funcion":"rn-ax-029","velo:nervio":"rn-ax-030","velo:funcion":"rn-ax-031","r_bic":"rn-ref-001","r_estilo":"rn-ref-002","r_tric":"rn-ref-003","r_flexded":"rn-ref-004","r_rot":"rn-ref-005","r_adu":"rn-ref-006","r_isq":"rn-ref-007","r_aqu":"rn-ref-008","r_abd":"rn-ref-009","r_anal":"rn-ref-010","r_crem":"rn-ref-011","r_mand":"rn-ref-012","mio_lvl_C5":"rn-mio-001","mio_mov_C5":"rn-mio-002","mio_lvl_C6":"rn-mio-003","mio_mov_C6":"rn-mio-004","mio_lvl_C7":"rn-mio-005","mio_mov_C7":"rn-mio-006","mio_lvl_C8":"rn-mio-007","mio_mov_C8":"rn-mio-008","mio_lvl_T1":"rn-mio-009","mio_mov_T1":"rn-mio-010","mio_lvl_L2":"rn-mio-011","mio_mov_L2":"rn-mio-012","mio_lvl_L3":"rn-mio-013","mio_mov_L3":"rn-mio-014","mio_lvl_L4":"rn-mio-015","mio_mov_L4":"rn-mio-016","mio_lvl_L5":"rn-mio-017","mio_mov_L5":"rn-mio-018","mio_lvl_S1":"rn-mio-019","mio_mov_S1":"rn-mio-020","p_axilar":"rn-plx-001","p_radial":"rn-plx-002","p_mc":"rn-plx-003","p_cub":"rn-plx-004","p_med":"rn-plx-005","p_supraesc":"rn-plx-006","p_toraclargo":"rn-plx-007","p_dorsesc":"rn-plx-008","p_toracodorsal":"rn-plx-009","p_cabm":"rn-plx-010","p_troncinf":"rn-plx-011","p_femoral":"rn-plx-012","p_obt":"rn-plx-013","p_fcl":"rn-plx-014","p_ciatico":"rn-plx-015","p_glsup":"rn-plx-016","p_glinf":"rn-plx-017","p_pud":"rn-plx-018","p_divciat":"rn-plx-019","dk_img_C2":"rn-der-001","dk_desc_C2":"rn-der-002","dk_img_C3":"rn-der-003","dk_desc_C3":"rn-der-004","dk_img_C4":"rn-der-005","dk_desc_C4":"rn-der-006","dk_img_C5":"rn-der-007","dk_desc_C5":"rn-der-008","dk_img_C6":"rn-der-009","dk_desc_C6":"rn-der-010","dk_img_C7":"rn-der-011","dk_desc_C7":"rn-der-012","dk_img_C8":"rn-der-013","dk_desc_C8":"rn-der-014","dk_img_T1":"rn-der-015","dk_desc_T1":"rn-der-016","dk_img_T2":"rn-der-017","dk_desc_T2":"rn-der-018","dk_img_T3":"rn-der-019","dk_desc_T3":"rn-der-020","dk_img_T4":"rn-der-021","dk_desc_T4":"rn-der-022","dk_img_T5":"rn-der-023","dk_desc_T5":"rn-der-024","dk_img_T6":"rn-der-025","dk_desc_T6":"rn-der-026","dk_img_T7":"rn-der-027","dk_desc_T7":"rn-der-028","dk_img_T8":"rn-der-029","dk_desc_T8":"rn-der-030","dk_img_T9":"rn-der-031","dk_desc_T9":"rn-der-032","dk_img_T10":"rn-der-033","dk_desc_T10":"rn-der-034","dk_img_T11":"rn-der-035","dk_desc_T11":"rn-der-036","dk_img_T12":"rn-der-037","dk_desc_T12":"rn-der-038","dk_img_L1":"rn-der-039","dk_desc_L1":"rn-der-040","dk_img_L2":"rn-der-041","dk_desc_L2":"rn-der-042","dk_img_L3":"rn-der-043","dk_desc_L3":"rn-der-044","dk_img_L4":"rn-der-045","dk_desc_L4":"rn-der-046","dk_img_L5":"rn-der-047","dk_desc_L5":"rn-der-048","dk_img_S1":"rn-der-049","dk_desc_S1":"rn-der-050","dk_img_S2":"rn-der-051","dk_desc_S2":"rn-der-052","dk_img_S3":"rn-der-053","dk_desc_S3":"rn-der-054","dk_img_S4-5":"rn-der-055","dk_desc_S4-5":"rn-der-056","dz_c6":"rn-der-057","dz_c7":"rn-der-058","dz_c8":"rn-der-059","dz_l4":"rn-der-060","dz_l5":"rn-der-061","dz_s1":"rn-der-062","dz_t4":"rn-der-063","dz_t10":"rn-der-064","dz_l1":"rn-der-065","ci_medpalm":"rn-cut-001","ci_cubpalm":"rn-cut-002","ci_raddors":"rn-cut-003","ci_cubdors":"rn-cut-004","ci_meddors":"rn-cut-005","ci_safeno":"rn-cut-006","ci_perosup":"rn-cut-007","ci_peroprof":"rn-cut-008","ci_sural":"rn-cut-009","cd_axilar":"rn-cut-010","cd_cabl":"rn-cut-011","cd_cabm":"rn-cut-012","cd_fcl":"rn-cut-013","cd_obt":"rn-cut-014","cd_femant":"rn-cut-015","cd_plantar":"rn-cut-016","cd_palmmed":"rn-cut-017","cd_cfp":"rn-cut-018","cd_cubdors":"rn-cut-019","l_pie_l5":"rn-loc-001","l_pie_per":"rn-loc-002","l_pie_ciat":"rn-loc-003","l_radial_canal":"rn-loc-004","l_nip":"rn-loc-005","l_c7":"rn-loc-006","l_c8":"rn-loc-007","l_cub_codo":"rn-loc-008","l_guyon":"rn-loc-009","l_tc":"rn-loc-010","l_nia":"rn-loc-011","l_tronco_sup":"rn-loc-012","l_l34":"rn-loc-013","l_femoral":"rn-loc-014","l_meralgia":"rn-loc-015","l_serrato":"rn-loc-016","l_espinogl":"rn-loc-017","l_axilar":"rn-loc-018","l_s1":"rn-loc-019","l_tarso":"rn-loc-020","e_axonal":"rn-emg-001","e_desm":"rn-emg-002","e_uniforme":"rn-emg-003","e_cmt":"rn-emg-004","e_snap_rad":"rn-emg-005","e_snap_plex":"rn-emg-006","e_paraesp":"rn-emg-007","e_fib_tiempo":"rn-emg-008","e_walleriana":"rn-emg-009","e_fib":"rn-emg-010","e_neuro":"rn-emg-011","e_mio":"rn-emg-012","e_recl":"rn-emg-013","e_miotonia":"rn-emg-014","e_pompe":"rn-emg-015","e_drc":"rn-emg-016","e_mioquimia":"rn-emg-017","e_neuromio":"rn-emg-018","e_awaji":"rn-emg-019","e_ela_snap":"rn-emg-020","e_rns":"rn-emg-021","e_lems":"rn-emg-022","e_sfemg":"rn-emg-023","e_botul":"rn-emg-024","e_frio":"rn-emg-025","e_f_gbs":"rn-emg-026","e_sural":"rn-emg-027","e_h":"rn-emg-028","e_fvsh":"rn-emg-029","e_cubcodo":"rn-emg-030","e_stc":"rn-emg-031","e_cortic":"rn-emg-032","e_mio_fib":"rn-emg-033","e_ibm":"rn-emg-034","e_mcmanis":"rn-emg-035","e_cim":"rn-emg-036","e_aman":"rn-emg-037","e_placa":"rn-emg-038","e_radic":"rn-emg-039"};
+const INTERVALOS = [1, 3, 7, 14, 30, 60];
+
+function hoy(off) {
+  const d = new Date();
+  if (off) d.setDate(d.getDate() + off);
+  const z = new Date(d.getTime() - d.getTimezoneOffset() * 60000);
+  return z.toISOString().slice(0, 10);
+}
+function convertir(viejo) {
+  const s = viejo.state || viejo;
+  if (!s || !s.cards) throw new Error('no-es-copia');
+  const nuevo = {
+    esquema: 1,
+    semilla: (Math.random() * 4294967295) >>> 0,
+    creado: hoy(0),
+    tarjetas: {},
+    dias: {},
+    maduras: { vistas: 0, aciertos: 0 },
+    ajustes: {
+      nuevasPorDia: (s.settings && s.settings.perDay) || null,
+      topeRepasos: null,
+      tema: (s.settings && s.settings.theme === 'auto' ? 'auto' : (s.settings && s.settings.theme)) || 'auto',
+      desactivados: []
+    }
+  };
+  let pasadas = 0, sinEquivalente = 0;
+  for (const idViejo in s.cards) {
+    const destino = MAPA[idViejo];
+    if (!destino) { sinEquivalente++; continue; }
+    const c = s.cards[idViejo];
+    const nivel = Math.max(0, Math.min(INTERVALOS.length, c.l || 0));
+    const intervalo = nivel === 0 ? 1 : INTERVALOS[nivel - 1];
+    const vistas = (c.r || 0) + (c.w || 0);
+    // La facilidad se reconstruye a partir de los fallos acumulados.
+    const fac = Math.max(1.3, Math.min(3.0, 2.5 - 0.2 * (c.w || 0) + 0.05 * Math.max(0, (c.r || 0) - 1)));
+    const t = nuevo.tarjetas[destino] || (nuevo.tarjetas[destino] = {
+      int: 0, fac: 2.5, venc: null, reps: 0, lapsus: 0, vistas: 0, aciertos: 0,
+      fase: 'nueva', menos: false, oculta: false, avisado: 0, maxInt: 0, marcada: false
+    });
+    // Si dos tarjetas antiguas caen en la misma nueva, se queda la más avanzada.
+    if (vistas + nivel * 10 < t.vistas + (t.reps || 0) * 10) continue;
+    t.int = intervalo;
+    t.fac = fac;
+    t.venc = c.due || hoy(1);
+    t.reps = nivel;
+    t.lapsus = Math.max(0, (c.w || 0) - 1);
+    t.vistas = vistas;
+    t.aciertos = c.r || 0;
+    t.fase = nivel > 0 ? 'repaso' : 'aprendiendo';
+    t.maxInt = intervalo;
+    pasadas++;
+  }
+  const hist = s.history || {};
+  for (const f in hist) {
+    const h = hist[f] || {};
+    nuevo.dias[f] = { nuevas: 0, repasos: h.n || 0, aciertos: h.ok || 0 };
+  }
+  return { nuevo, pasadas, sinEquivalente, dias: Object.keys(nuevo.dias).length };
+}
+
+document.getElementById('f').onchange = async ev => {
+  const e = document.getElementById('e');
+  const fich = ev.target.files[0];
+  if (!fich) return;
+  try {
+    const datos = JSON.parse(await fich.text());
+    const r = convertir(datos);
+    const blob = new Blob([JSON.stringify(r.nuevo)], { type: 'application/json' });
+    const a = document.createElement('a');
+    a.href = URL.createObjectURL(blob);
+    a.download = 'raiz-y-nervio-convertido-' + hoy(0) + '.json';
+    document.body.appendChild(a); a.click(); a.remove();
+    e.className = 'estado ok';
+    e.innerHTML = '<strong>Listo.</strong> Se ha descargado el archivo convertido.<ul class="det">' +
+      '<li>' + r.pasadas + ' tarjetas con su historial</li>' +
+      '<li>' + r.dias + ' días de racha conservados</li>' +
+      (r.sinEquivalente ? '<li>' + r.sinEquivalente + ' tarjetas antiguas sin equivalente (preguntas retiradas): empiezan de cero</li>' : '') +
+      '</ul>';
+  } catch (err) {
+    e.className = 'estado mal';
+    e.textContent = 'Ese archivo no parece una copia de la versión anterior de Raíz y nervio. Exporta de nuevo desde Ajustes › Exportar progreso.';
+  }
+  ev.target.value = '';
+};
+</script>
+</body>
+</html>

@@ -1,0 +1,305 @@
+[
+ {
+  "id": "rn-mi-042",
+  "enunciado": "¿Qué nervio inerva el tibial anterior?",
+  "opciones": [
+   "Peroneo profundo",
+   "Femoral y ramas del plexo lumbar",
+   "Obturador",
+   "Obturador y ciático (división tibial)"
+  ],
+  "correcta": 0,
+  "explicacion": "Músculo clave L4 de la ISNCSCI. Afectado tanto en radiculopatía L4-L5 como en neuropatía peroneal (pie caído).",
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-043",
+  "enunciado": "¿Qué raíces inervan el tibial anterior?",
+  "opciones": [
+   "L4",
+   "L5",
+   "L2, L3, L4",
+   "L5, S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Tibial anterior: Peroneo profundo, L4. Raíces accesorias: L5. Músculo clave L4 de la ISNCSCI. Afectado tanto en radiculopatía L4-L5 como en neuropatía peroneal (pie caído)."
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-044",
+  "enunciado": "¿Cuál es la función principal del tibial anterior?",
+  "opciones": [
+   "Dorsiflexión del tobillo",
+   "Flexión plantar del tobillo",
+   "Flexión de la cadera",
+   "Flexión plantar del tobillo con la rodilla flexionada"
+  ],
+  "correcta": 0,
+  "explicacion": "Tibial anterior: dorsiflexión del tobillo. Nervio: Peroneo profundo, L4. Músculo clave L4 de la ISNCSCI. Afectado tanto en radiculopatía L4-L5 como en neuropatía peroneal (pie caído)."
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-045",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: dorsiflexión del tobillo?",
+  "opciones": [
+   "Tibial anterior",
+   "Cuádriceps",
+   "Sartorio",
+   "Sóleo"
+  ],
+  "correcta": 0,
+  "explicacion": "Tibial anterior: Peroneo profundo, L4. Músculo clave L4 de la ISNCSCI. Afectado tanto en radiculopatía L4-L5 como en neuropatía peroneal (pie caído)."
+ },
+ {
+  "id": "rn-mi-046",
+  "enunciado": "¿Qué nervio inerva el extensor largo del dedo gordo?",
+  "opciones": [
+   "Peroneo profundo",
+   "Femoral y ramas del plexo lumbar",
+   "Obturador y ciático (división tibial)",
+   "Glúteo superior"
+  ],
+  "correcta": 0,
+  "explicacion": "Músculo clave L5 de la ISNCSCI. El peroneo profundo inerva también el tibial anterior y el extensor largo de los dedos. Su debilidad aislada, con inversión conservada, orienta a lesión peroneal más que a L5.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-047",
+  "enunciado": "¿Qué raíces inervan el extensor largo del dedo gordo?",
+  "opciones": [
+   "L5",
+   "L3, L4",
+   "S1, S2",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo del dedo gordo: Peroneo profundo, L5. Raíces accesorias: S1. Músculo clave L5 de la ISNCSCI."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-048",
+  "enunciado": "¿Cuál es la función principal del extensor largo del dedo gordo?",
+  "opciones": [
+   "Extensión del dedo gordo",
+   "Dorsiflexión del tobillo",
+   "Abducción del dedo gordo",
+   "Flexión de los dedos del pie"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo del dedo gordo: extensión del dedo gordo. Nervio: Peroneo profundo, L5. Músculo clave L5 de la ISNCSCI."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-049",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: extensión del dedo gordo?",
+  "opciones": [
+   "Extensor largo del dedo gordo",
+   "Bíceps femoral (cabeza larga)",
+   "Aductores largo y corto",
+   "Tensor de la fascia lata"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo del dedo gordo: Peroneo profundo, L5. Músculo clave L5 de la ISNCSCI."
+ },
+ {
+  "id": "rn-mi-050",
+  "enunciado": "¿Qué nervio inerva el extensor largo de los dedos?",
+  "opciones": [
+   "Peroneo profundo",
+   "Femoral y ramas del plexo lumbar",
+   "Obturador y ciático (división tibial)",
+   "Obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Inervado por el peroneo profundo junto al tibial anterior y el extensor del dedo gordo.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-051",
+  "enunciado": "¿Qué raíces inervan el extensor largo de los dedos?",
+  "opciones": [
+   "L5, S1",
+   "L3, L4",
+   "L4, L5",
+   "L2, L3, L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo de los dedos: Peroneo profundo, L5, S1. Inervado por el peroneo profundo junto al tibial anterior y el extensor del dedo gordo."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-052",
+  "enunciado": "¿Cuál es la función principal del extensor largo de los dedos?",
+  "opciones": [
+   "Extensión de los dedos del pie",
+   "Flexión, abducción y rotación externa de la cadera",
+   "Flexión plantar del tobillo",
+   "Flexión de la cadera"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor largo de los dedos: extensión de los dedos del pie. Nervio: Peroneo profundo, L5, S1. Inervado por el peroneo profundo junto al tibial anterior y el extensor del dedo gordo."
+ },
+ {
+  "id": "rn-mi-053",
+  "enunciado": "¿Qué nervio inerva el extensor corto de los dedos (pedio)?",
+  "opciones": [
+   "Peroneo profundo",
+   "Femoral",
+   "Obturador",
+   "Obturador y ciático (división tibial)"
+  ],
+  "correcta": 0,
+  "explicacion": "Registro habitual de la conducción motora peroneal.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-054",
+  "enunciado": "¿Qué raíces inervan el extensor corto de los dedos (pedio)?",
+  "opciones": [
+   "L5, S1",
+   "L5",
+   "S1",
+   "S1, S2"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor corto de los dedos (pedio): Peroneo profundo, L5, S1. Registro habitual de la conducción motora peroneal."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-055",
+  "enunciado": "¿Cuál es la función principal del extensor corto de los dedos (pedio)?",
+  "opciones": [
+   "Extensión de los dedos (músculo del dorso del pie)",
+   "Aducción de la cadera y flexión de la rodilla",
+   "Flexión de los dedos del pie",
+   "Flexión plantar del tobillo con la rodilla flexionada"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensor corto de los dedos (pedio): extensión de los dedos (músculo del dorso del pie). Nervio: Peroneo profundo, L5, S1. Registro habitual de la conducción motora peroneal."
+ },
+ {
+  "id": "rn-mi-056",
+  "enunciado": "¿Qué nervio inerva el peroneos largo y corto?",
+  "opciones": [
+   "Peroneo superficial",
+   "Femoral",
+   "Obturador y ciático (división tibial)",
+   "Obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "El peroneo superficial da la motora de los peroneos y la sensibilidad del dorso del pie y cara anterolateral de la pierna.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-057",
+  "enunciado": "¿Qué raíces inervan el peroneos largo y corto?",
+  "opciones": [
+   "L5, S1",
+   "L2, L3",
+   "L4, L5",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Peroneos largo y corto: Peroneo superficial, L5, S1. El peroneo superficial da la motora de los peroneos y la sensibilidad del dorso del pie y cara anterolateral de la pierna."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-058",
+  "enunciado": "¿Cuál es la función principal del peroneos largo y corto?",
+  "opciones": [
+   "Eversión del pie",
+   "Extensión de los dedos del pie",
+   "Aducción de la cadera",
+   "Flexión de la cadera"
+  ],
+  "correcta": 0,
+  "explicacion": "Peroneos largo y corto: eversión del pie. Nervio: Peroneo superficial, L5, S1. El peroneo superficial da la motora de los peroneos y la sensibilidad del dorso del pie y cara anterolateral de la pierna."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna anterolateral",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-059",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: eversión del pie?",
+  "opciones": [
+   "Peroneos largo y corto",
+   "Cuádriceps",
+   "Extensor largo de los dedos",
+   "Gastrocnemio (medial y lateral)"
+  ],
+  "correcta": 0,
+  "explicacion": "Peroneos largo y corto: Peroneo superficial, L5, S1. El peroneo superficial da la motora de los peroneos y la sensibilidad del dorso del pie y cara anterolateral de la pierna."
+ }
+]

@@ -1,32 +1,52 @@
-// Raíz y nervio: service worker (cache-first, offline total)
-const CACHE = 'raiz-nervio-v1.2.0';
-const FILES = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './apple-touch-icon.png'];
+/* Sube VERSION cada vez que despliegues cambios.
+   Tiene que coincidir con app.versionCache en config.json (validar.py lo comprueba). */
+const VERSION = 1;
+const CACHE = 'estudio-v' + VERSION;
+
+const BASICOS = [
+  './', './index.html', './estilos.css', './motor.js',
+  './config.json', './contenido.json', './teoria.json',
+  './manifest.json', './icono-192.png', './icono-512.png'
+];
+
 self.addEventListener('install', e => {
-  e.waitUntil(caches.open(CACHE).then(async c => {
-    await c.addAll(FILES.map(f => new Request(f, { cache: 'reload' })));
-    // imágenes de músculos (opcionales)
-    try {
-      const r = await fetch('./img/index.json', { cache: 'reload' });
-      if (r.ok) {
-        await c.put('./img/index.json', r.clone());
-        const idx = await r.json();
-        const files = [...new Set(Object.values(idx).map(e => './' + e.file))];
-        await Promise.all(files.map(f => c.add(new Request(f, { cache: 'reload' })).catch(() => {})));
-      }
-    } catch (e) {}
-  }).then(() => self.skipWaiting()));
+  e.waitUntil(
+    caches.open(CACHE)
+      .then(c => Promise.all(BASICOS.map(u => c.add(u).catch(() => null))))
+  );
 });
+
 self.addEventListener('activate', e => {
-  e.waitUntil(caches.keys().then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k)))).then(() => self.clients.claim()));
+  e.waitUntil(
+    caches.keys()
+      .then(ks => Promise.all(ks.filter(k => k !== CACHE).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
+  );
 });
+
+self.addEventListener('message', e => { if (e.data === 'saltar') self.skipWaiting(); });
+
 self.addEventListener('fetch', e => {
   if (e.request.method !== 'GET') return;
+  const url = new URL(e.request.url);
+  if (url.origin !== location.origin) return;
+
+  // Los datos se piden a la red primero: así ves el contenido nuevo sin esperar.
+  const esDatos = /\.json(\?|$)/.test(url.pathname + url.search);
+  if (esDatos) {
+    e.respondWith(
+      fetch(e.request)
+        .then(r => { const c = r.clone(); caches.open(CACHE).then(k => k.put(e.request, c)); return r; })
+        .catch(() => caches.match(e.request, { ignoreSearch: true }))
+    );
+    return;
+  }
+
   e.respondWith(
-    caches.match(e.request, { ignoreSearch: true }).then(hit => hit || fetch(e.request).then(res => {
-      if (res.ok && new URL(e.request.url).origin === location.origin) {
-        const copy = res.clone(); caches.open(CACHE).then(c => c.put(e.request, copy));
-      }
+    caches.match(e.request).then(r => r || fetch(e.request).then(res => {
+      const c = res.clone();
+      caches.open(CACHE).then(k => k.put(e.request, c));
       return res;
-    }).catch(() => e.request.mode === 'navigate' ? caches.match('./index.html') : undefined))
+    }).catch(() => caches.match('./index.html')))
   );
 });

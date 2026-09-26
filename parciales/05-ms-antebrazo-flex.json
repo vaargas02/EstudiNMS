@@ -1,0 +1,438 @@
+[
+ {
+  "id": "rn-ms-080",
+  "enunciado": "¿Qué nervio inerva el pronador redondo?",
+  "opciones": [
+   "Mediano",
+   "Dorsal de la escápula",
+   "Cubital",
+   "Subescapular inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Primer músculo del mediano bajo el codo. Afectado en lesiones proximales del mediano y en C6-C7; preservado en el túnel carpiano. Útil en EMG de radiculopatía C6-C7.",
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano"
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-081",
+  "enunciado": "¿Qué raíces inervan el pronador redondo?",
+  "opciones": [
+   "C6, C7",
+   "C4, C5",
+   "C5, C6",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Pronador redondo: Mediano, C6, C7. Primer músculo del mediano bajo el codo. Afectado en lesiones proximales del mediano y en C6-C7; preservado en el túnel carpiano. Útil en EMG de radiculopatía C6-C7."
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-082",
+  "enunciado": "¿Cuál es la función principal del pronador redondo?",
+  "opciones": [
+   "Pronación del antebrazo",
+   "Extensión de la interfalángica del pulgar",
+   "Abducción del pulgar en el plano de la palma",
+   "Flexión de las interfalángicas proximales"
+  ],
+  "correcta": 0,
+  "explicacion": "Pronador redondo: pronación del antebrazo. Nervio: Mediano, C6, C7. Primer músculo del mediano bajo el codo. Afectado en lesiones proximales del mediano y en C6-C7; preservado en el túnel carpiano. Útil en EMG de radiculopatía C6-C7."
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-083",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: pronación del antebrazo?",
+  "opciones": [
+   "Pronador redondo",
+   "Supinador",
+   "Abductor del meñique",
+   "Abductor corto del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Pronador redondo: Mediano, C6, C7. Primer músculo del mediano bajo el codo. Afectado en lesiones proximales del mediano y en C6-C7; preservado en el túnel carpiano. Útil en EMG de radiculopatía C6-C7."
+ },
+ {
+  "id": "rn-ms-084",
+  "enunciado": "¿Qué nervio inerva el flexor radial del carpo?",
+  "opciones": [
+   "Mediano",
+   "Pectorales lateral y medial",
+   "Accesorio espinal (XI)",
+   "Toracodorsal"
+  ],
+  "correcta": 0,
+  "explicacion": "Útil para distinguir radiculopatía C7 (FRC y tríceps afectados) de una lesión radial (FRC normal).",
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-085",
+  "enunciado": "¿Qué raíces inervan el flexor radial del carpo?",
+  "opciones": [
+   "C6, C7",
+   "T1",
+   "C7, C8, T1",
+   "C4, C5"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor radial del carpo: Mediano, C6, C7. Útil para distinguir radiculopatía C7 (FRC y tríceps afectados) de una lesión radial (FRC normal)."
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-086",
+  "enunciado": "¿Cuál es la función principal del flexor radial del carpo?",
+  "opciones": [
+   "Flexión de la muñeca con desviación radial",
+   "Aducción de los dedos",
+   "Pronación del antebrazo",
+   "Abducción del brazo (15–90°)"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor radial del carpo: flexión de la muñeca con desviación radial. Nervio: Mediano, C6, C7. Útil para distinguir radiculopatía C7 (FRC y tríceps afectados) de una lesión radial (FRC normal)."
+ },
+ {
+  "id": "rn-ms-087",
+  "enunciado": "¿Qué nervio inerva el flexor superficial de los dedos?",
+  "opciones": [
+   "Mediano",
+   "Torácico largo",
+   "Supraescapular",
+   "Musculocutáneo"
+  ],
+  "correcta": 0,
+  "explicacion": "Se aísla sujetando los demás dedos en extensión y pidiendo flexionar uno solo en la IFP.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-088",
+  "enunciado": "¿Qué raíces inervan el flexor superficial de los dedos?",
+  "opciones": [
+   "C7, C8, T1",
+   "C6, C7, C8",
+   "C5",
+   "C5, C6"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor superficial de los dedos: Mediano, C7, C8, T1. Se aísla sujetando los demás dedos en extensión y pidiendo flexionar uno solo en la IFP."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-089",
+  "enunciado": "¿Cuál es la función principal del flexor superficial de los dedos?",
+  "opciones": [
+   "Flexión de las interfalángicas proximales",
+   "Flexión del codo y supinación del antebrazo",
+   "Extensión de la interfalángica del pulgar",
+   "Extensión del índice"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor superficial de los dedos: flexión de las interfalángicas proximales. Nervio: Mediano, C7, C8, T1. Se aísla sujetando los demás dedos en extensión y pidiendo flexionar uno solo en la IFP."
+ },
+ {
+  "id": "rn-ms-090",
+  "enunciado": "¿Qué nervio inerva el flexor profundo de los dedos (índice y medio)?",
+  "opciones": [
+   "Interóseo anterior",
+   "Supraescapular",
+   "Dorsal de la escápula",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "Con el flexor largo del pulgar forma el signo del «OK»: en la lesión del interóseo anterior el círculo pulgar-índice queda en «pico de pato». El interóseo anterior es motor puro.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-091",
+  "enunciado": "¿Qué raíces inervan el flexor profundo de los dedos (índice y medio)?",
+  "opciones": [
+   "C7, C8",
+   "C5",
+   "C7, C8, T1",
+   "C5, C6"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor profundo de los dedos (índice y medio): Interóseo anterior, C7, C8. Con el flexor largo del pulgar forma el signo del «OK»: en la lesión del interóseo anterior el círculo pulgar-índice queda en «pico de pato». El interóseo anterior es motor puro."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-092",
+  "enunciado": "¿Cuál es la función principal del flexor profundo de los dedos (índice y medio)?",
+  "opciones": [
+   "Flexión de la interfalángica distal del índice y medio",
+   "Flexión de la MCF con extensión de las IF (índice y medio)",
+   "Extensión de la muñeca con desviación cubital",
+   "Pronación del antebrazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor profundo de los dedos (índice y medio): flexión de la interfalángica distal del índice y medio. Nervio: Interóseo anterior, C7, C8. Con el flexor largo del pulgar forma el signo del «OK»: en la lesión del interóseo anterior el círculo pulgar-índice queda en «pico de pato». El interóseo anterior es motor puro."
+ },
+ {
+  "id": "rn-ms-093",
+  "enunciado": "¿Qué nervio inerva el flexor largo del pulgar?",
+  "opciones": [
+   "Interóseo anterior",
+   "Subescapulares superior e inferior",
+   "Subescapular inferior",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "También es el que compensa en el signo de Froment (debilidad del aductor del pulgar, cubital).",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-094",
+  "enunciado": "¿Qué raíces inervan el flexor largo del pulgar?",
+  "opciones": [
+   "C7, C8",
+   "C4, C5",
+   "C5, C6, C7",
+   "C5, C6"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo del pulgar: Interóseo anterior, C7, C8. También es el que compensa en el signo de Froment (debilidad del aductor del pulgar, cubital)."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-095",
+  "enunciado": "¿Cuál es la función principal del flexor largo del pulgar?",
+  "opciones": [
+   "Flexión de la interfalángica del pulgar",
+   "Inicio de la abducción del brazo (0–15°)",
+   "Abducción del índice",
+   "Flexión de la interfalángica distal del anular y meñique"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo del pulgar: flexión de la interfalángica del pulgar. Nervio: Interóseo anterior, C7, C8. También es el que compensa en el signo de Froment (debilidad del aductor del pulgar, cubital)."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-096",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: flexión de la interfalángica del pulgar?",
+  "opciones": [
+   "Flexor largo del pulgar",
+   "Pronador redondo",
+   "Interóseos palmares",
+   "Flexor profundo de los dedos (anular y meñique)"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo del pulgar: Interóseo anterior, C7, C8. También es el que compensa en el signo de Froment (debilidad del aductor del pulgar, cubital)."
+ },
+ {
+  "id": "rn-ms-097",
+  "enunciado": "¿Qué nervio inerva el pronador cuadrado?",
+  "opciones": [
+   "Interóseo anterior",
+   "Cubital",
+   "Torácico largo",
+   "Subescapulares superior e inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Se aísla con el codo en flexión completa, que anula al pronador redondo. Se afecta en la lesión del interóseo anterior.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-098",
+  "enunciado": "¿Qué raíces inervan el pronador cuadrado?",
+  "opciones": [
+   "C7, C8",
+   "C6, C7, C8",
+   "C4, C5",
+   "C7, C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Pronador cuadrado: Interóseo anterior, C7, C8. Se aísla con el codo en flexión completa, que anula al pronador redondo. Se afecta en la lesión del interóseo anterior."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-099",
+  "enunciado": "¿Cuál es la función principal del pronador cuadrado?",
+  "opciones": [
+   "Pronación con el codo flexionado",
+   "Flexión de las interfalángicas proximales",
+   "Flexión de la muñeca con desviación radial",
+   "Protracción de la escápula y fijación contra el tórax"
+  ],
+  "correcta": 0,
+  "explicacion": "Pronador cuadrado: pronación con el codo flexionado. Nervio: Interóseo anterior, C7, C8. Se aísla con el codo en flexión completa, que anula al pronador redondo. Se afecta en la lesión del interóseo anterior."
+ },
+ {
+  "id": "rn-ms-110",
+  "enunciado": "¿Qué nervio inerva el flexor cubital del carpo?",
+  "opciones": [
+   "Cubital",
+   "Subescapular inferior",
+   "Axilar",
+   "Interóseo anterior"
+  ],
+  "correcta": 0,
+  "explicacion": "Primer músculo del cubital en el antebrazo. Puede estar preservado en la neuropatía cubital en el codo si sus ramas salen proximales a la compresión.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-111",
+  "enunciado": "¿Qué raíces inervan el flexor cubital del carpo?",
+  "opciones": [
+   "C7, C8",
+   "C5",
+   "C4, C5",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor cubital del carpo: Cubital, C7, C8. Raíces accesorias: T1. Primer músculo del cubital en el antebrazo. Puede estar preservado en la neuropatía cubital en el codo si sus ramas salen proximales a la compresión."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-112",
+  "enunciado": "¿Cuál es la función principal del flexor cubital del carpo?",
+  "opciones": [
+   "Flexión de la muñeca con desviación cubital",
+   "Abducción del pulgar perpendicular a la palma",
+   "Aducción y rotación interna del brazo",
+   "Aducción del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor cubital del carpo: flexión de la muñeca con desviación cubital. Nervio: Cubital, C7, C8. Primer músculo del cubital en el antebrazo. Puede estar preservado en la neuropatía cubital en el codo si sus ramas salen proximales a la compresión."
+ },
+ {
+  "id": "rn-ms-113",
+  "enunciado": "¿Qué nervio inerva el flexor profundo de los dedos (anular y meñique)?",
+  "opciones": [
+   "Cubital",
+   "Subescapular inferior",
+   "Pectoral lateral",
+   "Toracodorsal"
+  ],
+  "correcta": 0,
+  "explicacion": "Afectado en lesiones del cubital en el codo y preservado en el canal de Guyon. Por eso la garra es más marcada en lesiones distales («paradoja cubital»).",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-114",
+  "enunciado": "¿Qué raíces inervan el flexor profundo de los dedos (anular y meñique)?",
+  "opciones": [
+   "C7, C8",
+   "T1",
+   "C6, C7",
+   "C4, C5"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor profundo de los dedos (anular y meñique): Cubital, C7, C8. Afectado en lesiones del cubital en el codo y preservado en el canal de Guyon. Por eso la garra es más marcada en lesiones distales («paradoja cubital»)."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Antebrazo: flexores",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-115",
+  "enunciado": "¿Cuál es la función principal del flexor profundo de los dedos (anular y meñique)?",
+  "opciones": [
+   "Flexión de la interfalángica distal del anular y meñique",
+   "Abducción del pulgar en el plano de la palma",
+   "Elevación y retracción de la escápula",
+   "Retracción y elevación de la escápula"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor profundo de los dedos (anular y meñique): flexión de la interfalángica distal del anular y meñique. Nervio: Cubital, C7, C8. Afectado en lesiones del cubital en el codo y preservado en el canal de Guyon. Por eso la garra es más marcada en lesiones distales («paradoja cubital»)."
+ }
+]

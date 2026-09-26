@@ -1,0 +1,432 @@
+[
+ {
+  "id": "rn-mi-005",
+  "enunciado": "¿Qué nervio inerva el sartorio?",
+  "opciones": [
+   "Femoral",
+   "Glúteo superior",
+   "Ciático (división tibial)",
+   "Tibial"
+  ],
+  "correcta": 0,
+  "explicacion": "Posición «del sastre». El femoral sale de las divisiones posteriores de L2-L4.",
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-006",
+  "enunciado": "¿Qué raíces inervan el sartorio?",
+  "opciones": [
+   "L2, L3",
+   "L5, S1",
+   "L4",
+   "L1, L2, L3"
+  ],
+  "correcta": 0,
+  "explicacion": "Sartorio: Femoral, L2, L3. Posición «del sastre». El femoral sale de las divisiones posteriores de L2-L4."
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-007",
+  "enunciado": "¿Cuál es la función principal del sartorio?",
+  "opciones": [
+   "Flexión, abducción y rotación externa de la cadera",
+   "Extensión de la rodilla",
+   "Flexión de la rodilla",
+   "Extensión de los dedos (músculo del dorso del pie)"
+  ],
+  "correcta": 0,
+  "explicacion": "Sartorio: flexión, abducción y rotación externa de la cadera. Nervio: Femoral, L2, L3. Posición «del sastre». El femoral sale de las divisiones posteriores de L2-L4."
+ },
+ {
+  "id": "rn-mi-008",
+  "enunciado": "¿Qué nervio inerva el cuádriceps?",
+  "opciones": [
+   "Femoral",
+   "Glúteo inferior",
+   "Ciático (división tibial)",
+   "Peroneo superficial"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo rotuliano L3-L4. Cuádriceps y aductores débiles: L3-L4 o plexo lumbar. Solo cuádriceps: femoral. En RM muscular, el recto femoral y los vastos pueden afectarse de forma selectiva (ej. vasto en miositis por cuerpos de inclusión).",
+  "grupo": "L3",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro"
+ },
+ {
+  "grupo": "L3",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-009",
+  "enunciado": "¿Qué raíces inervan el cuádriceps?",
+  "opciones": [
+   "L3, L4",
+   "L4",
+   "L5, S1",
+   "L2, L3, L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Cuádriceps: Femoral, L3, L4. Raíces accesorias: L2. Reflejo rotuliano L3-L4. Cuádriceps y aductores débiles: L3-L4 o plexo lumbar. Solo cuádriceps: femoral. En RM muscular, el recto femoral y los vastos pueden afectarse de forma selectiva (ej. vasto en miositis por cuerpos de inclusión)."
+ },
+ {
+  "grupo": "L3",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-010",
+  "enunciado": "¿Cuál es la función principal del cuádriceps?",
+  "opciones": [
+   "Extensión de la rodilla",
+   "Flexión de la rodilla",
+   "Abducción del dedo gordo",
+   "Flexión de los dedos del pie"
+  ],
+  "correcta": 0,
+  "explicacion": "Cuádriceps: extensión de la rodilla. Nervio: Femoral, L3, L4. Reflejo rotuliano L3-L4. Cuádriceps y aductores débiles: L3-L4 o plexo lumbar. Solo cuádriceps: femoral. En RM muscular, el recto femoral y los vastos pueden afectarse de forma selectiva (ej. vasto en miositis por cuerpos de inclusión)."
+ },
+ {
+  "grupo": "L3",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-011",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: extensión de la rodilla?",
+  "opciones": [
+   "Cuádriceps",
+   "Bíceps femoral (cabeza corta)",
+   "Tibial anterior",
+   "Iliopsoas"
+  ],
+  "correcta": 0,
+  "explicacion": "Cuádriceps: Femoral, L3, L4. Reflejo rotuliano L3-L4. Cuádriceps y aductores débiles: L3-L4 o plexo lumbar. Solo cuádriceps: femoral. En RM muscular, el recto femoral y los vastos pueden afectarse de forma selectiva (ej. vasto en miositis por cuerpos de inclusión)."
+ },
+ {
+  "id": "rn-mi-012",
+  "enunciado": "¿Qué nervio inerva el aductores largo y corto?",
+  "opciones": [
+   "Obturador",
+   "Plantar medial (tibial)",
+   "Glúteo inferior",
+   "Femoral"
+  ],
+  "correcta": 0,
+  "explicacion": "Distinguen neuropatía femoral (aductores normales) de radiculopatía L3-L4 o plexopatía lumbar (aductores débiles).",
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro"
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-013",
+  "enunciado": "¿Qué raíces inervan el aductores largo y corto?",
+  "opciones": [
+   "L2, L3",
+   "L2, L3, L4",
+   "L4",
+   "L1, L2, L3"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductores largo y corto: Obturador, L2, L3. Raíces accesorias: L4. Distinguen neuropatía femoral (aductores normales) de radiculopatía L3-L4 o plexopatía lumbar (aductores débiles)."
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-014",
+  "enunciado": "¿Cuál es la función principal del aductores largo y corto?",
+  "opciones": [
+   "Aducción de la cadera",
+   "Flexión plantar del tobillo con la rodilla flexionada",
+   "Eversión del pie",
+   "Extensión de los dedos del pie"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductores largo y corto: aducción de la cadera. Nervio: Obturador, L2, L3. Distinguen neuropatía femoral (aductores normales) de radiculopatía L3-L4 o plexopatía lumbar (aductores débiles)."
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-015",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: aducción de la cadera?",
+  "opciones": [
+   "Aductores largo y corto",
+   "Tensor de la fascia lata",
+   "Abductor del dedo gordo",
+   "Iliopsoas"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductores largo y corto: Obturador, L2, L3. Distinguen neuropatía femoral (aductores normales) de radiculopatía L3-L4 o plexopatía lumbar (aductores débiles)."
+ },
+ {
+  "id": "rn-mi-016",
+  "enunciado": "¿Qué nervio inerva el grácil (recto interno)?",
+  "opciones": [
+   "Obturador",
+   "Tibial",
+   "Plantar medial (tibial)",
+   "Glúteo inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Único aductor que cruza la rodilla. El obturador sale de las divisiones anteriores de L2-L4.",
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro"
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-017",
+  "enunciado": "¿Qué raíces inervan el grácil (recto interno)?",
+  "opciones": [
+   "L2, L3",
+   "L4, L5",
+   "S1, S2",
+   "L5, S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Grácil (recto interno): Obturador, L2, L3. Único aductor que cruza la rodilla. El obturador sale de las divisiones anteriores de L2-L4."
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-018",
+  "enunciado": "¿Cuál es la función principal del grácil (recto interno)?",
+  "opciones": [
+   "Aducción de la cadera y flexión de la rodilla",
+   "Flexión de la cadera",
+   "Dorsiflexión del tobillo",
+   "Flexión de la rodilla y extensión de la cadera"
+  ],
+  "correcta": 0,
+  "explicacion": "Grácil (recto interno): aducción de la cadera y flexión de la rodilla. Nervio: Obturador, L2, L3. Único aductor que cruza la rodilla. El obturador sale de las divisiones anteriores de L2-L4."
+ },
+ {
+  "id": "rn-mi-019",
+  "enunciado": "¿Qué nervio inerva el aductor mayor?",
+  "opciones": [
+   "Obturador y ciático (división tibial)",
+   "Peroneo superficial",
+   "Femoral y ramas del plexo lumbar",
+   "Plantar medial (tibial)"
+  ],
+  "correcta": 0,
+  "explicacion": "Doble inervación: la porción aductora por el obturador y la isquiotibial por el ciático.",
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-020",
+  "enunciado": "¿Qué raíces inervan el aductor mayor?",
+  "opciones": [
+   "L2, L3, L4",
+   "L5, S1",
+   "L5",
+   "L4, L5"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductor mayor: Obturador y ciático (división tibial), L2, L3, L4. Doble inervación: la porción aductora por el obturador y la isquiotibial por el ciático."
+ },
+ {
+  "grupo": "L2",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-021",
+  "enunciado": "¿Cuál es la función principal del aductor mayor?",
+  "opciones": [
+   "Aducción y extensión de la cadera",
+   "Flexión de la rodilla",
+   "Abducción y rotación interna de la cadera",
+   "Dorsiflexión del tobillo"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductor mayor: aducción y extensión de la cadera. Nervio: Obturador y ciático (división tibial), L2, L3, L4. Doble inervación: la porción aductora por el obturador y la isquiotibial por el ciático."
+ },
+ {
+  "id": "rn-mi-033",
+  "enunciado": "¿Qué nervio inerva el semitendinoso y semimembranoso?",
+  "opciones": [
+   "Ciático (división tibial)",
+   "Femoral",
+   "Glúteo inferior",
+   "Glúteo superior"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo isquiotibial medial: L5. Útil cuando el aquíleo (S1) y el rotuliano (L3-L4) son normales.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-034",
+  "enunciado": "¿Qué raíces inervan el semitendinoso y semimembranoso?",
+  "opciones": [
+   "L5, S1",
+   "L2, L3",
+   "L5",
+   "L4, L5"
+  ],
+  "correcta": 0,
+  "explicacion": "Semitendinoso y semimembranoso: Ciático (división tibial), L5, S1. Raíces accesorias: S2. Reflejo isquiotibial medial: L5. Útil cuando el aquíleo (S1) y el rotuliano (L3-L4) son normales."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-035",
+  "enunciado": "¿Cuál es la función principal del semitendinoso y semimembranoso?",
+  "opciones": [
+   "Flexión de la rodilla y rotación interna de la pierna",
+   "Dorsiflexión del tobillo",
+   "Aducción de la cadera",
+   "Abducción del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Semitendinoso y semimembranoso: flexión de la rodilla y rotación interna de la pierna. Nervio: Ciático (división tibial), L5, S1. Reflejo isquiotibial medial: L5. Útil cuando el aquíleo (S1) y el rotuliano (L3-L4) son normales."
+ },
+ {
+  "id": "rn-mi-036",
+  "enunciado": "¿Qué nervio inerva el bíceps femoral (cabeza larga)?",
+  "opciones": [
+   "Ciático (división tibial)",
+   "Glúteo superior",
+   "Femoral y ramas del plexo lumbar",
+   "Femoral"
+  ],
+  "correcta": 0,
+  "explicacion": "La cabeza larga es de la división tibial; la corta, de la peronea.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-037",
+  "enunciado": "¿Qué raíces inervan el bíceps femoral (cabeza larga)?",
+  "opciones": [
+   "L5, S1",
+   "L4, L5",
+   "S1, S2",
+   "L2, L3, L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps femoral (cabeza larga): Ciático (división tibial), L5, S1. Raíces accesorias: S2. La cabeza larga es de la división tibial; la corta, de la peronea."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-038",
+  "enunciado": "¿Cuál es la función principal del bíceps femoral (cabeza larga)?",
+  "opciones": [
+   "Flexión de la rodilla y extensión de la cadera",
+   "Flexión plantar del tobillo",
+   "Extensión de los dedos (músculo del dorso del pie)",
+   "Aducción de la cadera y flexión de la rodilla"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps femoral (cabeza larga): flexión de la rodilla y extensión de la cadera. Nervio: Ciático (división tibial), L5, S1. La cabeza larga es de la división tibial; la corta, de la peronea."
+ },
+ {
+  "id": "rn-mi-039",
+  "enunciado": "¿Qué nervio inerva el bíceps femoral (cabeza corta)?",
+  "opciones": [
+   "Ciático (división peronea)",
+   "Femoral y ramas del plexo lumbar",
+   "Glúteo inferior",
+   "Femoral"
+  ],
+  "correcta": 0,
+  "explicacion": "Único músculo del muslo inervado por la división peronea. Si está afectado en un pie caído, la lesión es proximal a la cabeza del peroné (ciático), no del peroneo común.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-040",
+  "enunciado": "¿Qué raíces inervan el bíceps femoral (cabeza corta)?",
+  "opciones": [
+   "L5, S1",
+   "S1, S2",
+   "L2, L3, L4",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps femoral (cabeza corta): Ciático (división peronea), L5, S1. Raíces accesorias: S2. Único músculo del muslo inervado por la división peronea. Si está afectado en un pie caído, la lesión es proximal a la cabeza del peroné (ciático), no del peroneo común."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Muslo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-041",
+  "enunciado": "¿Cuál es la función principal del bíceps femoral (cabeza corta)?",
+  "opciones": [
+   "Flexión de la rodilla",
+   "Extensión del dedo gordo",
+   "Extensión de la rodilla",
+   "Abducción del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps femoral (cabeza corta): flexión de la rodilla. Nervio: Ciático (división peronea), L5, S1. Único músculo del muslo inervado por la división peronea. Si está afectado en un pie caído, la lesión es proximal a la cabeza del peroné (ciático), no del peroneo común."
+ }
+]

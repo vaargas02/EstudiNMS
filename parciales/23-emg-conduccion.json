@@ -1,0 +1,242 @@
+[
+ {
+  "id": "rn-emg-001",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué hallazgo de la neurografía orienta a una lesión axonal?",
+  "opciones": [
+   "Amplitud reducida (CMAP/SNAP) con latencias y velocidades casi normales",
+   "Velocidad muy enlentecida con latencias prolongadas",
+   "Bloqueo de conducción",
+   "Dispersión temporal"
+  ],
+  "correcta": 0,
+  "explicacion": "La amplitud refleja el número de axones conducentes. En la pérdida axonal grave la velocidad puede caer levemente por pérdida de las fibras más rápidas, pero no a rango desmielinizante."
+ },
+ {
+  "id": "rn-emg-002",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué conjunto de hallazgos sugiere desmielinización?",
+  "opciones": [
+   "Latencias distales prolongadas, VC enlentecida, bloqueo de conducción y dispersión temporal",
+   "Amplitud reducida con VC normal",
+   "Fibrilaciones y ondas positivas",
+   "PUMs grandes y polifásicos"
+  ],
+  "correcta": 0,
+  "explicacion": "La mielina determina la velocidad. El bloqueo de conducción (caída de amplitud proximal frente a distal) indica desmielinización focal."
+ },
+ {
+  "id": "rn-emg-003",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "Enlentecimiento uniforme y difuso de la conducción, sin bloqueos ni dispersión. ¿Qué sugiere?",
+  "opciones": [
+   "Polineuropatía desmielinizante hereditaria (ej. CMT1)",
+   "CIDP",
+   "Guillain-Barré (AIDP)",
+   "Neuropatía axonal"
+  ],
+  "correcta": 0,
+  "explicacion": "Las desmielinizantes hereditarias son uniformes. Las adquiridas (AIDP, CIDP, neuropatía motora multifocal) son no uniformes: bloqueos, dispersión y afectación parcheada."
+ },
+ {
+  "id": "rn-emg-004",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué punto de corte de VC motora del mediano (antebrazo) separa clásicamente CMT1 de CMT2?",
+  "opciones": [
+   "38 m/s",
+   "25 m/s",
+   "50 m/s",
+   "60 m/s"
+  ],
+  "correcta": 0,
+  "explicacion": "CMT1 < 38 m/s (desmielinizante), CMT2 > 38 m/s (axonal). El CMT intermedio queda aproximadamente entre 25 y 45 m/s."
+ },
+ {
+  "id": "rn-emg-005",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-localizacion",
+  "enunciado": "En una radiculopatía con hipoestesia en el dermatoma, ¿cómo está el SNAP de ese territorio?",
+  "opciones": [
+   "Normal (lesión preganglionar)",
+   "Ausente",
+   "Reducido a la mitad",
+   "Con latencia prolongada"
+  ],
+  "correcta": 0,
+  "explicacion": "El ganglio raquídeo dorsal está en el foramen, distal a la raíz. La lesión preganglionar no desconecta el axón periférico de su soma. Lo mismo ocurre en la avulsión radicular."
+ },
+ {
+  "id": "rn-emg-006",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-localizacion",
+  "enunciado": "SNAP ausente en un territorio con hipoestesia y debilidad, con paraespinales normales. ¿Qué indica?",
+  "opciones": [
+   "Lesión postganglionar (plexo o nervio)",
+   "Radiculopatía",
+   "Avulsión radicular",
+   "Lesión medular"
+  ],
+  "correcta": 0,
+  "explicacion": "El SNAP cae cuando la lesión está distal al ganglio raquídeo dorsal: plexopatías y neuropatías."
+ },
+ {
+  "id": "rn-emg-009",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "Tras una sección nerviosa, ¿cuándo cae la amplitud del CMAP distal?",
+  "opciones": [
+   "En los primeros días, con el mínimo hacia el día 7-9 (el SNAP, hacia el día 10-11)",
+   "Nunca, si la estimulación es distal",
+   "En la primera hora",
+   "A partir de la cuarta semana"
+  ],
+  "correcta": 0,
+  "explicacion": "Antes de unos 10 días, la estimulación distal no permite distinguir neuroapraxia (bloqueo) de axonotmesis."
+ },
+ {
+  "id": "rn-emg-025",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué efecto tiene el frío en la neurografía?",
+  "opciones": [
+   "Prolonga latencias y reduce la velocidad de conducción (amplitudes algo mayores)",
+   "Acorta latencias y aumenta la velocidad",
+   "No tiene efecto",
+   "Reduce la amplitud y acelera la conducción"
+  ],
+  "correcta": 0,
+  "explicacion": "Controla la temperatura (idealmente >32 °C en la mano). Un miembro frío puede simular una neuropatía desmielinizante."
+ },
+ {
+  "id": "rn-emg-026",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué alteración suele aparecer primero en la neurografía de un Guillain-Barré precoz?",
+  "opciones": [
+   "Ondas F ausentes o prolongadas",
+   "Fibrilaciones difusas",
+   "PUMs neurógenos crónicos",
+   "Decremento en estimulación repetitiva"
+  ],
+  "correcta": 0,
+  "explicacion": "Las ondas F exploran el segmento proximal, donde empieza la desmielinización. El reflejo H también se pierde pronto."
+ },
+ {
+  "id": "rn-emg-027",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué es el «sural sparing» y en qué se ve?",
+  "opciones": [
+   "SNAP de mediano o cubital anormal con sural normal; típico de AIDP",
+   "Sural anormal con mediano normal; típico de AIDP",
+   "Sural ausente en ELA",
+   "Sural normal en neuropatía diabética avanzada"
+  ],
+  "correcta": 0,
+  "explicacion": "El patrón contrario (sural afectado primero) es el de la polineuropatía axonal longitud-dependiente."
+ },
+ {
+  "id": "rn-emg-028",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué es el reflejo H?",
+  "opciones": [
+   "El equivalente eléctrico del aquíleo (S1); ausente en radiculopatía S1",
+   "Una respuesta antidrómica motora pura",
+   "El equivalente eléctrico del rotuliano (L4)",
+   "Una prueba de la unión neuromuscular"
+  ],
+  "correcta": 0,
+  "explicacion": "Arco monosináptico (aferente Ia) registrado en el sóleo. Se pierde también en polineuropatías y en el GBS precoz; también puede obtenerse en el FRC (C6-C7)."
+ },
+ {
+  "id": "rn-emg-029",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué diferencia la onda F del reflejo H?",
+  "opciones": [
+   "La F es una respuesta antidrómica motora variable; el H es un reflejo monosináptico estable",
+   "La F es un reflejo monosináptico; el H es antidrómico",
+   "Ambas son reflejos sensitivos",
+   "La F solo se obtiene en el sóleo"
+  ],
+  "correcta": 0,
+  "explicacion": "La F se obtiene en casi todos los nervios motores y cambia de latencia y morfología en cada estímulo. El H usa la vía aferente Ia y aparece a intensidades bajas."
+ },
+ {
+  "id": "rn-emg-030",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué criterio de conducción apoya una neuropatía cubital en el codo?",
+  "opciones": [
+   "VC motora a través del codo <50 m/s o caída >10 m/s respecto al antebrazo",
+   "Latencia distal motora prolongada",
+   "SNAP sural ausente",
+   "VC del antebrazo <38 m/s"
+  ],
+  "correcta": 0,
+  "explicacion": "Realiza la conducción con el codo flexionado. El inching puede localizar el punto exacto (retroepicondíleo o túnel cubital)."
+ },
+ {
+  "id": "rn-emg-031",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Cuál es el hallazgo más sensible en el síndrome del túnel carpiano?",
+  "opciones": [
+   "Latencia sensitiva distal del mediano prolongada (mejor con técnicas comparativas)",
+   "Denervación del abductor corto del pulgar",
+   "Caída del CMAP del mediano",
+   "Enlentecimiento en el antebrazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Las comparaciones mediano-cubital (palmar) o mediano-radial (pulgar) aumentan la sensibilidad. La denervación del ACP indica casos avanzados."
+ },
+ {
+  "id": "rn-emg-037",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Conducción nerviosa",
+  "teoria": "emg-conduccion",
+  "enunciado": "¿Qué patrón neurofisiológico tiene la neuropatía axonal motora aguda (AMAN)?",
+  "opciones": [
+   "CMAP bajos sin signos de desmielinización, con SNAPs normales",
+   "Enlentecimiento desmielinizante difuso",
+   "SNAPs ausentes con CMAP normales",
+   "Decremento a 3 Hz"
+  ],
+  "correcta": 0,
+  "explicacion": "Asociada a Campylobacter y anticuerpos anti-GM1/GD1a. Puede haber fallo de conducción reversible que simula desmielinización."
+ }
+]

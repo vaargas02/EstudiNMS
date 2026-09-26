@@ -1,0 +1,322 @@
+[
+ {
+  "id": "rn-loc-001",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "pie-caido",
+  "enunciado": "Pie caído con debilidad de la inversión y de la abducción de la cadera. ¿Localización más probable?",
+  "opciones": [
+   "Radiculopatía L5",
+   "Neuropatía peroneal en la cabeza del peroné",
+   "Lesión del peroneo profundo",
+   "Neuropatía tibial"
+  ],
+  "correcta": 0,
+  "explicacion": "El tibial posterior (tibial, L4-L5) y el glúteo medio (glúteo superior, L5) no dependen del peroneo: su debilidad sitúa la lesión en la raíz L5 (o en el ciático/plexo)."
+ },
+ {
+  "id": "rn-loc-002",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "pie-caido",
+  "enunciado": "Pie caído con inversión normal, hipoestesia del dorso del pie y cabeza corta del bíceps femoral normal. ¿Localización?",
+  "opciones": [
+   "Neuropatía peroneal común (cabeza del peroné)",
+   "Radiculopatía L5",
+   "Lesión del ciático",
+   "Radiculopatía S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Inversión y abducción de cadera normales descartan L5. Cabeza corta del bíceps normal descarta lesión ciática. Causas: cruzar las piernas, pérdida de peso, yesos, posición en cuclillas."
+ },
+ {
+  "id": "rn-loc-003",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "pie-caido",
+  "enunciado": "Pie caído con denervación de la cabeza corta del bíceps femoral y paraespinales normales. ¿Localización?",
+  "opciones": [
+   "Ciático (división peronea), proximal a la rodilla",
+   "Neuropatía peroneal en el peroné",
+   "Radiculopatía L5",
+   "Peroneo profundo"
+  ],
+  "correcta": 0,
+  "explicacion": "La cabeza corta del bíceps es el único músculo del muslo de la división peronea. Paraespinales normales hacen menos probable la radiculopatía."
+ },
+ {
+  "id": "rn-loc-004",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-radial",
+  "enunciado": "Mano caída, tríceps normal, braquiorradial débil e hipoestesia dorsorradial de la mano. ¿Localización?",
+  "opciones": [
+   "Radial en el canal de torsión del húmero",
+   "Interóseo posterior",
+   "Radiculopatía C7",
+   "Radial en la axila"
+  ],
+  "correcta": 0,
+  "explicacion": "Tríceps preservado = lesión distal a sus ramas. Braquiorradial y sensibilidad afectados = proximal al codo. «Parálisis del sábado» o fractura de húmero."
+ },
+ {
+  "id": "rn-loc-005",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-radial",
+  "enunciado": "Dedos caídos sin caída de la muñeca (extiende con desviación radial) y sin déficit sensitivo. ¿Localización?",
+  "opciones": [
+   "Interóseo posterior",
+   "Radial en el canal de torsión",
+   "Radiculopatía C7",
+   "Radial superficial"
+  ],
+  "correcta": 0,
+  "explicacion": "El ERLC y el braquiorradial salen antes de la división, y el interóseo posterior es motor puro. Causas: arcada de Frohse, masas, artritis reumatoide del codo."
+ },
+ {
+  "id": "rn-loc-006",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-radial",
+  "enunciado": "Debilidad de extensión de muñeca y codo con debilidad del flexor radial del carpo y reflejo tricipital abolido. ¿Localización?",
+  "opciones": [
+   "Radiculopatía C7",
+   "Radial en la axila",
+   "Radial en el canal de torsión",
+   "Interóseo posterior"
+  ],
+  "correcta": 0,
+  "explicacion": "El FRC es del mediano (C6-C7): su debilidad junto a músculos radiales solo se explica por la raíz C7."
+ },
+ {
+  "id": "rn-loc-007",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "raiz-vs-plexo",
+  "enunciado": "Atrofia de intrínsecos con debilidad del abductor corto y del flexor largo del pulgar e hipoestesia del borde cubital del antebrazo. ¿Localización?",
+  "opciones": [
+   "Radiculopatía C8 o tronco inferior",
+   "Neuropatía cubital en el codo",
+   "Túnel carpiano",
+   "Canal de Guyon"
+  ],
+  "correcta": 0,
+  "explicacion": "Mezcla de músculos del mediano (ACP, FLP) y del cubital, más el territorio del cutáneo antebraquial medial: el denominador común es C8-T1."
+ },
+ {
+  "id": "rn-loc-008",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-cubital",
+  "enunciado": "Debilidad del primer interóseo dorsal, abductor del meñique y flexor profundo IV-V, hipoestesia de 4.º-5.º dedo incluido el dorso, antebrazo normal. ¿Localización?",
+  "opciones": [
+   "Neuropatía cubital en el codo",
+   "Canal de Guyon",
+   "Radiculopatía C8",
+   "Tronco inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor profundo IV-V y dorso cubital de la mano alterados = lesión proximal a la muñeca. Antebrazo medial normal = no es C8."
+ },
+ {
+  "id": "rn-loc-009",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-cubital",
+  "enunciado": "Debilidad del primer interóseo dorsal con sensibilidad normal y flexor profundo IV-V normal. ¿Localización?",
+  "opciones": [
+   "Rama profunda del cubital (canal de Guyon)",
+   "Cubital en el codo",
+   "Radiculopatía C8",
+   "Interóseo anterior"
+  ],
+  "correcta": 0,
+  "explicacion": "La rama profunda es motora. Causas: ciclistas, uso de herramientas, gangliones. Si la lesión es distal a la rama al abductor del meñique, este puede estar preservado."
+ },
+ {
+  "id": "rn-loc-010",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-mediano",
+  "enunciado": "Parestesias del 1.º al 3.er dedo, sensibilidad tenar conservada, atrofia del abductor corto del pulgar y pronador redondo normal. ¿Localización?",
+  "opciones": [
+   "Túnel carpiano",
+   "Mediano en el codo",
+   "Radiculopatía C6",
+   "Interóseo anterior"
+  ],
+  "correcta": 0,
+  "explicacion": "La rama cutánea palmar (eminencia tenar) sale antes del túnel. El pronador redondo normal descarta lesión proximal."
+ },
+ {
+  "id": "rn-loc-011",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "nervio-mediano",
+  "enunciado": "No puede hacer el signo del «OK» (flexión de la IFD del índice y la IF del pulgar) y la sensibilidad es normal. ¿Localización?",
+  "opciones": [
+   "Interóseo anterior",
+   "Túnel carpiano",
+   "Radiculopatía C7",
+   "Neuropatía cubital"
+  ],
+  "correcta": 0,
+  "explicacion": "Nervio motor puro. Causa frecuente: neuralgia amiotrófica (Parsonage-Turner), que puede afectarlo de forma aislada."
+ },
+ {
+  "id": "rn-loc-012",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "raiz-vs-plexo",
+  "enunciado": "Debilidad de abducción y rotación externa del hombro y de flexión del codo, con romboides y serrato normales. ¿Localización?",
+  "opciones": [
+   "Tronco superior del plexo braquial",
+   "Radiculopatía C5-C6",
+   "Nervio axilar",
+   "Nervio supraescapular"
+  ],
+  "correcta": 0,
+  "explicacion": "Romboides (dorsal de la escápula) y serrato (torácico largo) salen de las raíces: si son normales, la lesión es distal a la raíz. Parálisis de Erb."
+ },
+ {
+  "id": "rn-loc-013",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "Debilidad de extensión de rodilla y aducción de cadera con rotuliano abolido. ¿Localización?",
+  "opciones": [
+   "Radiculopatía L3-L4 o plexo lumbar",
+   "Neuropatía femoral",
+   "Neuropatía del obturador",
+   "Radiculopatía L5"
+  ],
+  "correcta": 0,
+  "explicacion": "Femoral y obturador comparten raíces: la combinación indica raíz o plexo. Piensa también en amiotrofia diabética."
+ },
+ {
+  "id": "rn-loc-014",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "Debilidad de extensión de rodilla con aductores normales e hipoestesia de la cara anterior del muslo y medial de la pierna. ¿Localización?",
+  "opciones": [
+   "Neuropatía femoral",
+   "Radiculopatía L4",
+   "Plexopatía lumbar",
+   "Neuropatía del obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductores normales separan femoral de L3-L4. Causas: hematoma del psoas (anticoagulados), cirugía pélvica o de cadera, cateterismo femoral."
+ },
+ {
+  "id": "rn-loc-015",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "Dolor urente e hipoestesia en la cara anterolateral del muslo, sin debilidad ni cambios de reflejos. ¿Diagnóstico?",
+  "opciones": [
+   "Meralgia parestésica (femorocutáneo lateral)",
+   "Radiculopatía L2-L3",
+   "Neuropatía femoral",
+   "Neuropatía del obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Nervio sensitivo puro: la ausencia de déficit motor y reflejo lo diferencia de L2-L3 y del femoral."
+ },
+ {
+  "id": "rn-loc-016",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "escapula-alada",
+  "enunciado": "Escápula alada medial al empujar contra la pared, sin otro déficit. ¿Nervio afectado?",
+  "opciones": [
+   "Torácico largo",
+   "Accesorio espinal",
+   "Dorsal de la escápula",
+   "Axilar"
+  ],
+  "correcta": 0,
+  "explicacion": "Serrato débil: el borde medial se separa al empujar. Trapecio débil (XI): escápula desplazada lateralmente y hombro caído, más evidente al abducir."
+ },
+ {
+  "id": "rn-loc-017",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "plexo-braquial",
+  "enunciado": "Debilidad de la rotación externa del hombro con atrofia del infraespinoso y supraespinoso normal. ¿Localización?",
+  "opciones": [
+   "Supraescapular en la escotadura espinoglenoidea",
+   "Supraescapular en la escotadura supraescapular",
+   "Nervio axilar",
+   "Radiculopatía C5"
+  ],
+  "correcta": 0,
+  "explicacion": "En la escotadura supraescapular se afectan ambos músculos; en la espinoglenoidea, solo el infraespinoso."
+ },
+ {
+  "id": "rn-loc-018",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "plexo-braquial",
+  "enunciado": "Hipoestesia en «parche» sobre el deltoides y debilidad de abducción tras una luxación de hombro. ¿Nervio?",
+  "opciones": [
+   "Axilar",
+   "Supraescapular",
+   "Musculocutáneo",
+   "Tronco superior"
+  ],
+  "correcta": 0,
+  "explicacion": "El axilar rodea el cuello quirúrgico del húmero y se estira en la luxación anterior."
+ },
+ {
+  "id": "rn-loc-019",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "reflejos",
+  "enunciado": "Debilidad de flexión plantar, aquíleo abolido e hipoestesia del borde lateral del pie. ¿Localización?",
+  "opciones": [
+   "Radiculopatía S1",
+   "Túnel del tarso",
+   "Radiculopatía L5",
+   "Neuropatía peroneal"
+  ],
+  "correcta": 0,
+  "explicacion": "Aquíleo abolido + gastrocnemio débil + territorio sural: S1. El reflejo H también estará ausente."
+ },
+ {
+  "id": "rn-loc-020",
+  "grupo": "Localización",
+  "tema": "Localización",
+  "subtema": "Casos de localización",
+  "teoria": "pie-caido",
+  "enunciado": "Parestesias plantares con debilidad del abductor del dedo gordo, gastrocnemio y aquíleo normales. ¿Localización?",
+  "opciones": [
+   "Túnel del tarso (tibial en el tobillo)",
+   "Radiculopatía S1",
+   "Neuropatía peroneal",
+   "Neuropatía sural"
+  ],
+  "correcta": 0,
+  "explicacion": "Gastrocnemio y aquíleo normales descartan S1 y lesión tibial proximal."
+ }
+]

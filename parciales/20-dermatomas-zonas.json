@@ -1,0 +1,164 @@
+[
+ {
+  "id": "rn-der-057",
+  "grupo": "C6",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (mano)?",
+  "opciones": [
+   "C6",
+   "T1",
+   "C3",
+   "C5"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-c6.svg",
+  "explicacion": "C6: pulgar. Radiculopatía C6: parestesias en pulgar (± índice), bíceps y estilorradial hiporreflexicos. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-058",
+  "grupo": "C7",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (mano)?",
+  "opciones": [
+   "C7",
+   "C5",
+   "C4",
+   "C6"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-c7.svg",
+  "explicacion": "C7: dedo medio. Radiculopatía C7 (la más frecuente): parestesias en el dedo medio, tricipital abolido, debilidad de tríceps y FRC. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-059",
+  "grupo": "C8",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (mano)?",
+  "opciones": [
+   "C8",
+   "T2",
+   "C5",
+   "T3"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-c8.svg",
+  "explicacion": "C8: meñique y borde cubital de la mano. C8: meñique y borde cubital de la mano y antebrazo distal. Diferénciala del cubital por el antebrazo medial. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-060",
+  "grupo": "L4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "L4",
+   "S1",
+   "S2",
+   "L2"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-l4.svg",
+  "explicacion": "L4: cara medial de la pierna hasta el maléolo medial. L4: cara medial de la pierna hasta el maléolo medial. En el mapa de Lee, L4 cubre la cara medial de la pierna sin cruzar el muslo. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-061",
+  "grupo": "L5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "L5",
+   "S3",
+   "L3",
+   "L2"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-l5.svg",
+  "explicacion": "L5: cara anterolateral de la pierna, dorso del pie y dedo gordo. L5: dorso del pie y dedo gordo. Radiculopatía L5: pie caído con inversión y abducción de cadera débiles. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-062",
+  "grupo": "S1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "S1",
+   "L5",
+   "S4-5",
+   "L3"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-s1.svg",
+  "explicacion": "S1: borde lateral del pie y quinto dedo. S1: borde lateral del pie, talón y planta. El dermatoma S1 es de los más constantes entre mapas. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-063",
+  "grupo": "T4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (tronco)?",
+  "opciones": [
+   "T4",
+   "T1",
+   "T2",
+   "T5"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-t4.svg",
+  "explicacion": "T4: banda a la altura de los pezones. Referencia clásica: T4 = línea de los pezones. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-064",
+  "grupo": "T10",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (tronco)?",
+  "opciones": [
+   "T10",
+   "T11",
+   "T8",
+   "T7"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-t10.svg",
+  "explicacion": "T10: banda a la altura del ombligo. Referencia clásica: T10 = ombligo. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ },
+ {
+  "id": "rn-der-065",
+  "grupo": "L1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: zonas",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde a la zona resaltada (tronco)?",
+  "opciones": [
+   "L1",
+   "L4",
+   "T11",
+   "L3"
+  ],
+  "correcta": 0,
+  "imagen": "img/zona-l1.svg",
+  "explicacion": "L1: región inguinal. L1 = región inguinal y parte alta del muslo anterior. Los dermatomas se solapan y varían entre personas: las zonas son aproximadas.",
+  "fuente": "Mapa de Lee et al. (2008)"
+ }
+]

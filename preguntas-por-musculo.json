@@ -1,0 +1,397 @@
+{
+ "trapecio": [
+  "rn-ms-001",
+  "rn-ms-002"
+ ],
+ "romboides": [
+  "rn-ms-003",
+  "rn-ms-004",
+  "rn-ms-005"
+ ],
+ "serrato": [
+  "rn-ms-006",
+  "rn-ms-007",
+  "rn-ms-008",
+  "rn-ms-009"
+ ],
+ "pectclav": [
+  "rn-ms-010",
+  "rn-ms-011",
+  "rn-ms-012"
+ ],
+ "pectest": [
+  "rn-ms-013",
+  "rn-ms-014",
+  "rn-ms-015"
+ ],
+ "supraesp": [
+  "rn-ms-016",
+  "rn-ms-017",
+  "rn-ms-018",
+  "rn-ms-019"
+ ],
+ "infraesp": [
+  "rn-ms-020",
+  "rn-ms-021",
+  "rn-ms-022",
+  "rn-ms-023"
+ ],
+ "subesc": [
+  "rn-ms-024",
+  "rn-ms-025",
+  "rn-ms-026"
+ ],
+ "dorsalancho": [
+  "rn-ms-027",
+  "rn-ms-028",
+  "rn-ms-029"
+ ],
+ "redmayor": [
+  "rn-ms-030",
+  "rn-ms-031",
+  "rn-ms-032"
+ ],
+ "deltoides": [
+  "rn-ms-033",
+  "rn-ms-034",
+  "rn-ms-035",
+  "rn-ms-036"
+ ],
+ "redmenor": [
+  "rn-ms-037",
+  "rn-ms-038",
+  "rn-ms-039"
+ ],
+ "biceps": [
+  "rn-ms-040",
+  "rn-ms-041",
+  "rn-ms-042",
+  "rn-ms-043"
+ ],
+ "braquial": [
+  "rn-ms-044",
+  "rn-ms-045",
+  "rn-ms-046"
+ ],
+ "triceps": [
+  "rn-ms-047",
+  "rn-ms-048",
+  "rn-ms-049",
+  "rn-ms-050"
+ ],
+ "braquiorr": [
+  "rn-ms-051",
+  "rn-ms-052",
+  "rn-ms-053",
+  "rn-ms-054"
+ ],
+ "erlc": [
+  "rn-ms-055",
+  "rn-ms-056",
+  "rn-ms-057"
+ ],
+ "supinador": [
+  "rn-ms-058",
+  "rn-ms-059",
+  "rn-ms-060"
+ ],
+ "ecc": [
+  "rn-ms-061",
+  "rn-ms-062",
+  "rn-ms-063"
+ ],
+ "edc": [
+  "rn-ms-064",
+  "rn-ms-065",
+  "rn-ms-066",
+  "rn-ms-067"
+ ],
+ "alp": [
+  "rn-ms-068",
+  "rn-ms-069",
+  "rn-ms-070"
+ ],
+ "elp": [
+  "rn-ms-071",
+  "rn-ms-072",
+  "rn-ms-073"
+ ],
+ "ecp": [
+  "rn-ms-074",
+  "rn-ms-075",
+  "rn-ms-076"
+ ],
+ "eip": [
+  "rn-ms-077",
+  "rn-ms-078",
+  "rn-ms-079"
+ ],
+ "pronred": [
+  "rn-ms-080",
+  "rn-ms-081",
+  "rn-ms-082",
+  "rn-ms-083"
+ ],
+ "frc": [
+  "rn-ms-084",
+  "rn-ms-085",
+  "rn-ms-086"
+ ],
+ "fsd": [
+  "rn-ms-087",
+  "rn-ms-088",
+  "rn-ms-089"
+ ],
+ "fdp23": [
+  "rn-ms-090",
+  "rn-ms-091",
+  "rn-ms-092"
+ ],
+ "flp": [
+  "rn-ms-093",
+  "rn-ms-094",
+  "rn-ms-095",
+  "rn-ms-096"
+ ],
+ "pcuad": [
+  "rn-ms-097",
+  "rn-ms-098",
+  "rn-ms-099"
+ ],
+ "acp": [
+  "rn-ms-100",
+  "rn-ms-101",
+  "rn-ms-102",
+  "rn-ms-103"
+ ],
+ "oponente": [
+  "rn-ms-104",
+  "rn-ms-105",
+  "rn-ms-106"
+ ],
+ "lumb12": [
+  "rn-ms-107",
+  "rn-ms-108",
+  "rn-ms-109"
+ ],
+ "fcc": [
+  "rn-ms-110",
+  "rn-ms-111",
+  "rn-ms-112"
+ ],
+ "fdp45": [
+  "rn-ms-113",
+  "rn-ms-114",
+  "rn-ms-115"
+ ],
+ "adm": [
+  "rn-ms-116",
+  "rn-ms-117",
+  "rn-ms-118",
+  "rn-ms-119"
+ ],
+ "pid": [
+  "rn-ms-120",
+  "rn-ms-121",
+  "rn-ms-122",
+  "rn-ms-123"
+ ],
+ "intpalm": [
+  "rn-ms-124",
+  "rn-ms-125",
+  "rn-ms-126"
+ ],
+ "aductpulg": [
+  "rn-ms-127",
+  "rn-ms-128",
+  "rn-ms-129",
+  "rn-ms-130"
+ ],
+ "lumb34": [
+  "rn-ms-131",
+  "rn-ms-132",
+  "rn-ms-133"
+ ],
+ "iliopsoas": [
+  "rn-mi-001",
+  "rn-mi-002",
+  "rn-mi-003",
+  "rn-mi-004"
+ ],
+ "sartorio": [
+  "rn-mi-005",
+  "rn-mi-006",
+  "rn-mi-007"
+ ],
+ "cuadriceps": [
+  "rn-mi-008",
+  "rn-mi-009",
+  "rn-mi-010",
+  "rn-mi-011"
+ ],
+ "aductlargo": [
+  "rn-mi-012",
+  "rn-mi-013",
+  "rn-mi-014",
+  "rn-mi-015"
+ ],
+ "gracil": [
+  "rn-mi-016",
+  "rn-mi-017",
+  "rn-mi-018"
+ ],
+ "aductmayor": [
+  "rn-mi-019",
+  "rn-mi-020",
+  "rn-mi-021"
+ ],
+ "gluteomedio": [
+  "rn-mi-022",
+  "rn-mi-023",
+  "rn-mi-024",
+  "rn-mi-025"
+ ],
+ "tfl": [
+  "rn-mi-026",
+  "rn-mi-027",
+  "rn-mi-028"
+ ],
+ "gluteomayor": [
+  "rn-mi-029",
+  "rn-mi-030",
+  "rn-mi-031",
+  "rn-mi-032"
+ ],
+ "semis": [
+  "rn-mi-033",
+  "rn-mi-034",
+  "rn-mi-035"
+ ],
+ "bflarga": [
+  "rn-mi-036",
+  "rn-mi-037",
+  "rn-mi-038"
+ ],
+ "bfcorta": [
+  "rn-mi-039",
+  "rn-mi-040",
+  "rn-mi-041"
+ ],
+ "tibant": [
+  "rn-mi-042",
+  "rn-mi-043",
+  "rn-mi-044",
+  "rn-mi-045"
+ ],
+ "eldg": [
+  "rn-mi-046",
+  "rn-mi-047",
+  "rn-mi-048",
+  "rn-mi-049"
+ ],
+ "eld": [
+  "rn-mi-050",
+  "rn-mi-051",
+  "rn-mi-052"
+ ],
+ "pedio": [
+  "rn-mi-053",
+  "rn-mi-054",
+  "rn-mi-055"
+ ],
+ "peroneos": [
+  "rn-mi-056",
+  "rn-mi-057",
+  "rn-mi-058",
+  "rn-mi-059"
+ ],
+ "tibpost": [
+  "rn-mi-060",
+  "rn-mi-061",
+  "rn-mi-062",
+  "rn-mi-063"
+ ],
+ "gastro": [
+  "rn-mi-064",
+  "rn-mi-065",
+  "rn-mi-066",
+  "rn-mi-067"
+ ],
+ "soleo": [
+  "rn-mi-068",
+  "rn-mi-069",
+  "rn-mi-070"
+ ],
+ "fld": [
+  "rn-mi-071",
+  "rn-mi-072",
+  "rn-mi-073"
+ ],
+ "fldg": [
+  "rn-mi-074",
+  "rn-mi-075",
+  "rn-mi-076"
+ ],
+ "abdhallux": [
+  "rn-mi-077",
+  "rn-mi-078",
+  "rn-mi-079"
+ ],
+ "ecm": [
+  "rn-ax-001",
+  "rn-ax-002"
+ ],
+ "diafragma": [
+  "rn-ax-003",
+  "rn-ax-004",
+  "rn-ax-005",
+  "rn-ax-006"
+ ],
+ "flexcuello": [
+  "rn-ax-007",
+  "rn-ax-008"
+ ],
+ "paraesp": [
+  "rn-ax-009",
+  "rn-ax-010"
+ ],
+ "rectoabd": [
+  "rn-ax-011",
+  "rn-ax-012"
+ ],
+ "orbocular": [
+  "rn-ax-013",
+  "rn-ax-014",
+  "rn-ax-015"
+ ],
+ "orbboca": [
+  "rn-ax-016",
+  "rn-ax-017"
+ ],
+ "masetero": [
+  "rn-ax-018",
+  "rn-ax-019"
+ ],
+ "lengua": [
+  "rn-ax-020",
+  "rn-ax-021",
+  "rn-ax-022"
+ ],
+ "elevpalp": [
+  "rn-ax-023",
+  "rn-ax-024",
+  "rn-ax-025"
+ ],
+ "rectolat": [
+  "rn-ax-026",
+  "rn-ax-027"
+ ],
+ "oblsup": [
+  "rn-ax-028",
+  "rn-ax-029"
+ ],
+ "velo": [
+  "rn-ax-030",
+  "rn-ax-031"
+ ]
+}

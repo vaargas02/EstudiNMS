@@ -1,0 +1,282 @@
+[
+ {
+  "id": "rn-der-041",
+  "grupo": "L2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "L2",
+   "T12",
+   "L4",
+   "L3"
+  ],
+  "correcta": 0,
+  "explicacion": "L2: cara anteromedial del muslo, en su punto medio. L2 recorre la cara anteromedial del muslo en diagonal.",
+  "imagen": "img/punto-l2.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-042",
+  "grupo": "L2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: cara anteromedial del muslo, en su punto medio?",
+  "opciones": [
+   "L2",
+   "T12",
+   "T11",
+   "L5"
+  ],
+  "correcta": 0,
+  "explicacion": "L2: cara anteromedial del muslo, en su punto medio. L2 recorre la cara anteromedial del muslo en diagonal.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-043",
+  "grupo": "L3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "L3",
+   "L5",
+   "S1",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "L3: cóndilo femoral medial, justo por encima de la rodilla. L3 llega hasta la cara medial de la rodilla. Radiculopatía L3-L4: debilidad de cuádriceps y aductores.",
+  "imagen": "img/punto-l3.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-044",
+  "grupo": "L3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: cóndilo femoral medial, justo por encima de la rodilla?",
+  "opciones": [
+   "L3",
+   "L5",
+   "T12",
+   "L2"
+  ],
+  "correcta": 0,
+  "explicacion": "L3: cóndilo femoral medial, justo por encima de la rodilla. L3 llega hasta la cara medial de la rodilla. Radiculopatía L3-L4: debilidad de cuádriceps y aductores.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-045",
+  "grupo": "L4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en el pie?",
+  "opciones": [
+   "L4",
+   "S2",
+   "L5",
+   "L3"
+  ],
+  "correcta": 0,
+  "explicacion": "L4: maléolo medial. L4: cara medial de la pierna hasta el maléolo medial. En el mapa de Lee, L4 cubre la cara medial de la pierna sin cruzar el muslo.",
+  "imagen": "img/punto-l4.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-046",
+  "grupo": "L4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: maléolo medial?",
+  "opciones": [
+   "L4",
+   "L3",
+   "L1",
+   "L5"
+  ],
+  "correcta": 0,
+  "explicacion": "L4: maléolo medial. L4: cara medial de la pierna hasta el maléolo medial. En el mapa de Lee, L4 cubre la cara medial de la pierna sin cruzar el muslo.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-047",
+  "grupo": "L5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en el pie?",
+  "opciones": [
+   "L5",
+   "L4",
+   "L3",
+   "S3"
+  ],
+  "correcta": 0,
+  "explicacion": "L5: dorso del pie a nivel de la 3.ª articulación metatarsofalángica. L5: dorso del pie y dedo gordo. Radiculopatía L5: pie caído con inversión y abducción de cadera débiles.",
+  "imagen": "img/punto-l5.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-048",
+  "grupo": "L5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: dorso del pie a nivel de la 3.ª articulación metatarsofalángica?",
+  "opciones": [
+   "L5",
+   "S2",
+   "S3",
+   "L2"
+  ],
+  "correcta": 0,
+  "explicacion": "L5: dorso del pie a nivel de la 3.ª articulación metatarsofalángica. L5: dorso del pie y dedo gordo. Radiculopatía L5: pie caído con inversión y abducción de cadera débiles.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-049",
+  "grupo": "S1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en el pie?",
+  "opciones": [
+   "S1",
+   "L5",
+   "S2",
+   "S4-5"
+  ],
+  "correcta": 0,
+  "explicacion": "S1: cara lateral del talón (calcáneo). S1: borde lateral del pie, talón y planta. El dermatoma S1 es de los más constantes entre mapas.",
+  "imagen": "img/punto-s1.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-050",
+  "grupo": "S1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: cara lateral del talón (calcáneo)?",
+  "opciones": [
+   "S1",
+   "L3",
+   "S2",
+   "L5"
+  ],
+  "correcta": 0,
+  "explicacion": "S1: cara lateral del talón (calcáneo). S1: borde lateral del pie, talón y planta. El dermatoma S1 es de los más constantes entre mapas.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-051",
+  "grupo": "S2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista posterior)?",
+  "opciones": [
+   "S2",
+   "S1",
+   "S4-5",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "S2: línea media de la fosa poplítea. S2 ocupa la cara posterior del muslo y la pierna.",
+  "imagen": "img/punto-s2.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-052",
+  "grupo": "S2",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea media de la fosa poplítea?",
+  "opciones": [
+   "S2",
+   "S1",
+   "S4-5",
+   "S3"
+  ],
+  "correcta": 0,
+  "explicacion": "S2: línea media de la fosa poplítea. S2 ocupa la cara posterior del muslo y la pierna.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-053",
+  "grupo": "S3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista posterior)?",
+  "opciones": [
+   "S3",
+   "L5",
+   "S2",
+   "S4-5"
+  ],
+  "correcta": 0,
+  "explicacion": "S3: tuberosidad isquiática o pliegue infraglúteo. S3-S5 forman la «silla de montar»: su afectación con retención urinaria sugiere cauda equina.",
+  "imagen": "img/punto-s3.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-054",
+  "grupo": "S3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: tuberosidad isquiática o pliegue infraglúteo?",
+  "opciones": [
+   "S3",
+   "S2",
+   "S4-5",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "S3: tuberosidad isquiática o pliegue infraglúteo. S3-S5 forman la «silla de montar»: su afectación con retención urinaria sugiere cauda equina.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-055",
+  "grupo": "S4-5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista posterior)?",
+  "opciones": [
+   "S4-5",
+   "S2",
+   "S3",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "S4-5: área perianal, a menos de 1 cm lateral a la unión mucocutánea. La sensibilidad y la contracción anal voluntaria (S4-5) definen si una lesión medular es completa o incompleta en la ISNCSCI.",
+  "imagen": "img/punto-s45.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-056",
+  "grupo": "S4-5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: miembro inferior y sacro",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: área perianal, a menos de 1 cm lateral a la unión mucocutánea?",
+  "opciones": [
+   "S4-5",
+   "S3",
+   "S2",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "S4-5: área perianal, a menos de 1 cm lateral a la unión mucocutánea. La sensibilidad y la contracción anal voluntaria (S4-5) definen si una lesión medular es completa o incompleta en la ISNCSCI.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ }
+]

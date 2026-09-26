@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="272" viewBox="0 0 400 272" class="fig fig-plexus" role="img" aria-label="Esquema del plexo braquial"><style>
+  :root{--sil:#E1E8F0;--linea:#1F2F4A;--fondo:#FFFFFF;--tenue:#5E6E86;--tinta:#15233C;--zona:#0E7C7B;
+        --z1:#0E7C7B;--z2:#C8783E;--z3:#3B5BA9;--z4:#8E4FA6;--mal:#CF3F2E}
+  @media (prefers-color-scheme: dark){
+    :root{--sil:#243149;--linea:#9FB0C9;--fondo:#182235;--tinta:#E7EDF6;--tenue:#97A6BD;--zona:#3DB7B1;
+          --z1:#3DB7B1;--z2:#E39A5F;--z3:#7C9BE6;--z4:#B783CC;--mal:#F07563}
+  }
+  .fondo{fill:var(--fondo)}
+  .sil-out path,.sil-out ellipse{fill:none;stroke:var(--linea);stroke-width:3;stroke-linejoin:round}
+  .sil path,.sil ellipse{fill:var(--sil)}
+  .seg path{stroke:var(--fondo);stroke-width:.9}
+  .zone{fill:var(--zona)!important}
+  .z1{fill:var(--z1)!important}.z2{fill:var(--z2)!important}.z3{fill:var(--z3)!important}.z4{fill:var(--z4)!important}
+  .hide{fill:transparent!important;stroke:none!important}
+  rect.zone{opacity:.88}
+  .lm path,.lm ellipse,.lm rect,.lm circle{fill:none;stroke:var(--tenue);stroke-width:1;opacity:.8}
+  .lm .lmdot{fill:var(--tenue)}
+  .kp{fill:var(--linea)}
+  .kplabel{font:700 8.5px system-ui,sans-serif;fill:var(--tinta);paint-order:stroke;stroke:var(--fondo);stroke-width:2.5px}
+  .kp-on{fill:var(--mal);stroke:#fff;stroke-width:1.5}
+  .kp-halo{fill:var(--mal);opacity:.22}
+  .caption,.side{font:500 9px system-ui,sans-serif;fill:var(--tenue)}
+  .pl-a,.pl-b,.pl-c,.pl-lat,.pl-post,.pl-med,.pl-side{fill:none;stroke-width:2.6}
+  .pl-lat{stroke:var(--z1)}.pl-post{stroke:var(--z3)}.pl-med{stroke:var(--z2)}
+  .pl-a,.pl-b,.pl-c{stroke:var(--tenue)}
+  .pl-side{stroke:var(--tenue);stroke-width:1.2;stroke-dasharray:3 2}
+  .pl-node{fill:var(--tinta)}
+  .pl-lab{font:600 10.5px system-ui,sans-serif;fill:var(--tinta)}
+  .pl-br{font-weight:700}.pl-sub{fill:var(--tenue);font-weight:500}
+  .pl-small{font:500 8.5px system-ui,sans-serif;fill:var(--tenue)}
+  .pl-col{font:600 9px system-ui,sans-serif;fill:var(--tenue)}
+  .grid{stroke:var(--sil)}
+  .bar-l{fill:var(--z1)}.bar-s{fill:var(--z3)}
+</style><rect class="fondo" x="0" y="0" width="400" height="272"/><path d="M40,40 C80,40 80,60 120,60" class="pl-a"/><path d="M40,80 C80,80 80,60 120,60" class="pl-a"/><path d="M40,120 C80,120 80,120 120,120" class="pl-b"/><path d="M40,160 C80,160 80,180 120,180" class="pl-c"/><path d="M40,200 C80,200 80,180 120,180" class="pl-c"/><path d="M120,60 C160,60 160,70 200,70" class="pl-lat"/><path d="M120,120 C160,120 160,70 200,70" class="pl-lat"/><path d="M120,60 C160,60 160,130 200,130" class="pl-post"/><path d="M120,120 C160,120 160,130 200,130" class="pl-post"/><path d="M120,180 C160,180 160,130 200,130" class="pl-post"/><path d="M120,180 C160,180 160,190 200,190" class="pl-med"/><path d="M200,70 C240,70 240,36 280,36" class="pl-lat"/><path d="M200,70 C240,70 240,184 280,184" class="pl-lat"/><path d="M200,130 C240,130 240,98 280,98" class="pl-post"/><path d="M200,130 C240,130 240,140 280,140" class="pl-post"/><path d="M200,190 C240,190 240,184 280,184" class="pl-med"/><path d="M200,190 C240,190 240,236 280,236" class="pl-med"/><path d="M48,40 L62,18" class="pl-side"/><text x="64" y="16" class="pl-small">dorsal escápula</text><path d="M114,58 L128,26" class="pl-side"/><text x="130" y="24" class="pl-small">supraescapular</text><path d="M46,43 Q 54,80 52,120" class="pl-side"/><path d="M46,83 L52,114" class="pl-side"/><path d="M52,120 Q 58,190 56,216" class="pl-side"/><text x="60" y="224" class="pl-small">torácico largo (C5-C7)</text><circle cx="40" cy="40" r="4" class="pl-node"/><text x="31" y="44" text-anchor="end" class="pl-lab">C5</text><circle cx="40" cy="80" r="4" class="pl-node"/><text x="31" y="84" text-anchor="end" class="pl-lab">C6</text><circle cx="40" cy="120" r="4" class="pl-node"/><text x="31" y="124" text-anchor="end" class="pl-lab">C7</text><circle cx="40" cy="160" r="4" class="pl-node"/><text x="31" y="164" text-anchor="end" class="pl-lab">C8</text><circle cx="40" cy="200" r="4" class="pl-node"/><text x="31" y="204" text-anchor="end" class="pl-lab">T1</text><circle cx="120" cy="60" r="4" class="pl-node"/><text x="120" y="52" text-anchor="middle" class="pl-lab">superior</text><circle cx="120" cy="120" r="4" class="pl-node"/><text x="120" y="112" text-anchor="middle" class="pl-lab">medio</text><circle cx="120" cy="180" r="4" class="pl-node"/><text x="120" y="172" text-anchor="middle" class="pl-lab">inferior</text><circle cx="200" cy="70" r="4" class="pl-node"/><text x="200" y="62" text-anchor="middle" class="pl-lab">lateral</text><circle cx="200" cy="130" r="4" class="pl-node"/><text x="200" y="122" text-anchor="middle" class="pl-lab">posterior</text><circle cx="200" cy="190" r="4" class="pl-node"/><text x="200" y="182" text-anchor="middle" class="pl-lab">medial</text><circle cx="280" cy="36" r="4" class="pl-node"/><text x="288" y="40" class="pl-lab pl-br">Musculocutáneo</text><circle cx="280" cy="98" r="4" class="pl-node"/><text x="288" y="102" class="pl-lab pl-br">Axilar</text><circle cx="280" cy="140" r="4" class="pl-node"/><text x="288" y="144" class="pl-lab pl-br">Radial</text><circle cx="280" cy="184" r="4" class="pl-node"/><text x="288" y="188" class="pl-lab pl-br">Mediano</text><circle cx="280" cy="236" r="4" class="pl-node"/><text x="288" y="240" class="pl-lab pl-br">Cubital</text><text x="40" y="262" text-anchor="middle" class="pl-col">Raíces</text><text x="120" y="262" text-anchor="middle" class="pl-col">Troncos</text><text x="200" y="262" text-anchor="middle" class="pl-col">Fascículos</text><text x="288" y="262" class="pl-col">Nervios</text></svg>

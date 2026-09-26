@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="262" viewBox="0 0 200 262" class="fig fig-hand" role="img" aria-label="Mano derecha, dorso"><style>
+  :root{--sil:#E1E8F0;--linea:#1F2F4A;--fondo:#FFFFFF;--tenue:#5E6E86;--tinta:#15233C;--zona:#0E7C7B;
+        --z1:#0E7C7B;--z2:#C8783E;--z3:#3B5BA9;--z4:#8E4FA6;--mal:#CF3F2E}
+  @media (prefers-color-scheme: dark){
+    :root{--sil:#243149;--linea:#9FB0C9;--fondo:#182235;--tinta:#E7EDF6;--tenue:#97A6BD;--zona:#3DB7B1;
+          --z1:#3DB7B1;--z2:#E39A5F;--z3:#7C9BE6;--z4:#B783CC;--mal:#F07563}
+  }
+  .fondo{fill:var(--fondo)}
+  .sil-out path,.sil-out ellipse{fill:none;stroke:var(--linea);stroke-width:3;stroke-linejoin:round}
+  .sil path,.sil ellipse{fill:var(--sil)}
+  .seg path{stroke:var(--fondo);stroke-width:.9}
+  .zone{fill:var(--zona)!important}
+  .z1{fill:var(--z1)!important}.z2{fill:var(--z2)!important}.z3{fill:var(--z3)!important}.z4{fill:var(--z4)!important}
+  .hide{fill:transparent!important;stroke:none!important}
+  rect.zone{opacity:.88}
+  .lm path,.lm ellipse,.lm rect,.lm circle{fill:none;stroke:var(--tenue);stroke-width:1;opacity:.8}
+  .lm .lmdot{fill:var(--tenue)}
+  .kp{fill:var(--linea)}
+  .kplabel{font:700 8.5px system-ui,sans-serif;fill:var(--tinta);paint-order:stroke;stroke:var(--fondo);stroke-width:2.5px}
+  .kp-on{fill:var(--mal);stroke:#fff;stroke-width:1.5}
+  .kp-halo{fill:var(--mal);opacity:.22}
+  .caption,.side{font:500 9px system-ui,sans-serif;fill:var(--tenue)}
+  .pl-a,.pl-b,.pl-c,.pl-lat,.pl-post,.pl-med,.pl-side{fill:none;stroke-width:2.6}
+  .pl-lat{stroke:var(--z1)}.pl-post{stroke:var(--z3)}.pl-med{stroke:var(--z2)}
+  .pl-a,.pl-b,.pl-c{stroke:var(--tenue)}
+  .pl-side{stroke:var(--tenue);stroke-width:1.2;stroke-dasharray:3 2}
+  .pl-node{fill:var(--tinta)}
+  .pl-lab{font:600 10.5px system-ui,sans-serif;fill:var(--tinta)}
+  .pl-br{font-weight:700}.pl-sub{fill:var(--tenue);font-weight:500}
+  .pl-small{font:500 8.5px system-ui,sans-serif;fill:var(--tenue)}
+  .pl-col{font:600 9px system-ui,sans-serif;fill:var(--tenue)}
+  .grid{stroke:var(--sil)}
+  .bar-l{fill:var(--z1)}.bar-s{fill:var(--z3)}
+</style><rect class="fondo" x="0" y="0" width="200" height="262"/>
+    <g ><g class="sil-out"><path d="M56,118 L114,118 L114,236 Q84,235 66,214 Q58,196 57,170 Z"/><path d="M114,118 L152,118 Q153,150 150,176 Q146,218 114,236 Z"/><path d="M58,84 L78,84 L78,120 L58,120 Z"/><path d="M58,86 L58,52 Q58,42 68,42 Q78,42 78,52 L78,86 Z"/><path d="M81,78 L101,78 L101,120 L81,120 Z"/><path d="M81,80 L81,38 Q81,28 91,28 Q101,28 101,38 L101,80 Z"/><path d="M104,82 L114,82 L114,120 L104,120 Z"/><path d="M104,48 Q104,38 114,38 L114,84 L104,84 Z"/><path d="M114,82 L124,82 L124,120 L114,120 Z"/><path d="M114,38 Q124,38 124,48 L124,84 L114,84 Z"/><path d="M127,93 L145,93 L145,122 L127,122 Z"/><path d="M127,95 L127,71 Q127,62 136,62 Q145,62 145,71 L145,95 Z"/><path d="M81.6,197.1 C80.9,191.9 72.8,183.8 68.8,177.7 C64.8,171.7 61.7,163.7 57.6,160.7 C53.5,157.6 47.5,157.5 44.3,159.3 C41.1,161.0 37.9,166.2 38.4,171.3 C38.9,176.5 43.8,183.7 47.2,190.3 C50.5,196.9 54.2,207.9 58.4,210.9 C62.7,214.0 68.9,210.9 72.8,208.6 C76.6,206.3 82.2,202.2 81.6,197.1Z"/><path d="M58.7,162.9 C58.4,158.6 51.7,151.0 48.9,146.4 C46.0,141.8 44.5,137.3 41.6,135.2 C38.7,133.1 33.9,132.4 31.3,133.7 C28.8,134.9 26.4,139.1 26.4,142.8 C26.4,146.5 29.0,150.5 31.1,155.6 C33.3,160.7 36.0,170.4 39.3,173.1 C42.6,175.9 47.8,173.6 51.1,171.9 C54.3,170.2 59.1,167.1 58.7,162.9Z"/></g><g class="sil seg"><path d="M56,118 L114,118 L114,236 Q84,235 66,214 Q58,196 57,170 Z" class="z3"/><path d="M114,118 L152,118 Q153,150 150,176 Q146,218 114,236 Z" class="z2"/><path d="M58,84 L78,84 L78,120 L58,120 Z" class="z3"/><path d="M58,86 L58,52 Q58,42 68,42 Q78,42 78,52 L78,86 Z" class="z1"/><path d="M81,78 L101,78 L101,120 L81,120 Z" class="z3"/><path d="M81,80 L81,38 Q81,28 91,28 Q101,28 101,38 L101,80 Z" class="z1"/><path d="M104,82 L114,82 L114,120 L104,120 Z" class="z3"/><path d="M104,48 Q104,38 114,38 L114,84 L104,84 Z" class="z1"/><path d="M114,82 L124,82 L124,120 L114,120 Z" class="z2"/><path d="M114,38 Q124,38 124,48 L124,84 L114,84 Z" class="z2"/><path d="M127,93 L145,93 L145,122 L127,122 Z" class="z2"/><path d="M127,95 L127,71 Q127,62 136,62 Q145,62 145,71 L145,95 Z" class="z2"/><path d="M81.6,197.1 C80.9,191.9 72.8,183.8 68.8,177.7 C64.8,171.7 61.7,163.7 57.6,160.7 C53.5,157.6 47.5,157.5 44.3,159.3 C41.1,161.0 37.9,166.2 38.4,171.3 C38.9,176.5 43.8,183.7 47.2,190.3 C50.5,196.9 54.2,207.9 58.4,210.9 C62.7,214.0 68.9,210.9 72.8,208.6 C76.6,206.3 82.2,202.2 81.6,197.1Z" class="z3"/><path d="M58.7,162.9 C58.4,158.6 51.7,151.0 48.9,146.4 C46.0,141.8 44.5,137.3 41.6,135.2 C38.7,133.1 33.9,132.4 31.3,133.7 C28.8,134.9 26.4,139.1 26.4,142.8 C26.4,146.5 29.0,150.5 31.1,155.6 C33.3,160.7 36.0,170.4 39.3,173.1 C42.6,175.9 47.8,173.6 51.1,171.9 C54.3,170.2 59.1,167.1 58.7,162.9Z" class="z3"/></g><g class="lm">
+      <rect x="62" y="46" width="12" height="11" rx="4"/><rect x="85" y="32" width="12" height="11" rx="4"/>
+      <rect x="108" y="42" width="12" height="11" rx="4"/><rect x="130" y="66" width="10" height="9" rx="3.5"/>
+            <path d="M68,120 q0,-3 4,-3"/><path d="M90,119 q0,-3 4,-3"/><path d="M113,119 q0,-3 4,-3"/><path d="M134,120 q0,-3 4,-3"/>
+    </g></g>
+    <text x="100" y="256" class="caption" text-anchor="middle">Mano derecha, dorso</text>
+  </svg>

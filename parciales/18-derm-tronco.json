@@ -1,0 +1,387 @@
+[
+ {
+  "id": "rn-der-019",
+  "grupo": "T3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T3",
+   "T4",
+   "T6",
+   "T5"
+  ],
+  "correcta": 0,
+  "explicacion": "T3: línea medioclavicular, 3.er espacio intercostal. En el tórax, los dermatomas son bandas casi horizontales y ordenadas.",
+  "imagen": "img/punto-t3.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-020",
+  "grupo": "T3",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, 3.er espacio intercostal?",
+  "opciones": [
+   "T3",
+   "T2",
+   "T5",
+   "T4"
+  ],
+  "correcta": 0,
+  "explicacion": "T3: línea medioclavicular, 3.er espacio intercostal. En el tórax, los dermatomas son bandas casi horizontales y ordenadas.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-021",
+  "grupo": "T4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T4",
+   "T2",
+   "T5",
+   "T3"
+  ],
+  "correcta": 0,
+  "explicacion": "T4: línea medioclavicular, 4.º espacio intercostal (línea de los pezones). Referencia clásica: T4 = línea de los pezones.",
+  "imagen": "img/punto-t4.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-022",
+  "grupo": "T4",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, 4.º espacio intercostal (línea de los pezones)?",
+  "opciones": [
+   "T4",
+   "T1",
+   "T2",
+   "T7"
+  ],
+  "correcta": 0,
+  "explicacion": "T4: línea medioclavicular, 4.º espacio intercostal (línea de los pezones). Referencia clásica: T4 = línea de los pezones.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-023",
+  "grupo": "T5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T5",
+   "T2",
+   "T4",
+   "T3"
+  ],
+  "correcta": 0,
+  "explicacion": "T5: línea medioclavicular, 5.º espacio intercostal (entre t4 y t6). Punto intermedio entre T4 (pezones) y T6 (xifoides).",
+  "imagen": "img/punto-t5.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-024",
+  "grupo": "T5",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, 5.º espacio intercostal (entre t4 y t6)?",
+  "opciones": [
+   "T5",
+   "T2",
+   "T7",
+   "T4"
+  ],
+  "correcta": 0,
+  "explicacion": "T5: línea medioclavicular, 5.º espacio intercostal (entre t4 y t6). Punto intermedio entre T4 (pezones) y T6 (xifoides).",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-025",
+  "grupo": "T6",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T6",
+   "T4",
+   "T3",
+   "T5"
+  ],
+  "correcta": 0,
+  "explicacion": "T6: línea medioclavicular, a nivel del apéndice xifoides. Referencia clásica: T6 = apéndice xifoides.",
+  "imagen": "img/punto-t6.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-026",
+  "grupo": "T6",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, a nivel del apéndice xifoides?",
+  "opciones": [
+   "T6",
+   "T4",
+   "T3",
+   "T5"
+  ],
+  "correcta": 0,
+  "explicacion": "T6: línea medioclavicular, a nivel del apéndice xifoides. Referencia clásica: T6 = apéndice xifoides.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-027",
+  "grupo": "T7",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T7",
+   "T4",
+   "T10",
+   "T5"
+  ],
+  "correcta": 0,
+  "explicacion": "T7: línea medioclavicular, a 1/4 de la distancia entre el xifoides y el ombligo. Entre xifoides (T6) y ombligo (T10) se reparten T7, T8 y T9 en cuartos.",
+  "imagen": "img/punto-t7.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-028",
+  "grupo": "T7",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, a 1/4 de la distancia entre el xifoides y el ombligo?",
+  "opciones": [
+   "T7",
+   "T9",
+   "T8",
+   "T6"
+  ],
+  "correcta": 0,
+  "explicacion": "T7: línea medioclavicular, a 1/4 de la distancia entre el xifoides y el ombligo. Entre xifoides (T6) y ombligo (T10) se reparten T7, T8 y T9 en cuartos.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-029",
+  "grupo": "T8",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T8",
+   "T11",
+   "T5",
+   "T7"
+  ],
+  "correcta": 0,
+  "explicacion": "T8: línea medioclavicular, a mitad de camino entre el xifoides y el ombligo. Entre xifoides (T6) y ombligo (T10) se reparten T7, T8 y T9 en cuartos.",
+  "imagen": "img/punto-t8.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-030",
+  "grupo": "T8",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, a mitad de camino entre el xifoides y el ombligo?",
+  "opciones": [
+   "T8",
+   "T9",
+   "T5",
+   "T11"
+  ],
+  "correcta": 0,
+  "explicacion": "T8: línea medioclavicular, a mitad de camino entre el xifoides y el ombligo. Entre xifoides (T6) y ombligo (T10) se reparten T7, T8 y T9 en cuartos.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-031",
+  "grupo": "T9",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T9",
+   "T12",
+   "T7",
+   "T11"
+  ],
+  "correcta": 0,
+  "explicacion": "T9: línea medioclavicular, a 3/4 de la distancia entre el xifoides y el ombligo. Entre xifoides (T6) y ombligo (T10) se reparten T7, T8 y T9 en cuartos.",
+  "imagen": "img/punto-t9.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-032",
+  "grupo": "T9",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, a 3/4 de la distancia entre el xifoides y el ombligo?",
+  "opciones": [
+   "T9",
+   "T12",
+   "T7",
+   "T11"
+  ],
+  "correcta": 0,
+  "explicacion": "T9: línea medioclavicular, a 3/4 de la distancia entre el xifoides y el ombligo. Entre xifoides (T6) y ombligo (T10) se reparten T7, T8 y T9 en cuartos.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-033",
+  "grupo": "T10",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T10",
+   "T8",
+   "L1",
+   "T11"
+  ],
+  "correcta": 0,
+  "explicacion": "T10: línea medioclavicular, a nivel del ombligo. Referencia clásica: T10 = ombligo.",
+  "imagen": "img/punto-t10.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-034",
+  "grupo": "T10",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, a nivel del ombligo?",
+  "opciones": [
+   "T10",
+   "T8",
+   "T11",
+   "T7"
+  ],
+  "correcta": 0,
+  "explicacion": "T10: línea medioclavicular, a nivel del ombligo. Referencia clásica: T10 = ombligo.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-035",
+  "grupo": "T11",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T11",
+   "T12",
+   "T10",
+   "L2"
+  ],
+  "correcta": 0,
+  "explicacion": "T11: línea medioclavicular, a mitad de camino entre el ombligo y el ligamento inguinal. Entre el ombligo (T10) y el ligamento inguinal (T12).",
+  "imagen": "img/punto-t11.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-036",
+  "grupo": "T11",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, a mitad de camino entre el ombligo y el ligamento inguinal?",
+  "opciones": [
+   "T11",
+   "L2",
+   "T12",
+   "L1"
+  ],
+  "correcta": 0,
+  "explicacion": "T11: línea medioclavicular, a mitad de camino entre el ombligo y el ligamento inguinal. Entre el ombligo (T10) y el ligamento inguinal (T12).",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-037",
+  "grupo": "T12",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "T12",
+   "T11",
+   "T10",
+   "L3"
+  ],
+  "correcta": 0,
+  "explicacion": "T12: línea medioclavicular, punto medio del ligamento inguinal. T12 = ligamento inguinal. L1 empieza justo por debajo (ingle).",
+  "imagen": "img/punto-t12.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-038",
+  "grupo": "T12",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: línea medioclavicular, punto medio del ligamento inguinal?",
+  "opciones": [
+   "T12",
+   "T11",
+   "T9",
+   "L2"
+  ],
+  "correcta": 0,
+  "explicacion": "T12: línea medioclavicular, punto medio del ligamento inguinal. T12 = ligamento inguinal. L1 empieza justo por debajo (ingle).",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-039",
+  "grupo": "L1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿Qué dermatoma corresponde al punto marcado en la figura (vista anterior)?",
+  "opciones": [
+   "L1",
+   "L3",
+   "T12",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "L1: a mitad de camino entre los puntos de t12 y l2 (parte alta de la cara anterior del muslo). L1 = región inguinal y parte alta del muslo anterior.",
+  "imagen": "img/punto-l1.svg",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ },
+ {
+  "id": "rn-der-040",
+  "grupo": "L1",
+  "tema": "Sensibilidad",
+  "subtema": "Dermatomas: tronco",
+  "teoria": "dermatomas",
+  "enunciado": "¿De qué dermatoma es este punto clave: a mitad de camino entre los puntos de t12 y l2 (parte alta de la cara anterior del muslo)?",
+  "opciones": [
+   "L1",
+   "L2",
+   "L3",
+   "T10"
+  ],
+  "correcta": 0,
+  "explicacion": "L1: a mitad de camino entre los puntos de t12 y l2 (parte alta de la cara anterior del muslo). L1 = región inguinal y parte alta del muslo anterior.",
+  "fuente": "Puntos clave sensitivos ISNCSCI (ASIA)"
+ }
+]

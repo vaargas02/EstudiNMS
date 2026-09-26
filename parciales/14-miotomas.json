@@ -1,0 +1,322 @@
+[
+ {
+  "id": "rn-mio-001",
+  "grupo": "C5",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de C5 en la ISNCSCI?",
+  "opciones": [
+   "Flexores del codo",
+   "Dorsiflexores del tobillo",
+   "Flexores plantares del tobillo",
+   "Abductores de los dedos (meñique)"
+  ],
+  "correcta": 0,
+  "explicacion": "C5: flexores del codo. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-002",
+  "grupo": "C5",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: flexores del codo?",
+  "opciones": [
+   "C5",
+   "C8",
+   "C6",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexores del codo: nivel C5. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-003",
+  "grupo": "C6",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de C6 en la ISNCSCI?",
+  "opciones": [
+   "Extensores de la muñeca",
+   "Flexores de los dedos (IFD del medio)",
+   "Extensores de la rodilla",
+   "Abductores de los dedos (meñique)"
+  ],
+  "correcta": 0,
+  "explicacion": "C6: extensores de la muñeca. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-004",
+  "grupo": "C6",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: extensores de la muñeca?",
+  "opciones": [
+   "C6",
+   "C7",
+   "C8",
+   "T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensores de la muñeca: nivel C6. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-005",
+  "grupo": "C7",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de C7 en la ISNCSCI?",
+  "opciones": [
+   "Extensores del codo",
+   "Extensores largos de los dedos (dedo gordo)",
+   "Abductores de los dedos (meñique)",
+   "Extensores de la rodilla"
+  ],
+  "correcta": 0,
+  "explicacion": "C7: extensores del codo. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-006",
+  "grupo": "C7",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: extensores del codo?",
+  "opciones": [
+   "C7",
+   "T1",
+   "C6",
+   "L2"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensores del codo: nivel C7. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-007",
+  "grupo": "C8",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de C8 en la ISNCSCI?",
+  "opciones": [
+   "Flexores de los dedos (IFD del medio)",
+   "Flexores de la cadera",
+   "Extensores de la rodilla",
+   "Flexores plantares del tobillo"
+  ],
+  "correcta": 0,
+  "explicacion": "C8: flexores de los dedos (ifd del medio). Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-008",
+  "grupo": "C8",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: flexores de los dedos (ifd del medio)?",
+  "opciones": [
+   "C8",
+   "C5",
+   "C6",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexores de los dedos (IFD del medio): nivel C8. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-009",
+  "grupo": "T1",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de T1 en la ISNCSCI?",
+  "opciones": [
+   "Abductores de los dedos (meñique)",
+   "Flexores del codo",
+   "Extensores del codo",
+   "Dorsiflexores del tobillo"
+  ],
+  "correcta": 0,
+  "explicacion": "T1: abductores de los dedos (meñique). Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-010",
+  "grupo": "T1",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: abductores de los dedos (meñique)?",
+  "opciones": [
+   "T1",
+   "L3",
+   "C6",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductores de los dedos (meñique): nivel T1. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-011",
+  "grupo": "L2",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de L2 en la ISNCSCI?",
+  "opciones": [
+   "Flexores de la cadera",
+   "Extensores de la rodilla",
+   "Abductores de los dedos (meñique)",
+   "Extensores de la muñeca"
+  ],
+  "correcta": 0,
+  "explicacion": "L2: flexores de la cadera. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-012",
+  "grupo": "L2",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: flexores de la cadera?",
+  "opciones": [
+   "L2",
+   "L4",
+   "L3",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexores de la cadera: nivel L2. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-013",
+  "grupo": "L3",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de L3 en la ISNCSCI?",
+  "opciones": [
+   "Extensores de la rodilla",
+   "Extensores largos de los dedos (dedo gordo)",
+   "Flexores del codo",
+   "Flexores plantares del tobillo"
+  ],
+  "correcta": 0,
+  "explicacion": "L3: extensores de la rodilla. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-014",
+  "grupo": "L3",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: extensores de la rodilla?",
+  "opciones": [
+   "L3",
+   "L2",
+   "S1",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensores de la rodilla: nivel L3. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-015",
+  "grupo": "L4",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de L4 en la ISNCSCI?",
+  "opciones": [
+   "Dorsiflexores del tobillo",
+   "Flexores del codo",
+   "Extensores largos de los dedos (dedo gordo)",
+   "Extensores de la muñeca"
+  ],
+  "correcta": 0,
+  "explicacion": "L4: dorsiflexores del tobillo. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-016",
+  "grupo": "L4",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: dorsiflexores del tobillo?",
+  "opciones": [
+   "L4",
+   "T1",
+   "L3",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Dorsiflexores del tobillo: nivel L4. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-017",
+  "grupo": "L5",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de L5 en la ISNCSCI?",
+  "opciones": [
+   "Extensores largos de los dedos (dedo gordo)",
+   "Dorsiflexores del tobillo",
+   "Flexores del codo",
+   "Flexores de los dedos (IFD del medio)"
+  ],
+  "correcta": 0,
+  "explicacion": "L5: extensores largos de los dedos (dedo gordo). Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-018",
+  "grupo": "L5",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: extensores largos de los dedos (dedo gordo)?",
+  "opciones": [
+   "L5",
+   "L4",
+   "S1",
+   "L3"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensores largos de los dedos (dedo gordo): nivel L5. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-019",
+  "grupo": "S1",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "¿Cuál es el músculo clave de S1 en la ISNCSCI?",
+  "opciones": [
+   "Flexores plantares del tobillo",
+   "Flexores de la cadera",
+   "Flexores de los dedos (IFD del medio)",
+   "Dorsiflexores del tobillo"
+  ],
+  "correcta": 0,
+  "explicacion": "S1: flexores plantares del tobillo. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ },
+ {
+  "id": "rn-mio-020",
+  "grupo": "S1",
+  "tema": "Exploración",
+  "subtema": "Miotomas ISNCSCI",
+  "teoria": "miotomas",
+  "enunciado": "En la ISNCSCI, ¿qué nivel explora este movimiento: flexores plantares del tobillo?",
+  "opciones": [
+   "S1",
+   "L5",
+   "L3",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexores plantares del tobillo: nivel S1. Los diez músculos clave son: C5: flexores del codo; C6: extensores de la muñeca; C7: extensores del codo; C8: flexores de los dedos (ifd del medio); T1: abductores de los dedos (meñique); L2: flexores de la cadera; L3: extensores de la rodilla; L4: dorsiflexores del tobillo; L5: extensores largos de los dedos (dedo gordo); S1: flexores plantares del tobillo."
+ }
+]

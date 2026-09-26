@@ -1,0 +1,114 @@
+[
+ {
+  "id": "rn-emg-019",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "¿Qué valor tienen las fasciculaciones en ELA según los criterios de Awaji?",
+  "opciones": [
+   "Equivalen a fibrilaciones/ondas positivas si hay cambios neurógenos crónicos",
+   "Ninguno",
+   "Son diagnósticas por sí solas",
+   "Indican miopatía asociada"
+  ],
+  "correcta": 0,
+  "explicacion": "Awaji incorporó las fasciculaciones (sobre todo complejas) como signo de denervación activa, aumentando la sensibilidad sin perder especificidad."
+ },
+ {
+  "id": "rn-emg-020",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "En la ELA, ¿cómo están los SNAPs?",
+  "opciones": [
+   "Normales",
+   "Reducidos en todos los nervios",
+   "Ausentes",
+   "Con latencias muy prolongadas"
+  ],
+  "correcta": 0,
+  "explicacion": "La ELA es una enfermedad de motoneurona. SNAPs bajos obligan a replantear: la enfermedad de Kennedy (atrofia bulboespinal) asocia neuronopatía sensitiva con SNAPs reducidos."
+ },
+ {
+  "id": "rn-emg-032",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "¿Qué suele mostrar la EMG en la miopatía por corticoides?",
+  "opciones": [
+   "EMG a menudo normal, sin actividad espontánea",
+   "Fibrilaciones abundantes",
+   "Descargas miotónicas",
+   "Patrón neurógeno crónico"
+  ],
+  "correcta": 0,
+  "explicacion": "Afecta sobre todo a fibras tipo 2, que contribuyen poco a los PUMs de baja fuerza. Una EMG con fibrilaciones en un paciente con corticoides sugiere reactivación de la miositis."
+ },
+ {
+  "id": "rn-emg-033",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "¿Qué miopatías cursan típicamente con fibrilaciones?",
+  "opciones": [
+   "Miopatías inflamatorias y necrotizantes (y distrofias como Duchenne)",
+   "Miopatía por corticoides",
+   "Atrofia por desuso",
+   "Miopatía mitocondrial sin necrosis"
+  ],
+  "correcta": 0,
+  "explicacion": "La necrosis segmentaria separa parte de la fibra de su placa motora y la «denerva»."
+ },
+ {
+  "id": "rn-emg-034",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "¿Qué patrón EMG es típico de la miositis por cuerpos de inclusión?",
+  "opciones": [
+   "Mezcla de PUMs miopáticos y PUMs grandes de aspecto neurógeno, con fibrilaciones",
+   "Patrón neurógeno puro",
+   "EMG normal",
+   "Solo descargas miotónicas"
+  ],
+  "correcta": 0,
+  "explicacion": "La mezcla puede confundirse con enfermedad de motoneurona. Clínica: debilidad de flexores de los dedos y cuádriceps, a menudo asimétrica."
+ },
+ {
+  "id": "rn-emg-035",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "Prueba de ejercicio largo (McManis) en una parálisis periódica. ¿Qué es característico?",
+  "opciones": [
+   "Caída progresiva de la amplitud del CMAP >40% tras el ejercicio",
+   "Incremento >100% tras el ejercicio",
+   "Decremento a 3 Hz",
+   "Sin cambios"
+  ],
+  "correcta": 0,
+  "explicacion": "Útil en parálisis periódicas primarias entre ataques. La prueba de ejercicio corto ayuda a diferenciar las canalopatías miotónicas."
+ },
+ {
+  "id": "rn-emg-036",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Miopatías y motoneurona",
+  "teoria": "emg-miopatias",
+  "enunciado": "¿Qué orienta a miopatía del paciente crítico frente a polineuropatía del crítico?",
+  "opciones": [
+   "CMAP bajos de duración aumentada, SNAPs normales e inexcitabilidad a la estimulación muscular directa",
+   "SNAPs ausentes con CMAP normales",
+   "Enlentecimiento desmielinizante difuso",
+   "Decremento a 3 Hz"
+  ],
+  "correcta": 0,
+  "explicacion": "La polineuropatía del crítico es axonal sensitivomotora (SNAP y CMAP bajos). Ambas pueden coexistir."
+ }
+]

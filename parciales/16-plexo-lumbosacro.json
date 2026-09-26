@@ -1,0 +1,138 @@
+[
+ {
+  "id": "rn-plx-012",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el nervio femoral?",
+  "opciones": [
+   "L2–L4 (divisiones posteriores)",
+   "L4–S3",
+   "L1–L2",
+   "L5–S2"
+  ],
+  "correcta": 0,
+  "explicacion": "El femoral y el obturador comparten raíces (L2-L4), pero el femoral sale de las divisiones posteriores y el obturador de las anteriores.",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-013",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el nervio obturador?",
+  "opciones": [
+   "L2–L4 (divisiones anteriores)",
+   "L4–S1",
+   "L5–S2",
+   "T12–L1"
+  ],
+  "correcta": 0,
+  "explicacion": "Inerva los aductores y una pequeña zona cutánea de la cara medial del muslo.",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-014",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el femorocutáneo lateral?",
+  "opciones": [
+   "L2–L3",
+   "L4–L5",
+   "S1–S2",
+   "L1"
+  ],
+  "correcta": 0,
+  "explicacion": "Nervio sensitivo puro de la cara anterolateral del muslo. Su compresión bajo el ligamento inguinal produce la meralgia parestésica.",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-015",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el nervio ciático?",
+  "opciones": [
+   "L4–S3",
+   "L2–L4",
+   "L1–L3",
+   "S2–S4"
+  ],
+  "correcta": 0,
+  "explicacion": "Se divide en tibial (L4-S3) y peroneo común (L4-S2).",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-016",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el nervio glúteo superior?",
+  "opciones": [
+   "L4–S1",
+   "L5–S2",
+   "L2–L4",
+   "S2–S4"
+  ],
+  "correcta": 0,
+  "explicacion": "Inerva glúteo medio, menor y tensor de la fascia lata.",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-017",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el nervio glúteo inferior?",
+  "opciones": [
+   "L5–S2",
+   "L4–S1",
+   "L2–L4",
+   "S2–S4"
+  ],
+  "correcta": 0,
+  "explicacion": "Inerva solo el glúteo mayor. Nace de las divisiones posteriores de L5-S2 y no inerva ningún otro músculo, así que su lesión aislada da dificultad para levantarse de la silla y subir escaleras, con abducción de cadera normal.",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-018",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Qué raíces forman el nervio pudendo?",
+  "opciones": [
+   "S2–S4",
+   "L4–S1",
+   "L1–L2",
+   "S1–S2"
+  ],
+  "correcta": 0,
+  "explicacion": "Esfínteres, periné y sensibilidad genital. «S2, 3 y 4 mantienen el suelo pélvico».",
+  "imagen": "img/plexo-lumbosacro.svg"
+ },
+ {
+  "id": "rn-plx-019",
+  "grupo": "Plexos",
+  "tema": "Plexos",
+  "subtema": "Plexo lumbosacro",
+  "teoria": "plexo-lumbosacro",
+  "enunciado": "¿Por qué las lesiones del ciático pueden simular una neuropatía peroneal?",
+  "opciones": [
+   "La división peronea es más vulnerable dentro del propio ciático",
+   "Porque el ciático no tiene fibras tibiales",
+   "Porque el peroneo sale del plexo lumbar",
+   "Porque el tibial no inerva ningún músculo de la pierna"
+  ],
+  "correcta": 0,
+  "explicacion": "Las divisiones tibial y peronea viajan separadas dentro del ciático desde la pelvis. La peronea tiene menos tejido conectivo y está más fija: en lesiones ciáticas (inyección glútea, cirugía de cadera) puede dominar el pie caído. Busca la cabeza corta del bíceps femoral en EMG.",
+  "imagen": "img/plexo-lumbosacro.svg"
+ }
+]

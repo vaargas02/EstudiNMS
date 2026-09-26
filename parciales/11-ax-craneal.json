@@ -1,0 +1,353 @@
+[
+ {
+  "id": "rn-ax-001",
+  "enunciado": "¿Qué nervio inerva el esternocleidomastoideo?",
+  "opciones": [
+   "Accesorio espinal (XI)",
+   "Facial (VII)",
+   "Trigémino (V3, mandibular)",
+   "Oculomotor (III)"
+  ],
+  "correcta": 0,
+  "explicacion": "Con el trapecio, es el músculo del XI par. Su debilidad es frecuente en distrofia miotónica tipo 1 (con atrofia, «cuello de cisne»).",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ax-002",
+  "enunciado": "¿Cuál es la función principal del esternocleidomastoideo?",
+  "opciones": [
+   "Rotación de la cabeza al lado contrario y flexión del cuello",
+   "Inspiración",
+   "Elevación del velo y deglución",
+   "Cierre de los labios (silbar, soplar)"
+  ],
+  "correcta": 0,
+  "explicacion": "Esternocleidomastoideo: rotación de la cabeza al lado contrario y flexión del cuello. Nervio: Accesorio espinal (XI). Con el trapecio, es el músculo del XI par. Su debilidad es frecuente en distrofia miotónica tipo 1 (con atrofia, «cuello de cisne»)."
+ },
+ {
+  "id": "rn-ax-013",
+  "enunciado": "¿Qué nervio inerva el orbicular de los ojos?",
+  "opciones": [
+   "Facial (VII)",
+   "Glosofaríngeo y vago (IX, X)",
+   "Abducens (VI)",
+   "Intercostales / toracoabdominales (T6–T12)"
+  ],
+  "correcta": 0,
+  "explicacion": "Debilidad facial en miastenia, distrofia FSH, distrofia miotónica y GBS (diplejía facial). En miastenia, el cierre ocular débil es muy frecuente incluso en formas oculares.",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-014",
+  "enunciado": "¿Cuál es la función principal del orbicular de los ojos?",
+  "opciones": [
+   "Cierre palpebral",
+   "Elevación del velo y deglución",
+   "Flexión del cuello",
+   "Elevación del párpado"
+  ],
+  "correcta": 0,
+  "explicacion": "Orbicular de los ojos: cierre palpebral. Nervio: Facial (VII). Debilidad facial en miastenia, distrofia FSH, distrofia miotónica y GBS (diplejía facial). En miastenia, el cierre ocular débil es muy frecuente incluso en formas oculares."
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-015",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: cierre palpebral?",
+  "opciones": [
+   "Orbicular de los ojos",
+   "Recto lateral",
+   "Velo del paladar y faringe",
+   "Flexores del cuello"
+  ],
+  "correcta": 0,
+  "explicacion": "Orbicular de los ojos: Facial (VII). Debilidad facial en miastenia, distrofia FSH, distrofia miotónica y GBS (diplejía facial). En miastenia, el cierre ocular débil es muy frecuente incluso en formas oculares."
+ },
+ {
+  "id": "rn-ax-016",
+  "enunciado": "¿Qué nervio inerva el orbicular de la boca?",
+  "opciones": [
+   "Facial (VII)",
+   "Glosofaríngeo y vago (IX, X)",
+   "Ramos dorsales de los nervios espinales",
+   "Trigémino (V3, mandibular)"
+  ],
+  "correcta": 0,
+  "explicacion": "No poder silbar ni hinchar las mejillas es típico de la distrofia facioescapulohumeral.",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-017",
+  "enunciado": "¿Cuál es la función principal del orbicular de la boca?",
+  "opciones": [
+   "Cierre de los labios (silbar, soplar)",
+   "Cierre de la mandíbula (masticación)",
+   "Inspiración",
+   "Protrusión de la lengua (se desvía hacia el lado débil)"
+  ],
+  "correcta": 0,
+  "explicacion": "Orbicular de la boca: cierre de los labios (silbar, soplar). Nervio: Facial (VII). No poder silbar ni hinchar las mejillas es típico de la distrofia facioescapulohumeral."
+ },
+ {
+  "id": "rn-ax-018",
+  "enunciado": "¿Qué nervio inerva el masetero y temporal?",
+  "opciones": [
+   "Trigémino (V3, mandibular)",
+   "Hipogloso (XII)",
+   "Intercostales / toracoabdominales (T6–T12)",
+   "Troclear (IV)"
+  ],
+  "correcta": 0,
+  "explicacion": "La debilidad del cierre mandibular es característica de la miastenia (el paciente se sujeta la mandíbula). En ELA puede haber reflejo maseterino exaltado (1.ª motoneurona bulbar).",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-019",
+  "enunciado": "¿Cuál es la función principal del masetero y temporal?",
+  "opciones": [
+   "Cierre de la mandíbula (masticación)",
+   "Elevación del párpado",
+   "Rotación de la cabeza al lado contrario y flexión del cuello",
+   "Cierre de los labios (silbar, soplar)"
+  ],
+  "correcta": 0,
+  "explicacion": "Masetero y temporal: cierre de la mandíbula (masticación). Nervio: Trigémino (V3, mandibular). La debilidad del cierre mandibular es característica de la miastenia (el paciente se sujeta la mandíbula). En ELA puede haber reflejo maseterino exaltado (1.ª motoneurona bulbar)."
+ },
+ {
+  "id": "rn-ax-020",
+  "enunciado": "¿Qué nervio inerva el musculatura de la lengua (geniogloso)?",
+  "opciones": [
+   "Hipogloso (XII)",
+   "Trigémino (V3, mandibular)",
+   "Abducens (VI)",
+   "Facial (VII)"
+  ],
+  "correcta": 0,
+  "explicacion": "Atrofia y fasciculaciones linguales: signo de 2.ª motoneurona bulbar (ELA, enfermedad de Kennedy).",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-021",
+  "enunciado": "¿Cuál es la función principal del musculatura de la lengua (geniogloso)?",
+  "opciones": [
+   "Protrusión de la lengua (se desvía hacia el lado débil)",
+   "Depresión del ojo en aducción (intorsión)",
+   "Flexión del tronco",
+   "Abducción del ojo"
+  ],
+  "correcta": 0,
+  "explicacion": "Musculatura de la lengua (geniogloso): protrusión de la lengua (se desvía hacia el lado débil). Nervio: Hipogloso (XII). Atrofia y fasciculaciones linguales: signo de 2.ª motoneurona bulbar (ELA, enfermedad de Kennedy)."
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-022",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: protrusión de la lengua (se desvía hacia el lado débil)?",
+  "opciones": [
+   "Musculatura de la lengua (geniogloso)",
+   "Esternocleidomastoideo",
+   "Diafragma",
+   "Flexores del cuello"
+  ],
+  "correcta": 0,
+  "explicacion": "Musculatura de la lengua (geniogloso): Hipogloso (XII). Atrofia y fasciculaciones linguales: signo de 2.ª motoneurona bulbar (ELA, enfermedad de Kennedy)."
+ },
+ {
+  "id": "rn-ax-023",
+  "enunciado": "¿Qué nervio inerva el elevador del párpado superior?",
+  "opciones": [
+   "Oculomotor (III)",
+   "Abducens (VI)",
+   "Facial (VII)",
+   "Frénico"
+  ],
+  "correcta": 0,
+  "explicacion": "Ptosis fatigable en miastenia. Ptosis con oftalmoparesia sin diplopía: piensa en miopatía mitocondrial (CPEO) u OPMD.",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-024",
+  "enunciado": "¿Cuál es la función principal del elevador del párpado superior?",
+  "opciones": [
+   "Elevación del párpado",
+   "Flexión del tronco",
+   "Abducción del ojo",
+   "Rotación de la cabeza al lado contrario y flexión del cuello"
+  ],
+  "correcta": 0,
+  "explicacion": "Elevador del párpado superior: elevación del párpado. Nervio: Oculomotor (III). Ptosis fatigable en miastenia. Ptosis con oftalmoparesia sin diplopía: piensa en miopatía mitocondrial (CPEO) u OPMD."
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-025",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: elevación del párpado?",
+  "opciones": [
+   "Elevador del párpado superior",
+   "Oblicuo superior",
+   "Recto lateral",
+   "Masetero y temporal"
+  ],
+  "correcta": 0,
+  "explicacion": "Elevador del párpado superior: Oculomotor (III). Ptosis fatigable en miastenia. Ptosis con oftalmoparesia sin diplopía: piensa en miopatía mitocondrial (CPEO) u OPMD."
+ },
+ {
+  "id": "rn-ax-026",
+  "enunciado": "¿Qué nervio inerva el recto lateral?",
+  "opciones": [
+   "Abducens (VI)",
+   "Intercostales / toracoabdominales (T6–T12)",
+   "Oculomotor (III)",
+   "Ramos dorsales de los nervios espinales"
+  ],
+  "correcta": 0,
+  "explicacion": "Mnemotecnia de oculomotores: LR6 SO4, el resto III.",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ax-027",
+  "enunciado": "¿Cuál es la función principal del recto lateral?",
+  "opciones": [
+   "Abducción del ojo",
+   "Cierre palpebral",
+   "Elevación del velo y deglución",
+   "Protrusión de la lengua (se desvía hacia el lado débil)"
+  ],
+  "correcta": 0,
+  "explicacion": "Recto lateral: abducción del ojo. Nervio: Abducens (VI). Mnemotecnia de oculomotores: LR6 SO4, el resto III."
+ },
+ {
+  "id": "rn-ax-028",
+  "enunciado": "¿Qué nervio inerva el oblicuo superior?",
+  "opciones": [
+   "Troclear (IV)",
+   "Glosofaríngeo y vago (IX, X)",
+   "Hipogloso (XII)",
+   "Intercostales / toracoabdominales (T6–T12)"
+  ],
+  "correcta": 0,
+  "explicacion": "Diplopía vertical al bajar escaleras o leer; el paciente inclina la cabeza hacia el lado sano.",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ax-029",
+  "enunciado": "¿Cuál es la función principal del oblicuo superior?",
+  "opciones": [
+   "Depresión del ojo en aducción (intorsión)",
+   "Cierre palpebral",
+   "Elevación del párpado",
+   "Rotación de la cabeza al lado contrario y flexión del cuello"
+  ],
+  "correcta": 0,
+  "explicacion": "Oblicuo superior: depresión del ojo en aducción (intorsión). Nervio: Troclear (IV). Diplopía vertical al bajar escaleras o leer; el paciente inclina la cabeza hacia el lado sano."
+ },
+ {
+  "id": "rn-ax-030",
+  "enunciado": "¿Qué nervio inerva el velo del paladar y faringe?",
+  "opciones": [
+   "Glosofaríngeo y vago (IX, X)",
+   "Accesorio espinal (XI)",
+   "Troclear (IV)",
+   "Intercostales / toracoabdominales (T6–T12)"
+  ],
+  "correcta": 0,
+  "explicacion": "Disfagia y voz nasal: miastenia, ELA bulbar, OPMD, miositis por cuerpos de inclusión.",
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Craneal y axial",
+  "subtema": "Pares craneales y bulbar",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "bulbar",
+  "id": "rn-ax-031",
+  "enunciado": "¿Cuál es la función principal del velo del paladar y faringe?",
+  "opciones": [
+   "Elevación del velo y deglución",
+   "Cierre palpebral",
+   "Inspiración",
+   "Cierre de la mandíbula (masticación)"
+  ],
+  "correcta": 0,
+  "explicacion": "Velo del paladar y faringe: elevación del velo y deglución. Nervio: Glosofaríngeo y vago (IX, X). Disfagia y voz nasal: miastenia, ELA bulbar, OPMD, miositis por cuerpos de inclusión."
+ }
+]

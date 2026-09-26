@@ -1,0 +1,84 @@
+{
+  "app": {
+    "id": "raiz-y-nervio",
+    "nombre": "Raíz y nervio",
+    "subtitulo": "Inervación, dermatomas y EMG",
+    "rutaBase": "/EstudiNMS/",
+    "versionContenido": "2026-09-26",
+    "versionCache": 1
+  },
+  "colores": {
+    "primario": "#15233C",
+    "secundario": "#BFDBFF",
+    "acento": "#0E7C7B",
+    "oscuro": {
+      "primario": "#CFE0F5",
+      "secundario": "#24365F",
+      "acento": "#3DB7B1"
+    }
+  },
+  "ejeAgrupacion": {
+    "clave": "grupo",
+    "etiqueta": "Nivel",
+    "orden": [
+      "C2",
+      "C3",
+      "C4",
+      "C5",
+      "C6",
+      "C7",
+      "C8",
+      "T1",
+      "T2",
+      "T3",
+      "T4",
+      "T5",
+      "T6",
+      "T7",
+      "T8",
+      "T9",
+      "T10",
+      "T11",
+      "T12",
+      "L1",
+      "L2",
+      "L3",
+      "L4",
+      "L5",
+      "S1",
+      "S2",
+      "S3",
+      "S4-5",
+      "Pares craneales",
+      "Tronco",
+      "Plexos",
+      "Territorios cutáneos",
+      "Localización",
+      "EMG"
+    ]
+  },
+  "estudio": {
+    "nuevasPorDia": 10,
+    "topeRepasosDia": 40,
+    "ordenOpcionesAleatorio": true,
+    "reaparicionTrasFallo": 10
+  },
+  "srs": {
+    "facilidadInicial": 2.5,
+    "facilidadMinima": 1.3,
+    "multiplicadorDude": 1.2,
+    "multiplicadorFacil": 1.3,
+    "penalizacionFallo": -0.2,
+    "penalizacionDude": -0.15,
+    "bonusFacil": 0.15,
+    "factorMostrarMenos": 3,
+    "umbralMaduroDias": 21,
+    "leechLapsus": 6,
+    "leechLapsusIntervaloCorto": 4
+  },
+  "modulos": {
+    "imagenes": true,
+    "teoria": true,
+    "tituloPestanaTeoria": "Consulta"
+  }
+}

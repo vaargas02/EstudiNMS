@@ -1,0 +1,172 @@
+[
+ {
+  "id": "rn-ax-003",
+  "enunciado": "¿Qué nervio inerva el diafragma?",
+  "opciones": [
+   "Frénico",
+   "Oculomotor (III)",
+   "Accesorio espinal (XI)",
+   "Facial (VII)"
+  ],
+  "correcta": 0,
+  "explicacion": "«C3, 4 y 5 mantienen vivo al diafragma». Clave en ELA, Pompe y miastenia: vigila la capacidad vital forzada (sobre todo en decúbito) y la respiración paradójica.",
+  "grupo": "C3",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco"
+ },
+ {
+  "grupo": "C3",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco",
+  "id": "rn-ax-004",
+  "enunciado": "¿Qué raíces inervan el diafragma?",
+  "opciones": [
+   "C3, C4, C5",
+   "C4, C5",
+   "C5, C6, C7",
+   "C2, C3"
+  ],
+  "correcta": 0,
+  "explicacion": "Diafragma: Frénico, C3, C4, C5. «C3, 4 y 5 mantienen vivo al diafragma». Clave en ELA, Pompe y miastenia: vigila la capacidad vital forzada (sobre todo en decúbito) y la respiración paradójica."
+ },
+ {
+  "grupo": "C3",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco",
+  "id": "rn-ax-005",
+  "enunciado": "¿Cuál es la función principal del diafragma?",
+  "opciones": [
+   "Inspiración",
+   "Protrusión de la lengua (se desvía hacia el lado débil)",
+   "Flexión del tronco",
+   "Cierre de la mandíbula (masticación)"
+  ],
+  "correcta": 0,
+  "explicacion": "Diafragma: inspiración. Nervio: Frénico, C3, C4, C5. «C3, 4 y 5 mantienen vivo al diafragma». Clave en ELA, Pompe y miastenia: vigila la capacidad vital forzada (sobre todo en decúbito) y la respiración paradójica."
+ },
+ {
+  "grupo": "C3",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco",
+  "id": "rn-ax-006",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: inspiración?",
+  "opciones": [
+   "Diafragma",
+   "Extensores del cuello y paraespinales",
+   "Masetero y temporal",
+   "Musculatura de la lengua (geniogloso)"
+  ],
+  "correcta": 0,
+  "explicacion": "Diafragma: Frénico, C3, C4, C5. «C3, 4 y 5 mantienen vivo al diafragma». Clave en ELA, Pompe y miastenia: vigila la capacidad vital forzada (sobre todo en decúbito) y la respiración paradójica."
+ },
+ {
+  "id": "rn-ax-007",
+  "enunciado": "¿Qué nervio inerva el flexores del cuello?",
+  "opciones": [
+   "Ramos anteriores cervicales (C1–C6)",
+   "Troclear (IV)",
+   "Trigémino (V3, mandibular)",
+   "Oculomotor (III)"
+  ],
+  "correcta": 0,
+  "explicacion": "Su debilidad es muy frecuente en miastenia, miositis y miopatías. Predice a menudo la debilidad respiratoria en el GBS y la crisis miasténica.",
+  "grupo": "Tronco",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco"
+ },
+ {
+  "grupo": "Tronco",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco",
+  "id": "rn-ax-008",
+  "enunciado": "¿Cuál es la función principal del flexores del cuello?",
+  "opciones": [
+   "Flexión del cuello",
+   "Flexión del tronco",
+   "Elevación del párpado",
+   "Cierre de la mandíbula (masticación)"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexores del cuello: flexión del cuello. Nervio: Ramos anteriores cervicales (C1–C6). Su debilidad es muy frecuente en miastenia, miositis y miopatías. Predice a menudo la debilidad respiratoria en el GBS y la crisis miasténica."
+ },
+ {
+  "id": "rn-ax-009",
+  "enunciado": "¿Qué nervio inerva el extensores del cuello y paraespinales?",
+  "opciones": [
+   "Ramos dorsales de los nervios espinales",
+   "Abducens (VI)",
+   "Facial (VII)",
+   "Trigémino (V3, mandibular)"
+  ],
+  "correcta": 0,
+  "explicacion": "Su debilidad cervical produce cabeza caída (ELA, miastenia, miopatía de extensores). En EMG, la denervación paraespinal localiza la lesión en la raíz, porque el ramo dorsal sale proximal al plexo.",
+  "grupo": "Tronco",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco"
+ },
+ {
+  "grupo": "Tronco",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco",
+  "id": "rn-ax-010",
+  "enunciado": "¿Cuál es la función principal del extensores del cuello y paraespinales?",
+  "opciones": [
+   "Extensión del cuello y del tronco",
+   "Flexión del cuello",
+   "Protrusión de la lengua (se desvía hacia el lado débil)",
+   "Abducción del ojo"
+  ],
+  "correcta": 0,
+  "explicacion": "Extensores del cuello y paraespinales: extensión del cuello y del tronco. Nervio: Ramos dorsales de los nervios espinales. Su debilidad cervical produce cabeza caída (ELA, miastenia, miopatía de extensores). En EMG, la denervación paraespinal localiza la lesión en la raíz, porque el ramo dorsal sale proximal al plexo."
+ },
+ {
+  "id": "rn-ax-011",
+  "enunciado": "¿Qué nervio inerva el recto abdominal?",
+  "opciones": [
+   "Intercostales / toracoabdominales (T6–T12)",
+   "Frénico",
+   "Trigémino (V3, mandibular)",
+   "Facial (VII)"
+  ],
+  "correcta": 0,
+  "explicacion": "Signo de Beevor: el ombligo asciende al flexionar el cuello en decúbito por debilidad de la mitad inferior del recto (≈T10). Típico de la distrofia facioescapulohumeral.",
+  "grupo": "Tronco",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco"
+ },
+ {
+  "grupo": "Tronco",
+  "tema": "Craneal y axial",
+  "subtema": "Cuello, tronco y diafragma",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "cuello-tronco",
+  "id": "rn-ax-012",
+  "enunciado": "¿Cuál es la función principal del recto abdominal?",
+  "opciones": [
+   "Flexión del tronco",
+   "Rotación de la cabeza al lado contrario y flexión del cuello",
+   "Inspiración",
+   "Flexión del cuello"
+  ],
+  "correcta": 0,
+  "explicacion": "Recto abdominal: flexión del tronco. Nervio: Intercostales / toracoabdominales (T6–T12). Signo de Beevor: el ombligo asciende al flexionar el cuello en decúbito por debilidad de la mitad inferior del recto (≈T10). Típico de la distrofia facioescapulohumeral."
+ }
+]

@@ -1,0 +1,194 @@
+[
+ {
+  "id": "rn-ref-001",
+  "grupo": "C5",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíces valora el reflejo bicipital?",
+  "opciones": [
+   "C5–C6",
+   "C7",
+   "C8–T1",
+   "C3–C4"
+  ],
+  "correcta": 0,
+  "explicacion": "Arco a través del musculocutáneo. Mnemotecnia: «1-2 aquíleo, 3-4 rotuliano, 5-6 bíceps, 7-8 tríceps»."
+ },
+ {
+  "id": "rn-ref-002",
+  "grupo": "C5",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíces valora el reflejo estilorradial?",
+  "opciones": [
+   "C5–C6",
+   "C7–C8",
+   "C8–T1",
+   "C4"
+  ],
+  "correcta": 0,
+  "explicacion": "Braquiorradial, nervio radial. El reflejo invertido (abolición del estilorradial con respuesta de flexión de los dedos) sugiere lesión C5-C6 con afectación medular."
+ },
+ {
+  "id": "rn-ref-003",
+  "grupo": "C7",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíz valora principalmente el reflejo tricipital?",
+  "opciones": [
+   "C7 (C6–C8)",
+   "C5–C6",
+   "C8–T1",
+   "C4–C5"
+  ],
+  "correcta": 0,
+  "explicacion": "Nervio radial. Abolido en radiculopatía C7, la más frecuente del miembro superior junto con la C6."
+ },
+ {
+  "id": "rn-ref-004",
+  "grupo": "C8",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíz valora el reflejo flexor de los dedos?",
+  "opciones": [
+   "C8",
+   "C6",
+   "C5",
+   "T1–T2"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo de los flexores de los dedos: C8. Hoffmann y Trömner, cuando son vivos, orientan a hiperreflexia (1.ª motoneurona)."
+ },
+ {
+  "id": "rn-ref-005",
+  "grupo": "L3",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíces valora el reflejo rotuliano?",
+  "opciones": [
+   "L3–L4 (L2–L4)",
+   "L5",
+   "S1",
+   "L1–L2"
+  ],
+  "correcta": 0,
+  "explicacion": "Arco a través del femoral. Abolido en radiculopatía L3-L4, neuropatía femoral y plexopatía lumbar (ej. amiotrofia diabética)."
+ },
+ {
+  "id": "rn-ref-006",
+  "grupo": "L2",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíces valora el reflejo aductor?",
+  "opciones": [
+   "L2–L4",
+   "L5–S1",
+   "S1–S2",
+   "T12–L1"
+  ],
+  "correcta": 0,
+  "explicacion": "Arco a través del obturador. Rotuliano abolido con aductor normal apunta a lesión del femoral más que de raíz."
+ },
+ {
+  "id": "rn-ref-007",
+  "grupo": "L5",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíz valora el reflejo isquiotibial medial?",
+  "opciones": [
+   "L5",
+   "L3",
+   "S2",
+   "L1"
+  ],
+  "correcta": 0,
+  "explicacion": "Es el único reflejo que explora L5. Útil en la radiculopatía L5, donde el aquíleo y el rotuliano suelen ser normales."
+ },
+ {
+  "id": "rn-ref-008",
+  "grupo": "S1",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíz valora el reflejo aquíleo?",
+  "opciones": [
+   "S1 (S2)",
+   "L4",
+   "L5",
+   "S3–S4"
+  ],
+  "correcta": 0,
+  "explicacion": "Arco a través del tibial. Abolido en radiculopatía S1 y en polineuropatías longitud-dependientes (a menudo es el primer reflejo que se pierde)."
+ },
+ {
+  "id": "rn-ref-009",
+  "grupo": "T10",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué niveles valoran los reflejos cutáneos abdominales?",
+  "opciones": [
+   "T8–T12",
+   "T2–T4",
+   "L1–L2",
+   "T4–T6"
+  ],
+  "correcta": 0,
+  "explicacion": "Supraumbilicales T8-T10, infraumbilicales T10-T12. Su abolición asimétrica sugiere lesión piramidal o radicular torácica."
+ },
+ {
+  "id": "rn-ref-010",
+  "grupo": "S4-5",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíces valora el reflejo anal?",
+  "opciones": [
+   "S2–S4",
+   "L4–L5",
+   "S1",
+   "L1–L2"
+  ],
+  "correcta": 0,
+  "explicacion": "Clave en la sospecha de cauda equina, junto con la sensibilidad perianal (S4-S5)."
+ },
+ {
+  "id": "rn-ref-011",
+  "grupo": "L1",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué raíces valora el reflejo cremastérico?",
+  "opciones": [
+   "L1–L2",
+   "S2–S4",
+   "L4–L5",
+   "T10–T11"
+  ],
+  "correcta": 0,
+  "explicacion": "Aferencia por el ilioinguinal y eferencia por la rama genital del genitofemoral."
+ },
+ {
+  "id": "rn-ref-012",
+  "grupo": "Pares craneales",
+  "tema": "Exploración",
+  "subtema": "Reflejos",
+  "teoria": "reflejos",
+  "enunciado": "¿Qué nervio forma el arco del reflejo mandibular (maseterino)?",
+  "opciones": [
+   "Trigémino (V)",
+   "Facial (VII)",
+   "C1–C2",
+   "Hipogloso (XII)"
+  ],
+  "correcta": 0,
+  "explicacion": "Aferente y eferente por el V par. Exaltado en lesiones por encima de la protuberancia: en ELA indica afectación de 1.ª motoneurona bulbar."
+ }
+]

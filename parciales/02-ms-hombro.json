@@ -1,0 +1,350 @@
+[
+ {
+  "id": "rn-ms-016",
+  "enunciado": "¿Qué nervio inerva el supraespinoso?",
+  "opciones": [
+   "Supraescapular",
+   "Axilar",
+   "Dorsal de la escápula",
+   "Musculocutáneo"
+  ],
+  "correcta": 0,
+  "explicacion": "El supraescapular sale del tronco superior. Atrapamiento en la escotadura supraescapular (supra + infraespinoso) o en la espinoglenoidea (solo infraespinoso). Muy afectado en Parsonage-Turner.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-017",
+  "enunciado": "¿Qué raíces inervan el supraespinoso?",
+  "opciones": [
+   "C5, C6",
+   "C6, C7",
+   "C7, C8, T1",
+   "C6, C7, C8"
+  ],
+  "correcta": 0,
+  "explicacion": "Supraespinoso: Supraescapular, C5, C6. El supraescapular sale del tronco superior. Atrapamiento en la escotadura supraescapular (supra + infraespinoso) o en la espinoglenoidea (solo infraespinoso). Muy afectado en Parsonage-Turner."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-018",
+  "enunciado": "¿Cuál es la función principal del supraespinoso?",
+  "opciones": [
+   "Inicio de la abducción del brazo (0–15°)",
+   "Extensión de la muñeca con desviación cubital",
+   "Aducción y rotación interna del brazo",
+   "Abducción del pulgar en el plano de la palma"
+  ],
+  "correcta": 0,
+  "explicacion": "Supraespinoso: inicio de la abducción del brazo (0–15°). Nervio: Supraescapular, C5, C6. El supraescapular sale del tronco superior. Atrapamiento en la escotadura supraescapular (supra + infraespinoso) o en la espinoglenoidea (solo infraespinoso). Muy afectado en Parsonage-Turner."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-019",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: inicio de la abducción del brazo (0–15°)?",
+  "opciones": [
+   "Supraespinoso",
+   "Pectoral mayor (porción clavicular)",
+   "Infraespinoso",
+   "Romboides"
+  ],
+  "correcta": 0,
+  "explicacion": "Supraespinoso: Supraescapular, C5, C6. El supraescapular sale del tronco superior. Atrapamiento en la escotadura supraescapular (supra + infraespinoso) o en la espinoglenoidea (solo infraespinoso). Muy afectado en Parsonage-Turner."
+ },
+ {
+  "id": "rn-ms-020",
+  "enunciado": "¿Qué nervio inerva el infraespinoso?",
+  "opciones": [
+   "Supraescapular",
+   "Subescapulares superior e inferior",
+   "Dorsal de la escápula",
+   "Toracodorsal"
+  ],
+  "correcta": 0,
+  "explicacion": "Atrofia aislada del infraespinoso: piensa en el supraescapular en la escotadura espinoglenoidea (quiste del labrum, deportistas de lanzamiento).",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-021",
+  "enunciado": "¿Qué raíces inervan el infraespinoso?",
+  "opciones": [
+   "C5, C6",
+   "C8, T1",
+   "C7",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Infraespinoso: Supraescapular, C5, C6. Atrofia aislada del infraespinoso: piensa en el supraescapular en la escotadura espinoglenoidea (quiste del labrum, deportistas de lanzamiento)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-022",
+  "enunciado": "¿Cuál es la función principal del infraespinoso?",
+  "opciones": [
+   "Rotación externa del brazo",
+   "Inicio de la abducción del brazo (0–15°)",
+   "Abducción del meñique",
+   "Flexión de la interfalángica distal del índice y medio"
+  ],
+  "correcta": 0,
+  "explicacion": "Infraespinoso: rotación externa del brazo. Nervio: Supraescapular, C5, C6. Atrofia aislada del infraespinoso: piensa en el supraescapular en la escotadura espinoglenoidea (quiste del labrum, deportistas de lanzamiento)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-023",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: rotación externa del brazo?",
+  "opciones": [
+   "Infraespinoso",
+   "Serrato anterior",
+   "Flexor profundo de los dedos (anular y meñique)",
+   "Supinador"
+  ],
+  "correcta": 0,
+  "explicacion": "Infraespinoso: Supraescapular, C5, C6. Atrofia aislada del infraespinoso: piensa en el supraescapular en la escotadura espinoglenoidea (quiste del labrum, deportistas de lanzamiento)."
+ },
+ {
+  "id": "rn-ms-024",
+  "enunciado": "¿Qué nervio inerva el subescapular?",
+  "opciones": [
+   "Subescapulares superior e inferior",
+   "Supraescapular",
+   "Interóseo anterior",
+   "Accesorio espinal (XI)"
+  ],
+  "correcta": 0,
+  "explicacion": "Los nervios subescapulares salen del fascículo posterior.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-025",
+  "enunciado": "¿Qué raíces inervan el subescapular?",
+  "opciones": [
+   "C5, C6",
+   "T1",
+   "C7",
+   "C7, C8"
+  ],
+  "correcta": 0,
+  "explicacion": "Subescapular: Subescapulares superior e inferior, C5, C6. Los nervios subescapulares salen del fascículo posterior."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-026",
+  "enunciado": "¿Cuál es la función principal del subescapular?",
+  "opciones": [
+   "Rotación interna del brazo",
+   "Flexión y aducción del brazo",
+   "Supinación del antebrazo (con el codo extendido)",
+   "Flexión de la MCF con extensión de las IF (anular y meñique)"
+  ],
+  "correcta": 0,
+  "explicacion": "Subescapular: rotación interna del brazo. Nervio: Subescapulares superior e inferior, C5, C6. Los nervios subescapulares salen del fascículo posterior."
+ },
+ {
+  "id": "rn-ms-030",
+  "enunciado": "¿Qué nervio inerva el redondo mayor?",
+  "opciones": [
+   "Subescapular inferior",
+   "Interóseo anterior",
+   "Toracodorsal",
+   "Musculocutáneo"
+  ],
+  "correcta": 0,
+  "explicacion": "Inervado por el subescapular inferior, rama del fascículo posterior.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-031",
+  "enunciado": "¿Qué raíces inervan el redondo mayor?",
+  "opciones": [
+   "C5, C6",
+   "C5",
+   "C4, C5",
+   "C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Redondo mayor: Subescapular inferior, C5, C6. Raíces accesorias: C7. Inervado por el subescapular inferior, rama del fascículo posterior."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-032",
+  "enunciado": "¿Cuál es la función principal del redondo mayor?",
+  "opciones": [
+   "Aducción y rotación interna del brazo",
+   "Protracción de la escápula y fijación contra el tórax",
+   "Oposición del pulgar",
+   "Extensión de la metacarpofalángica del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Redondo mayor: aducción y rotación interna del brazo. Nervio: Subescapular inferior, C5, C6. Inervado por el subescapular inferior, rama del fascículo posterior."
+ },
+ {
+  "id": "rn-ms-033",
+  "enunciado": "¿Qué nervio inerva el deltoides?",
+  "opciones": [
+   "Axilar",
+   "Toracodorsal",
+   "Torácico largo",
+   "Mediano"
+  ],
+  "correcta": 0,
+  "explicacion": "El axilar sale del fascículo posterior. Lesión típica en luxación de hombro o fractura del cuello quirúrgico del húmero; pérdida sensitiva en «parche regimental» sobre el deltoides.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-034",
+  "enunciado": "¿Qué raíces inervan el deltoides?",
+  "opciones": [
+   "C5",
+   "C5, C6, C7",
+   "C6, C7",
+   "C7, C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Deltoides: Axilar, C5. Raíces accesorias: C6. El axilar sale del fascículo posterior. Lesión típica en luxación de hombro o fractura del cuello quirúrgico del húmero; pérdida sensitiva en «parche regimental» sobre el deltoides."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-035",
+  "enunciado": "¿Cuál es la función principal del deltoides?",
+  "opciones": [
+   "Abducción del brazo (15–90°)",
+   "Extensión de las metacarpofalángicas de los dedos",
+   "Extensión de la metacarpofalángica del pulgar",
+   "Pronación del antebrazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Deltoides: abducción del brazo (15–90°). Nervio: Axilar, C5. El axilar sale del fascículo posterior. Lesión típica en luxación de hombro o fractura del cuello quirúrgico del húmero; pérdida sensitiva en «parche regimental» sobre el deltoides."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-braquial",
+  "id": "rn-ms-036",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: abducción del brazo (15–90°)?",
+  "opciones": [
+   "Deltoides",
+   "Pronador redondo",
+   "Tríceps braquial",
+   "Bíceps braquial"
+  ],
+  "correcta": 0,
+  "explicacion": "Deltoides: Axilar, C5. El axilar sale del fascículo posterior. Lesión típica en luxación de hombro o fractura del cuello quirúrgico del húmero; pérdida sensitiva en «parche regimental» sobre el deltoides."
+ },
+ {
+  "id": "rn-ms-037",
+  "enunciado": "¿Qué nervio inerva el redondo menor?",
+  "opciones": [
+   "Axilar",
+   "Accesorio espinal (XI)",
+   "Interóseo posterior",
+   "Mediano"
+  ],
+  "correcta": 0,
+  "explicacion": "Segundo músculo del axilar. La rotación externa depende sobre todo del infraespinoso, por lo que su déficit aislado apenas se nota.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-038",
+  "enunciado": "¿Qué raíces inervan el redondo menor?",
+  "opciones": [
+   "C5",
+   "C6, C7, C8",
+   "T1",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Redondo menor: Axilar, C5. Raíces accesorias: C6. Segundo músculo del axilar. La rotación externa depende sobre todo del infraespinoso, por lo que su déficit aislado apenas se nota."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Hombro",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-039",
+  "enunciado": "¿Cuál es la función principal del redondo menor?",
+  "opciones": [
+   "Rotación externa del brazo",
+   "Extensión de las metacarpofalángicas de los dedos",
+   "Retracción y elevación de la escápula",
+   "Supinación del antebrazo (con el codo extendido)"
+  ],
+  "correcta": 0,
+  "explicacion": "Redondo menor: rotación externa del brazo. Nervio: Axilar, C5. Segundo músculo del axilar. La rotación externa depende sobre todo del infraespinoso, por lo que su déficit aislado apenas se nota."
+ }
+]

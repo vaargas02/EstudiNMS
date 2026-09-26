@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="306" viewBox="0 0 400 306" class="fig fig-ls" role="img" aria-label="Raíces de los nervios del plexo lumbosacro"><style>
+  :root{--sil:#E1E8F0;--linea:#1F2F4A;--fondo:#FFFFFF;--tenue:#5E6E86;--tinta:#15233C;--zona:#0E7C7B;
+        --z1:#0E7C7B;--z2:#C8783E;--z3:#3B5BA9;--z4:#8E4FA6;--mal:#CF3F2E}
+  @media (prefers-color-scheme: dark){
+    :root{--sil:#243149;--linea:#9FB0C9;--fondo:#182235;--tinta:#E7EDF6;--tenue:#97A6BD;--zona:#3DB7B1;
+          --z1:#3DB7B1;--z2:#E39A5F;--z3:#7C9BE6;--z4:#B783CC;--mal:#F07563}
+  }
+  .fondo{fill:var(--fondo)}
+  .sil-out path,.sil-out ellipse{fill:none;stroke:var(--linea);stroke-width:3;stroke-linejoin:round}
+  .sil path,.sil ellipse{fill:var(--sil)}
+  .seg path{stroke:var(--fondo);stroke-width:.9}
+  .zone{fill:var(--zona)!important}
+  .z1{fill:var(--z1)!important}.z2{fill:var(--z2)!important}.z3{fill:var(--z3)!important}.z4{fill:var(--z4)!important}
+  .hide{fill:transparent!important;stroke:none!important}
+  rect.zone{opacity:.88}
+  .lm path,.lm ellipse,.lm rect,.lm circle{fill:none;stroke:var(--tenue);stroke-width:1;opacity:.8}
+  .lm .lmdot{fill:var(--tenue)}
+  .kp{fill:var(--linea)}
+  .kplabel{font:700 8.5px system-ui,sans-serif;fill:var(--tinta);paint-order:stroke;stroke:var(--fondo);stroke-width:2.5px}
+  .kp-on{fill:var(--mal);stroke:#fff;stroke-width:1.5}
+  .kp-halo{fill:var(--mal);opacity:.22}
+  .caption,.side{font:500 9px system-ui,sans-serif;fill:var(--tenue)}
+  .pl-a,.pl-b,.pl-c,.pl-lat,.pl-post,.pl-med,.pl-side{fill:none;stroke-width:2.6}
+  .pl-lat{stroke:var(--z1)}.pl-post{stroke:var(--z3)}.pl-med{stroke:var(--z2)}
+  .pl-a,.pl-b,.pl-c{stroke:var(--tenue)}
+  .pl-side{stroke:var(--tenue);stroke-width:1.2;stroke-dasharray:3 2}
+  .pl-node{fill:var(--tinta)}
+  .pl-lab{font:600 10.5px system-ui,sans-serif;fill:var(--tinta)}
+  .pl-br{font-weight:700}.pl-sub{fill:var(--tenue);font-weight:500}
+  .pl-small{font:500 8.5px system-ui,sans-serif;fill:var(--tenue)}
+  .pl-col{font:600 9px system-ui,sans-serif;fill:var(--tenue)}
+  .grid{stroke:var(--sil)}
+  .bar-l{fill:var(--z1)}.bar-s{fill:var(--z3)}
+</style><rect class="fondo" x="0" y="0" width="400" height="306"/><text x="198" y="20" text-anchor="middle" class="pl-lab">T12</text>
+    <line x1="198" y1="26" x2="198" y2="294" class="grid"/><text x="218" y="20" text-anchor="middle" class="pl-lab">L1</text>
+    <line x1="218" y1="26" x2="218" y2="294" class="grid"/><text x="238" y="20" text-anchor="middle" class="pl-lab">L2</text>
+    <line x1="238" y1="26" x2="238" y2="294" class="grid"/><text x="258" y="20" text-anchor="middle" class="pl-lab">L3</text>
+    <line x1="258" y1="26" x2="258" y2="294" class="grid"/><text x="278" y="20" text-anchor="middle" class="pl-lab">L4</text>
+    <line x1="278" y1="26" x2="278" y2="294" class="grid"/><text x="298" y="20" text-anchor="middle" class="pl-lab">L5</text>
+    <line x1="298" y1="26" x2="298" y2="294" class="grid"/><text x="318" y="20" text-anchor="middle" class="pl-lab">S1</text>
+    <line x1="318" y1="26" x2="318" y2="294" class="grid"/><text x="338" y="20" text-anchor="middle" class="pl-lab">S2</text>
+    <line x1="338" y1="26" x2="338" y2="294" class="grid"/><text x="358" y="20" text-anchor="middle" class="pl-lab">S3</text>
+    <line x1="358" y1="26" x2="358" y2="294" class="grid"/><text x="378" y="20" text-anchor="middle" class="pl-lab">S4</text>
+    <line x1="378" y1="26" x2="378" y2="294" class="grid"/><text x="180" y="44" text-anchor="end" class="pl-lab ">Iliohipogástrico / ilioinguinal</text>
+      <rect x="211" y="34" width="14" height="12" rx="6" class="bar-l"/><text x="180" y="66" text-anchor="end" class="pl-lab ">Genitofemoral</text>
+      <rect x="211" y="56" width="34" height="12" rx="6" class="bar-l"/><text x="180" y="88" text-anchor="end" class="pl-lab ">Femorocutáneo lateral</text>
+      <rect x="231" y="78" width="34" height="12" rx="6" class="bar-l"/><text x="180" y="110" text-anchor="end" class="pl-lab ">Femoral</text>
+      <rect x="231" y="100" width="54" height="12" rx="6" class="bar-l"/><text x="180" y="132" text-anchor="end" class="pl-lab ">Obturador</text>
+      <rect x="231" y="122" width="54" height="12" rx="6" class="bar-l"/><text x="180" y="154" text-anchor="end" class="pl-lab ">Glúteo superior</text>
+      <rect x="271" y="144" width="54" height="12" rx="6" class="bar-s"/><text x="180" y="176" text-anchor="end" class="pl-lab ">Glúteo inferior</text>
+      <rect x="291" y="166" width="54" height="12" rx="6" class="bar-s"/><text x="180" y="198" text-anchor="end" class="pl-lab ">Ciático</text>
+      <rect x="271" y="188" width="94" height="12" rx="6" class="bar-s"/><text x="180" y="220" text-anchor="end" class="pl-lab pl-sub">Tibial</text>
+      <rect x="271" y="210" width="94" height="12" rx="6" class="bar-s"/><text x="180" y="242" text-anchor="end" class="pl-lab pl-sub">Peroneo común</text>
+      <rect x="271" y="232" width="74" height="12" rx="6" class="bar-s"/><text x="180" y="264" text-anchor="end" class="pl-lab ">Cutáneo femoral posterior</text>
+      <rect x="311" y="254" width="54" height="12" rx="6" class="bar-s"/><text x="180" y="286" text-anchor="end" class="pl-lab ">Pudendo</text>
+      <rect x="331" y="276" width="54" height="12" rx="6" class="bar-s"/></svg>

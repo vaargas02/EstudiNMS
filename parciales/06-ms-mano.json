@@ -1,0 +1,478 @@
+[
+ {
+  "id": "rn-ms-100",
+  "enunciado": "¿Qué nervio inerva el abductor corto del pulgar?",
+  "opciones": [
+   "Mediano",
+   "Musculocutáneo",
+   "Pectoral lateral",
+   "Radial"
+  ],
+  "correcta": 0,
+  "explicacion": "Músculo clave del túnel carpiano (atrofia tenar lateral). Raíz principal T1: también se afecta en lesiones C8-T1 o del tronco inferior (en el desfiladero torácico neurogénico se atrofia sobre todo el ACP).",
+  "grupo": "T1",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano"
+ },
+ {
+  "grupo": "T1",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-101",
+  "enunciado": "¿Qué raíces inervan el abductor corto del pulgar?",
+  "opciones": [
+   "T1",
+   "C5, C6",
+   "C5, C6, C7",
+   "C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor corto del pulgar: Mediano, T1. Raíces accesorias: C8. Músculo clave del túnel carpiano (atrofia tenar lateral). Raíz principal T1: también se afecta en lesiones C8-T1 o del tronco inferior (en el desfiladero torácico neurogénico se atrofia sobre todo el ACP)."
+ },
+ {
+  "grupo": "T1",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-102",
+  "enunciado": "¿Cuál es la función principal del abductor corto del pulgar?",
+  "opciones": [
+   "Abducción del pulgar perpendicular a la palma",
+   "Flexión de la interfalángica del pulgar",
+   "Aducción de los dedos",
+   "Protracción de la escápula y fijación contra el tórax"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor corto del pulgar: abducción del pulgar perpendicular a la palma. Nervio: Mediano, T1. Músculo clave del túnel carpiano (atrofia tenar lateral). Raíz principal T1: también se afecta en lesiones C8-T1 o del tronco inferior (en el desfiladero torácico neurogénico se atrofia sobre todo el ACP)."
+ },
+ {
+  "grupo": "T1",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-103",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: abducción del pulgar perpendicular a la palma?",
+  "opciones": [
+   "Abductor corto del pulgar",
+   "Subescapular",
+   "Flexor profundo de los dedos (anular y meñique)",
+   "Supraespinoso"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor corto del pulgar: Mediano, T1. Músculo clave del túnel carpiano (atrofia tenar lateral). Raíz principal T1: también se afecta en lesiones C8-T1 o del tronco inferior (en el desfiladero torácico neurogénico se atrofia sobre todo el ACP)."
+ },
+ {
+  "id": "rn-ms-104",
+  "enunciado": "¿Qué nervio inerva el oponente del pulgar?",
+  "opciones": [
+   "Mediano",
+   "Interóseo posterior",
+   "Subescapular inferior",
+   "Radial"
+  ],
+  "correcta": 0,
+  "explicacion": "Inervado por la rama motora recurrente del mediano tras el túnel carpiano.",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-105",
+  "enunciado": "¿Qué raíces inervan el oponente del pulgar?",
+  "opciones": [
+   "C8, T1",
+   "C6, C7",
+   "C4, C5",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Oponente del pulgar: Mediano, C8, T1. Inervado por la rama motora recurrente del mediano tras el túnel carpiano."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-mediano",
+  "id": "rn-ms-106",
+  "enunciado": "¿Cuál es la función principal del oponente del pulgar?",
+  "opciones": [
+   "Oposición del pulgar",
+   "Flexión y aducción del brazo",
+   "Flexión de la muñeca con desviación cubital",
+   "Rotación interna del brazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Oponente del pulgar: oposición del pulgar. Nervio: Mediano, C8, T1. Inervado por la rama motora recurrente del mediano tras el túnel carpiano."
+ },
+ {
+  "id": "rn-ms-107",
+  "enunciado": "¿Qué nervio inerva el lumbricales i y ii?",
+  "opciones": [
+   "Mediano",
+   "Musculocutáneo",
+   "Pectorales lateral y medial",
+   "Supraescapular"
+  ],
+  "correcta": 0,
+  "explicacion": "Los lumbricales I-II son del mediano y los III-IV del cubital: por eso la garra cubital es más marcada en 4.º y 5.º dedo.",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-108",
+  "enunciado": "¿Qué raíces inervan el lumbricales i y ii?",
+  "opciones": [
+   "C8, T1",
+   "C6, C7",
+   "C7, C8",
+   "C5, C6"
+  ],
+  "correcta": 0,
+  "explicacion": "Lumbricales I y II: Mediano, C8, T1. Los lumbricales I-II son del mediano y los III-IV del cubital: por eso la garra cubital es más marcada en 4.º y 5.º dedo."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-109",
+  "enunciado": "¿Cuál es la función principal del lumbricales i y ii?",
+  "opciones": [
+   "Flexión de la MCF con extensión de las IF (índice y medio)",
+   "Aducción y rotación interna del brazo",
+   "Flexión del codo y supinación del antebrazo",
+   "Abducción del brazo (15–90°)"
+  ],
+  "correcta": 0,
+  "explicacion": "Lumbricales I y II: flexión de la mcf con extensión de las if (índice y medio). Nervio: Mediano, C8, T1. Los lumbricales I-II son del mediano y los III-IV del cubital: por eso la garra cubital es más marcada en 4.º y 5.º dedo."
+ },
+ {
+  "id": "rn-ms-116",
+  "enunciado": "¿Qué nervio inerva el abductor del meñique?",
+  "opciones": [
+   "Cubital",
+   "Dorsal de la escápula",
+   "Subescapulares superior e inferior",
+   "Interóseo anterior"
+  ],
+  "correcta": 0,
+  "explicacion": "Músculo clave T1 de la ISNCSCI. Registro habitual de la conducción motora cubital.",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-117",
+  "enunciado": "¿Qué raíces inervan el abductor del meñique?",
+  "opciones": [
+   "C8, T1",
+   "C7, C8",
+   "C5, C6",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor del meñique: Cubital, C8, T1. Músculo clave T1 de la ISNCSCI. Registro habitual de la conducción motora cubital."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-118",
+  "enunciado": "¿Cuál es la función principal del abductor del meñique?",
+  "opciones": [
+   "Abducción del meñique",
+   "Flexión de la muñeca con desviación radial",
+   "Aducción del pulgar",
+   "Flexión de las interfalángicas proximales"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor del meñique: abducción del meñique. Nervio: Cubital, C8, T1. Músculo clave T1 de la ISNCSCI. Registro habitual de la conducción motora cubital."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-119",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: abducción del meñique?",
+  "opciones": [
+   "Abductor del meñique",
+   "Flexor cubital del carpo",
+   "Tríceps braquial",
+   "Bíceps braquial"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor del meñique: Cubital, C8, T1. Músculo clave T1 de la ISNCSCI. Registro habitual de la conducción motora cubital."
+ },
+ {
+  "id": "rn-ms-120",
+  "enunciado": "¿Qué nervio inerva el primer interóseo dorsal?",
+  "opciones": [
+   "Cubital",
+   "Dorsal de la escápula",
+   "Mediano",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "Inervado por la rama profunda del cubital. Registro útil en lesiones de esa rama (canal de Guyon), donde puede afectarse con el abductor del meñique preservado.",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-121",
+  "enunciado": "¿Qué raíces inervan el primer interóseo dorsal?",
+  "opciones": [
+   "C8, T1",
+   "C4, C5",
+   "C6, C7, C8",
+   "C7, C8"
+  ],
+  "correcta": 0,
+  "explicacion": "Primer interóseo dorsal: Cubital, C8, T1. Inervado por la rama profunda del cubital. Registro útil en lesiones de esa rama (canal de Guyon), donde puede afectarse con el abductor del meñique preservado."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-122",
+  "enunciado": "¿Cuál es la función principal del primer interóseo dorsal?",
+  "opciones": [
+   "Abducción del índice",
+   "Abducción del pulgar perpendicular a la palma",
+   "Rotación externa del brazo",
+   "Flexión de la interfalángica distal del índice y medio"
+  ],
+  "correcta": 0,
+  "explicacion": "Primer interóseo dorsal: abducción del índice. Nervio: Cubital, C8, T1. Inervado por la rama profunda del cubital. Registro útil en lesiones de esa rama (canal de Guyon), donde puede afectarse con el abductor del meñique preservado."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-123",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: abducción del índice?",
+  "opciones": [
+   "Primer interóseo dorsal",
+   "Flexor superficial de los dedos",
+   "Lumbricales III y IV",
+   "Aductor del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Primer interóseo dorsal: Cubital, C8, T1. Inervado por la rama profunda del cubital. Registro útil en lesiones de esa rama (canal de Guyon), donde puede afectarse con el abductor del meñique preservado."
+ },
+ {
+  "id": "rn-ms-124",
+  "enunciado": "¿Qué nervio inerva el interóseos palmares?",
+  "opciones": [
+   "Cubital",
+   "Interóseo anterior",
+   "Subescapular inferior",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "Se exploran sujetando un papel entre dos dedos extendidos.",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-125",
+  "enunciado": "¿Qué raíces inervan el interóseos palmares?",
+  "opciones": [
+   "C8, T1",
+   "T1",
+   "C6, C7, C8",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Interóseos palmares: Cubital, C8, T1. Se exploran sujetando un papel entre dos dedos extendidos."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-126",
+  "enunciado": "¿Cuál es la función principal del interóseos palmares?",
+  "opciones": [
+   "Aducción de los dedos",
+   "Oposición del pulgar",
+   "Flexión de la MCF con extensión de las IF (índice y medio)",
+   "Flexión de la muñeca con desviación radial"
+  ],
+  "correcta": 0,
+  "explicacion": "Interóseos palmares: aducción de los dedos. Nervio: Cubital, C8, T1. Se exploran sujetando un papel entre dos dedos extendidos."
+ },
+ {
+  "id": "rn-ms-127",
+  "enunciado": "¿Qué nervio inerva el aductor del pulgar?",
+  "opciones": [
+   "Cubital",
+   "Mediano",
+   "Pectoral lateral",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "Signo de Froment: al sujetar un papel entre pulgar e índice, el paciente flexiona la IF del pulgar (flexor largo, mediano) para compensar el aductor débil.",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-128",
+  "enunciado": "¿Qué raíces inervan el aductor del pulgar?",
+  "opciones": [
+   "C8, T1",
+   "C4, C5",
+   "C5, C6, C7",
+   "C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductor del pulgar: Cubital, C8, T1. Signo de Froment: al sujetar un papel entre pulgar e índice, el paciente flexiona la IF del pulgar (flexor largo, mediano) para compensar el aductor débil."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-129",
+  "enunciado": "¿Cuál es la función principal del aductor del pulgar?",
+  "opciones": [
+   "Aducción del pulgar",
+   "Extensión del índice",
+   "Flexión del codo con el antebrazo en semipronación",
+   "Supinación del antebrazo (con el codo extendido)"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductor del pulgar: aducción del pulgar. Nervio: Cubital, C8, T1. Signo de Froment: al sujetar un papel entre pulgar e índice, el paciente flexiona la IF del pulgar (flexor largo, mediano) para compensar el aductor débil."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-130",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: aducción del pulgar?",
+  "opciones": [
+   "Aductor del pulgar",
+   "Trapecio",
+   "Extensor cubital del carpo",
+   "Infraespinoso"
+  ],
+  "correcta": 0,
+  "explicacion": "Aductor del pulgar: Cubital, C8, T1. Signo de Froment: al sujetar un papel entre pulgar e índice, el paciente flexiona la IF del pulgar (flexor largo, mediano) para compensar el aductor débil."
+ },
+ {
+  "id": "rn-ms-131",
+  "enunciado": "¿Qué nervio inerva el lumbricales iii y iv?",
+  "opciones": [
+   "Cubital",
+   "Subescapulares superior e inferior",
+   "Pectoral lateral",
+   "Supraescapular"
+  ],
+  "correcta": 0,
+  "explicacion": "Su debilidad, con la de los interóseos, produce la mano en garra cubital (hiperextensión MCF y flexión IF del 4.º y 5.º dedo).",
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital"
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-132",
+  "enunciado": "¿Qué raíces inervan el lumbricales iii y iv?",
+  "opciones": [
+   "C8, T1",
+   "C7, C8, T1",
+   "C7",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Lumbricales III y IV: Cubital, C8, T1. Su debilidad, con la de los interóseos, produce la mano en garra cubital (hiperextensión MCF y flexión IF del 4.º y 5.º dedo)."
+ },
+ {
+  "grupo": "C8",
+  "tema": "Miembro superior",
+  "subtema": "Mano",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-cubital",
+  "id": "rn-ms-133",
+  "enunciado": "¿Cuál es la función principal del lumbricales iii y iv?",
+  "opciones": [
+   "Flexión de la MCF con extensión de las IF (anular y meñique)",
+   "Aducción del pulgar",
+   "Abducción del brazo (15–90°)",
+   "Extensión de la interfalángica del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Lumbricales III y IV: flexión de la mcf con extensión de las if (anular y meñique). Nervio: Cubital, C8, T1. Su debilidad, con la de los interóseos, produce la mano en garra cubital (hiperextensión MCF y flexión IF del 4.º y 5.º dedo)."
+ }
+]

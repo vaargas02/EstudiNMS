@@ -1,0 +1,124 @@
+{
+  "version": "2026-09-26",
+  "secciones": [
+    {
+      "id": "raiz-vs-plexo",
+      "titulo": "Raíz o plexo: los músculos testigo",
+      "grupo": "Localización",
+      "contenido": "La pregunta de cada día en la unidad: ¿la lesión está en la raíz o más distal? Tres ramas salen antes del plexo y son las que lo deciden.\n\n## Los tres testigos\n- **Romboides** (dorsal de la escápula, C5): sale directamente de la raíz. Afectado = C5. Normal con deltoides débil = tronco superior o más distal.\n- **Serrato anterior** (torácico largo, C5-C7): también sale de las raíces. Escápula alada medial con el resto normal orienta a radiculopatía o a neuralgia amiotrófica.\n- **Paraespinales** (ramo dorsal): el ramo dorsal se separa antes del plexo, así que su denervación en la EMG sitúa la lesión en la raíz. Pueden estar normales en radiculopatías leves o crónicas: su ausencia no descarta nada.\n\n## La otra mitad de la respuesta\nLos **SNAP** completan la localización. El ganglio raquídeo dorsal está en el foramen, distal a la raíz: por eso en la radiculopatía el SNAP es normal aunque haya hipoestesia. Un SNAP bajo en un territorio con déficit sensitivo indica lesión postganglionar, es decir, plexo o nervio.\n\n## Patrón de miotoma\nDenervación en músculos de nervios distintos que comparten raíz (por ejemplo tríceps y flexor radial del carpo en C7) solo se explica por la raíz."
+    },
+    {
+      "id": "escapula-alada",
+      "titulo": "Escápula alada: trapecio o serrato",
+      "grupo": "Miembro superior",
+      "contenido": "Dos nervios, dos escápulas aladas distintas. La maniobra que las separa es en qué movimiento se hace más evidente.\n\n## Serrato anterior (torácico largo, C5-C7)\n- Ala **medial**: el borde medial se despega al **empujar contra la pared**.\n- El torácico largo nace de las raíces. Causas: neuralgia amiotrófica, mochilas, cirugía axilar.\n\n## Trapecio (accesorio espinal, XI)\n- Ala **lateral**: el ángulo inferior se desplaza hacia fuera, con **hombro caído**, y se marca al **abducir**.\n- Causa típica: cirugía o biopsia del triángulo posterior del cuello.\n\nEl XI también inerva el esternocleidomastoideo, así que conviene explorar la rotación de la cabeza al lado contrario."
+    },
+    {
+      "id": "plexo-braquial",
+      "titulo": "Plexo braquial: troncos, fascículos y ramas",
+      "grupo": "Plexos",
+      "contenido": "Raíces C5-T1 › troncos › divisiones › fascículos › ramas terminales.\n\n## Troncos\n- **Superior**: C5-C6. Da el supraescapular y el nervio del subclavio.\n- **Medio**: C7.\n- **Inferior**: C8-T1. Klumpke, tumor de Pancoast, desfiladero torácico neurogénico.\n\n## Fascículos y sus ramas\n- **Lateral**: musculocutáneo, raíz lateral del mediano, pectoral lateral.\n- **Posterior**: axilar, radial, toracodorsal y subescapulares. Todo lo que extiende y el deltoides.\n- **Medial**: cubital, raíz medial del mediano, cutáneo braquial medial y antebraquial medial.\n\n## Ramas que salen antes\nDorsal de la escápula (C5) y torácico largo (C5-C7) salen de las raíces; el supraescapular, del tronco superior. Son las que separan raíz de plexo.\n\n## El detalle que más rinde\nEl **cutáneo antebraquial medial** sale del fascículo medial, no del cubital. Hipoestesia del borde cubital del antebrazo con déficit cubital en la mano indica C8-T1, tronco inferior o fascículo medial, nunca una neuropatía cubital.",
+      "imagen": "img/plexo-braquial.svg"
+    },
+    {
+      "id": "nervio-radial",
+      "titulo": "Nervio radial: cuatro niveles de lesión",
+      "grupo": "Miembro superior",
+      "contenido": "El radial se localiza por lo que está preservado, no por lo que falla.\n\n## Axila\nTríceps débil, más todo lo distal, y déficit sensitivo. Causa clásica: muletas.\n\n## Canal de torsión del húmero\n**Tríceps normal** (sus ramas salen antes), braquiorradial y extensores débiles, hipoestesia dorsorradial de la mano. Es la «parálisis del sábado noche» y la de la fractura de húmero.\n\n## Interóseo posterior\nDedos caídos **sin déficit sensitivo** y con la muñeca que aún extiende, desviándose hacia radial: el extensor radial largo del carpo sale antes de la división y el extensor cubital del carpo no. Atrapamiento en la arcada de Frohse.\n\n## Radial superficial (Wartenberg)\nSolo sensitivo: dorso radial de la mano. Relojes y esposas.\n\n## Lo que hay que descartar siempre\nLa **radiculopatía C7**: extensión de codo y muñeca débiles, pero también el flexor radial del carpo (que es del mediano) y el tricipital abolido."
+    },
+    {
+      "id": "nervio-mediano",
+      "titulo": "Nervio mediano: túnel, interóseo anterior y pronador",
+      "grupo": "Miembro superior",
+      "contenido": "## Túnel carpiano\nParestesias de los tres primeros dedos, **sensibilidad de la eminencia tenar conservada** (la rama cutánea palmar sale antes del túnel) y pronador redondo normal. En casos avanzados, atrofia del abductor corto del pulgar. El hallazgo más sensible es la latencia sensitiva distal prolongada, mejor con técnicas comparativas mediano-cubital o mediano-radial.\n\n## Interóseo anterior\nNervio **motor puro**: no puede hacer el signo del «OK», con la interfalángica del pulgar y la distal del índice en extensión («pico de pato»). Sensibilidad normal. Piensa en neuralgia amiotrófica.\n\n## Lesión proximal (codo, pronador)\nPronador redondo y flexor radial del carpo débiles, y sensibilidad tenar alterada.\n\n## El músculo clave\nEl **abductor corto del pulgar** es T1: se afecta también en C8-T1 y en el desfiladero torácico neurogénico, donde es el músculo que más se atrofia."
+    },
+    {
+      "id": "nervio-cubital",
+      "titulo": "Nervio cubital: codo, Guyon y la paradoja",
+      "grupo": "Miembro superior",
+      "contenido": "## Codo\nFlexor profundo IV-V débil y **dorso cubital de la mano alterado**: la rama cutánea dorsal sale 5-8 cm antes de la muñeca. Criterio neurofisiológico: velocidad a través del codo por debajo de 50 m/s o caída de más de 10 m/s respecto al antebrazo, siempre con el codo flexionado.\n\n## Canal de Guyon\nFlexor profundo IV-V **normal** y dorso de la mano **normal**. Si solo se afecta la rama profunda, no hay déficit sensitivo: ciclistas, herramientas, gangliones.\n\n## La paradoja cubital\nLa garra es **más marcada en las lesiones distales**: en el codo también se debilita el flexor profundo, así que los dedos flexionan menos.\n\n## Signos de exploración\n- **Froment**: al sujetar un papel, el pulgar flexiona la interfalángica (flexor largo, mediano) para suplir al aductor.\n- **Anular partido**: mitad radial normal, mitad cubital alterada. Apoya lesión del nervio frente a C8, que afecta todo el dedo.\n\n## Lo que descarta C8\nEl **cutáneo antebraquial medial**: si el borde cubital del antebrazo está alterado, no es una neuropatía cubital."
+    },
+    {
+      "id": "pie-caido",
+      "titulo": "Pie caído: L5, ciático o peroneo",
+      "grupo": "Miembro inferior",
+      "contenido": "La dorsiflexión débil no localiza nada por sí sola. Localizan tres músculos que no dependen del peroneo.\n\n## Los tres que deciden\n- **Tibial posterior** (tibial, L4-L5): explora la inversión con el pie en flexión plantar. Débil = L5 o ciático.\n- **Glúteo medio** (glúteo superior, L5): abducción de cadera. Débil = L5 o más proximal.\n- **Cabeza corta del bíceps femoral** (división peronea del ciático): es el único músculo del muslo de esa división. Denervada = lesión ciática proximal a la rodilla.\n\n## Los tres cuadros\n- **Radiculopatía L5**: inversión y abducción de cadera débiles, reflejos normales (el isquiotibial medial es el único que explora L5).\n- **Neuropatía peroneal en la cabeza del peroné**: inversión y abducción normales, cabeza corta del bíceps normal. Cruzar las piernas, pérdida de peso, yesos, cuclillas.\n- **Ciático**: cabeza corta del bíceps denervada, paraespinales normales. La división peronea es más vulnerable dentro del propio ciático, así que puede dominar el pie caído.\n\n## Peroneo profundo aislado\nPie caído con déficit sensitivo limitado al **primer espacio interdigital dorsal**.",
+      "imagen": "img/pierna-nervios.svg"
+    },
+    {
+      "id": "plexo-lumbosacro",
+      "titulo": "Plexo lumbosacro y nervios del miembro inferior",
+      "grupo": "Plexos",
+      "contenido": "## Femoral y obturador\nComparten raíces **L2-L4**: el femoral sale de las divisiones posteriores y el obturador de las anteriores. Esa es la clave clínica: si solo falla el cuádriceps, es el femoral; si además fallan los aductores, la lesión es de raíz o de plexo. Piensa en amiotrofia diabética y en hematoma del psoas.\n\n## Glúteos\n- **Glúteo superior** (L4-S1): glúteo medio, menor y tensor de la fascia lata. Marcha de Trendelenburg.\n- **Glúteo inferior** (L5-S2): solo el glúteo mayor. Dificultad para levantarse de la silla.\n\n## Ciático\nL4-S3, con dos divisiones que viajan separadas desde la pelvis: tibial (L4-S3) y peroneo común (L4-S2).\n\n## Sensitivos puros\n- **Femorocutáneo lateral** (L2-L3): meralgia parestésica, sin debilidad ni cambios de reflejos.\n- **Cutáneo femoral posterior** (S1-S3): no forma parte del ciático, por eso la cara posterior del muslo suele conservarse en las lesiones ciáticas.\n- **Safeno**: rama terminal del femoral, cara medial de la pierna.\n\n## Suelo pélvico\nEl **pudendo** es S2-S4. Con anestesia en silla de montar y retención urinaria, piensa en cauda equina.",
+      "imagen": "img/plexo-lumbosacro.svg"
+    },
+    {
+      "id": "reflejos",
+      "titulo": "Reflejos y sus raíces",
+      "grupo": "Exploración",
+      "contenido": "Mnemotecnia: **1-2 aquíleo, 3-4 rotuliano, 5-6 bíceps, 7-8 tríceps**.\n\n## Miembro superior\n- Bicipital: C5-C6 (musculocutáneo)\n- Estilorradial: C5-C6 (radial)\n- Tricipital: C7 (radial)\n- Flexor de los dedos: C8\n\n## Miembro inferior\n- Aductor: L2-L4 (obturador)\n- Rotuliano: L3-L4 (femoral)\n- Isquiotibial medial: L5. Es el **único reflejo que explora L5**\n- Aquíleo: S1 (tibial)\n\n## Cutáneos\n- Abdominales: T8-T12\n- Cremastérico: L1-L2\n- Anal: S2-S4\n\n## Detalles que se preguntan\n- El **maseterino** es aferente y eferente por el V par: exaltado indica primera motoneurona bulbar, un dato importante en la ELA.\n- El **estilorradial invertido** (abolido, con flexión de los dedos como respuesta) sugiere lesión medular C5-C6.\n- El **reflejo H** es el equivalente eléctrico del aquíleo y se pierde en S1, en polineuropatías y en el Guillain-Barré precoz."
+    },
+    {
+      "id": "miotomas",
+      "titulo": "Músculos clave de la ISNCSCI",
+      "grupo": "Exploración",
+      "contenido": "Diez músculos, cinco por extremidad, que definen el nivel motor en la escala de ASIA.\n\n## Miembro superior\n1. **C5** flexores del codo\n2. **C6** extensores de la muñeca\n3. **C7** extensores del codo\n4. **C8** flexores de los dedos (interfalángica distal del medio)\n5. **T1** abductores de los dedos (meñique)\n\n## Miembro inferior\n1. **L2** flexores de la cadera\n2. **L3** extensores de la rodilla\n3. **L4** dorsiflexores del tobillo\n4. **L5** extensores largos de los dedos (dedo gordo)\n5. **S1** flexores plantares del tobillo\n\nLa exploración se completa con la sensibilidad perianal y la contracción anal voluntaria (S4-5), que son las que definen si una lesión es completa o incompleta."
+    },
+    {
+      "id": "dermatomas",
+      "titulo": "Dermatomas: puntos clave y referencias",
+      "grupo": "Sensibilidad",
+      "contenido": "La ISNCSCI define 28 puntos clave, de C2 a S4-5. Son coordenadas concretas, no zonas: eso es lo que los hace reproducibles.\n\n## Referencias que hay que saber de memoria\n- **T4** línea de los pezones\n- **T6** apéndice xifoides\n- **T10** ombligo\n- **T12** punto medio del ligamento inguinal\n- Entre xifoides y ombligo se reparten T7, T8 y T9 en cuartos\n\n## Extremidades\n- **C6** pulgar, **C7** dedo medio, **C8** meñique: los tres en el dorso de la falange proximal\n- **C5** cara lateral y **T1** cara medial de la fosa antecubital\n- **L4** maléolo medial, **L5** dorso del pie (3.ª metatarsofalángica), **S1** cara lateral del talón\n- **S3** tuberosidad isquiática, **S4-5** área perianal\n\n## Lo que hay que tener en cuenta\nLos mapas discrepan: el hombro es C4 en Foerster y C5 en Keegan-Garrett, y la región supraclavicular es C3 o C4 según la fuente. Los dermatomas se solapan mucho entre sí, y esa es la razón de que una sola raíz seccionada dé poca hipoestesia.",
+      "imagen": "img/cuerpo-anterior.svg"
+    },
+    {
+      "id": "dermatomas-vs-nervios",
+      "titulo": "Dermatoma o nervio periférico",
+      "grupo": "Sensibilidad",
+      "contenido": "Es la distinción que más veces resuelve una consulta de parestesias en la mano.\n\n## En la mano\n- **C6** pulgar; **mediano** pulgar, índice, medio y mitad radial del anular, más la palma radial.\n- **C8** meñique y borde cubital que **sigue por el antebrazo**; **cubital** solo meñique y mitad cubital del anular, y se detiene en la muñeca.\n- El **anular partido** es de nervio, no de raíz.\n- La **rama cutánea dorsal** del cubital sale antes de la muñeca: dorso alterado indica lesión en el codo; dorso normal, canal de Guyon.\n- La **rama cutánea palmar** del mediano sale antes del túnel: eminencia tenar alterada indica lesión proximal al túnel.\n\n## En la pierna\n- **Safeno** (femoral): cara medial de la pierna hasta el borde medial del pie.\n- **Peroneo superficial**: cara anterolateral distal y dorso del pie, salvo el primer espacio.\n- **Peroneo profundo**: solo el primer espacio interdigital dorsal.\n- **Sural**: borde lateral del pie y maléolo lateral. Es el nervio de la biopsia y el del «sural sparing» del Guillain-Barré.\n\n## La regla\nUn territorio de nervio tiene bordes nítidos y una zona autónoma; un dermatoma tiene bordes difusos por el solapamiento.",
+      "imagen": "img/mano-nervios-palma.svg"
+    },
+    {
+      "id": "cuello-tronco",
+      "titulo": "Cuello, tronco y diafragma",
+      "grupo": "Craneal y axial",
+      "contenido": "## Diafragma\n«**C3, 4 y 5 mantienen vivo al diafragma**». Vigila la capacidad vital forzada, sobre todo en decúbito, y la respiración paradójica: en ELA, Pompe, miastenia y Guillain-Barré es lo que decide el ingreso.\n\n## Flexores del cuello\nSe debilitan pronto en miastenia, miositis y miopatías, y su debilidad **predice la afectación respiratoria** en el Guillain-Barré y en la crisis miasténica.\n\n## Extensores del cuello\nSu debilidad da **cabeza caída**: ELA, miastenia, miopatía de extensores del cuello.\n\n## Signo de Beevor\nEl ombligo asciende al flexionar el cuello en decúbito, por debilidad de la mitad inferior del recto abdominal (alrededor de T10). Muy característico de la distrofia facioescapulohumeral.\n\n## Paraespinales\nEl ramo dorsal sale proximal al plexo: su denervación localiza en la raíz. Las descargas miotónicas en paraespinales torácicos, sin miotonía clínica, obligan a descartar **enfermedad de Pompe**."
+    },
+    {
+      "id": "bulbar",
+      "titulo": "Musculatura craneal y bulbar",
+      "grupo": "Craneal y axial",
+      "contenido": "## Qué explorar y qué sugiere\n- **Ptosis fatigable** con oftalmoparesia y diplopía: miastenia. Sin diplopía, piensa en miopatía mitocondrial (CPEO) o distrofia oculofaríngea.\n- **Cierre ocular débil**: muy frecuente en miastenia, incluso en formas oculares.\n- **No poder silbar ni hinchar las mejillas**: distrofia facioescapulohumeral.\n- **Cierre mandibular débil**, con el paciente sujetándose la mandíbula: miastenia. Maseterino exaltado: primera motoneurona bulbar en la ELA.\n- **Atrofia y fasciculaciones linguales**: segunda motoneurona bulbar (ELA, enfermedad de Kennedy).\n- **Voz nasal y disfagia**: miastenia, ELA bulbar, distrofia oculofaríngea, miositis por cuerpos de inclusión.\n\n## Mnemotecnia de los oculomotores\n**LR6 SO4**: recto lateral por el VI, oblicuo superior por el IV, el resto por el III."
+    },
+    {
+      "id": "emg-conduccion",
+      "titulo": "EMG: axonal frente a desmielinizante",
+      "grupo": "EMG",
+      "contenido": "## Lo que dice cada parámetro\n- **Amplitud**: número de axones que conducen. Cae en la pérdida axonal.\n- **Latencia y velocidad**: estado de la mielina.\n\n## Axonal\nAmplitudes bajas con latencias y velocidades casi normales. En la pérdida axonal grave la velocidad baja algo, por pérdida de las fibras más rápidas, pero no llega a rango desmielinizante.\n\n## Desmielinizante\nLatencias distales prolongadas, velocidad enlentecida, **bloqueo de conducción** y dispersión temporal.\n- **Uniforme** (todos los nervios por igual, sin bloqueos): hereditaria. CMT1 por debajo de 38 m/s en el mediano; CMT2 por encima.\n- **No uniforme** (parcheada, con bloqueos y dispersión): adquirida. AIDP, CIDP, neuropatía motora multifocal.\n\n## Cronología tras una sección\nEl CMAP distal cae en los primeros días y toca fondo hacia el día 7-9; el SNAP, hacia el 10-11. Antes de eso no se puede distinguir un bloqueo de una axonotmesis.\n\n## El error más fácil de cometer\nUn miembro **frío** prolonga latencias y enlentece la conducción: puede simular una desmielinizante. Mantén la mano por encima de 32 °C."
+    },
+    {
+      "id": "emg-localizacion",
+      "titulo": "EMG: SNAP y paraespinales para localizar",
+      "grupo": "EMG",
+      "contenido": "## El ganglio raquídeo dorsal manda\nEstá en el foramen, **distal a la raíz**. Por eso:\n- **Radiculopatía** (preganglionar): SNAP **normal** aunque haya hipoestesia. Lo mismo en la avulsión radicular.\n- **Plexopatía o neuropatía** (postganglionar): SNAP reducido o ausente.\n\n## Paraespinales\nSu ramo dorsal sale proximal al plexo: la denervación paraespinal apunta a la raíz o a enfermedad de motoneurona. Pueden ser normales en radiculopatías leves o crónicas.\n\n## La tríada de la radiculopatía\n1. Patrón de **miotoma**: músculos de nervios distintos que comparten raíz\n2. Paraespinales denervados\n3. SNAP normales\n\n## Cuándo pedirla\nLas fibrilaciones tardan **3-4 semanas** en aparecer en músculos distales, y unos 10-14 días en paraespinales. Una EMG muy precoz puede ser normal y no descarta nada."
+    },
+    {
+      "id": "emg-aguja",
+      "titulo": "EMG: actividad espontánea y unidades motoras",
+      "grupo": "EMG",
+      "contenido": "## Actividad espontánea\n- **Fibrilaciones y ondas positivas**: fibras denervadas. También en miopatías con necrosis o inflamación, porque la necrosis segmentaria desconecta parte de la fibra de su placa.\n- **Descargas miotónicas**: suben y bajan en frecuencia y amplitud, como un bombardero en picado. Distrofia miotónica 1 y 2, miotonías congénitas, paramiotonía; también Pompe, miopatías necrotizantes e hipotiroidea.\n- **Descargas repetitivas complejas**: frecuencia constante, inicio y final bruscos. Indican cronicidad, neurógena o miopática.\n- **Mioquimias**: salvas agrupadas de un mismo potencial. Plexopatía **rádica** frente a infiltración tumoral; mioquimia facial en esclerosis múltiple o tumor de tronco.\n- **Neuromiotonía**: 150-300 Hz decreciente. Síndrome de Isaacs, anti-CASPR2, a veces con timoma.\n- **Potenciales de placa**: hallazgo normal y doloroso. Las espigas de placa se distinguen de las fibrilaciones por su onda inicial negativa y su disparo irregular.\n\n## Unidades motoras\n- **Neurógeno crónico**: potenciales grandes, largos y polifásicos, con reclutamiento reducido. Reinervación colateral.\n- **Miopático**: potenciales pequeños, cortos y polifásicos, con reclutamiento precoz.\n- **Reclutamiento reducido** (pocas unidades a más de 20 Hz) es el signo más precoz de pérdida axonal o de bloqueo."
+    },
+    {
+      "id": "emg-union",
+      "titulo": "EMG: unión neuromuscular",
+      "grupo": "EMG",
+      "contenido": "## Postsináptico: miastenia gravis\n- **Estimulación repetitiva a 3 Hz**: decremento del CMAP mayor del 10% entre el primer estímulo y el cuarto o quinto. Más sensible en músculos proximales y faciales. El frío reduce el decremento: calienta la extremidad.\n- **Fibra única**: jitter aumentado. Es la prueba más sensible, pero poco específica: también aumenta en ELA, en neuropatías con reinervación y en miopatías.\n\n## Presináptico: Lambert-Eaton\nCMAP basal bajo con **incremento mayor del 100%** tras 10 segundos de ejercicio (un incremento del 60% ya es sugestivo). Anticuerpos anti canales de calcio P/Q. Busca carcinoma microcítico de pulmón.\n\n## Presináptico: botulismo\nCMAP bajos con incremento a alta frecuencia y neurografía sensitiva normal. Clínica descendente con afectación pupilar precoz."
+    },
+    {
+      "id": "emg-miopatias",
+      "titulo": "EMG: miopatías y enfermedad de motoneurona",
+      "grupo": "EMG",
+      "contenido": "## Motoneurona\n- En la **ELA** los SNAP son normales: es una enfermedad de motoneurona. Si están bajos, replantea el diagnóstico; la enfermedad de **Kennedy** asocia neuronopatía sensitiva.\n- Los criterios de **Awaji** equiparan las fasciculaciones, sobre todo las complejas, a las fibrilaciones cuando hay cambios neurógenos crónicos.\n\n## Miopatías\n- **Con fibrilaciones**: inflamatorias, necrotizantes y distrofias como la de Duchenne.\n- **Sin fibrilaciones**: miopatía por corticoides, que afecta sobre todo a fibras tipo 2 y a menudo da una EMG normal. Encontrar fibrilaciones en un paciente con corticoides sugiere reactivación de la miositis.\n- **Miositis por cuerpos de inclusión**: mezcla de potenciales miopáticos y grandes de aspecto neurógeno, con fibrilaciones. Puede confundirse con enfermedad de motoneurona. Clínica: flexores de los dedos y cuádriceps, asimétrica.\n\n## Dos pruebas concretas\n- **McManis** (ejercicio largo): caída progresiva del CMAP mayor del 40%, en las parálisis periódicas.\n- **Paciente crítico**: la miopatía da CMAP bajos de duración aumentada, SNAP normales e inexcitabilidad a la estimulación muscular directa; la polineuropatía del crítico es axonal sensitivomotora. Pueden coexistir."
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+[
+ {
+  "id": "rn-cut-001",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (palma de la mano)?",
+  "opciones": [
+   "Mediano",
+   "Cubital",
+   "Radial superficial",
+   "Musculocutáneo"
+  ],
+  "correcta": 0,
+  "explicacion": "Palma radial y cara palmar de pulgar, índice, medio y mitad radial del anular. La rama cutánea palmar (eminencia tenar) sale antes del túnel carpiano: en el túnel carpiano la sensibilidad tenar se conserva.",
+  "imagen": "img/cutaneo-median-palm.svg"
+ },
+ {
+  "id": "rn-cut-002",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (palma de la mano)?",
+  "opciones": [
+   "Cubital",
+   "Mediano",
+   "Radial superficial",
+   "Cutáneo antebraquial medial"
+  ],
+  "correcta": 0,
+  "explicacion": "Mitad cubital del anular y meñique. El «anular partido» (mitad radial normal, cubital alterada) apoya lesión del cubital frente a C8, que afecta todo el anular.",
+  "imagen": "img/cutaneo-ulnar-palm.svg"
+ },
+ {
+  "id": "rn-cut-003",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (dorso de la mano)?",
+  "opciones": [
+   "Radial superficial",
+   "Mediano",
+   "Cubital (rama dorsal)",
+   "Cutáneo antebraquial lateral"
+  ],
+  "correcta": 0,
+  "explicacion": "Dorso radial de la mano y dorso proximal de los tres primeros dedos. Neuropatía de Wartenberg: compresión por relojes o esposas. El territorio autónomo es el primer espacio interóseo dorsal.",
+  "imagen": "img/cutaneo-radial-dorsum.svg"
+ },
+ {
+  "id": "rn-cut-004",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (dorso de la mano)?",
+  "opciones": [
+   "Cubital (rama cutánea dorsal)",
+   "Radial superficial",
+   "Mediano",
+   "Cutáneo antebraquial medial"
+  ],
+  "correcta": 0,
+  "explicacion": "La rama dorsal sale unos 5-8 cm proximal a la muñeca: su territorio está alterado en la lesión del codo y preservado en el canal de Guyon.",
+  "imagen": "img/cutaneo-ulnardors-dorsum.svg"
+ },
+ {
+  "id": "rn-cut-005",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (dorso de la mano)?",
+  "opciones": [
+   "Mediano",
+   "Radial superficial",
+   "Cubital (rama cutánea dorsal)",
+   "Musculocutáneo"
+  ],
+  "correcta": 0,
+  "explicacion": "El mediano también inerva el dorso de las falanges distales del índice, medio y mitad radial del anular.",
+  "imagen": "img/cutaneo-mediandors-dorsum.svg"
+ },
+ {
+  "id": "rn-cut-006",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "Safeno (rama del femoral)",
+   "Peroneo superficial",
+   "Sural",
+   "Femorocutáneo lateral"
+  ],
+  "correcta": 0,
+  "explicacion": "Rama sensitiva terminal del femoral: cara medial de la pierna y borde medial del pie. Si está alterado junto a debilidad de cuádriceps, la lesión es femoral o L4.",
+  "imagen": "img/cutaneo-saphenous-leg.svg"
+ },
+ {
+  "id": "rn-cut-007",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "Peroneo superficial",
+   "Peroneo profundo",
+   "Safeno",
+   "Sural"
+  ],
+  "correcta": 0,
+  "explicacion": "Cara anterolateral distal de la pierna y dorso del pie (salvo el primer espacio). Da además la motora de los peroneos.",
+  "imagen": "img/cutaneo-supperoneal-leg.svg"
+ },
+ {
+  "id": "rn-cut-008",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "Peroneo profundo",
+   "Peroneo superficial",
+   "Sural",
+   "Safeno"
+  ],
+  "correcta": 0,
+  "explicacion": "Territorio sensitivo pequeño: el primer espacio interdigital dorsal. Útil para distinguir lesiones del peroneo profundo (pie caído + solo primer espacio) de las del peroneo común.",
+  "imagen": "img/cutaneo-deepperoneal-leg.svg"
+ },
+ {
+  "id": "rn-cut-009",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la zona resaltada (pierna y pie)?",
+  "opciones": [
+   "Sural",
+   "Peroneo superficial",
+   "Safeno",
+   "Plantar lateral"
+  ],
+  "correcta": 0,
+  "explicacion": "Borde lateral del pie y maléolo lateral. Es el nervio sensitivo estándar en neurografía y biopsia de nervio. En el GBS suele estar preservado («sural sparing»).",
+  "imagen": "img/cutaneo-sural-leg.svg"
+ },
+ {
+  "id": "rn-cut-010",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio da la sensibilidad de la piel lateral del hombro, sobre el deltoides («parche regimental»)?",
+  "opciones": [
+   "Axilar",
+   "Supraescapular",
+   "Musculocutáneo",
+   "Radial"
+  ],
+  "correcta": 0,
+  "explicacion": "El supraescapular es motor para la exploración práctica (no tiene territorio cutáneo útil). Parche regimental + debilidad de abducción tras luxación = axilar."
+ },
+ {
+  "id": "rn-cut-011",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva la piel del borde radial (lateral) del antebrazo?",
+  "opciones": [
+   "Cutáneo antebraquial lateral (musculocutáneo)",
+   "Cutáneo antebraquial medial",
+   "Radial superficial",
+   "Mediano"
+  ],
+  "correcta": 0,
+  "explicacion": "Rama terminal del musculocutáneo. Puede lesionarse en venopunciones en la flexura del codo."
+ },
+ {
+  "id": "rn-cut-012",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva la piel del borde cubital (medial) del antebrazo?",
+  "opciones": [
+   "Cutáneo antebraquial medial",
+   "Cubital",
+   "Cutáneo antebraquial lateral",
+   "Mediano"
+  ],
+  "correcta": 0,
+  "explicacion": "Sale directamente del fascículo medial (C8-T1). Su alteración con déficit cubital en la mano indica lesión C8/tronco inferior, no neuropatía cubital."
+ },
+ {
+  "id": "rn-cut-013",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva la cara anterolateral del muslo?",
+  "opciones": [
+   "Femorocutáneo lateral",
+   "Femoral (ramas cutáneas anteriores)",
+   "Obturador",
+   "Genitofemoral"
+  ],
+  "correcta": 0,
+  "explicacion": "Meralgia parestésica: dolor urente y hipoestesia anterolateral del muslo, sin debilidad ni cambios de reflejos. Factores: obesidad, embarazo, cinturones ajustados."
+ },
+ {
+  "id": "rn-cut-014",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva una pequeña zona de la cara medial del muslo?",
+  "opciones": [
+   "Obturador",
+   "Femoral",
+   "Femorocutáneo lateral",
+   "Safeno"
+  ],
+  "correcta": 0,
+  "explicacion": "El obturador es sobre todo motor (aductores). Neuropatía del obturador: cirugía pélvica, parto, hernia obturatriz."
+ },
+ {
+  "id": "rn-cut-015",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva la piel de la cara anterior del muslo?",
+  "opciones": [
+   "Femoral (ramas cutáneas anteriores)",
+   "Femorocutáneo lateral",
+   "Obturador",
+   "Genitofemoral"
+  ],
+  "correcta": 0,
+  "explicacion": "Las ramas cutáneas anteriores cubren el muslo anterior y el safeno la cara medial de la pierna."
+ },
+ {
+  "id": "rn-cut-016",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva la planta del pie?",
+  "opciones": [
+   "Tibial (plantares medial y lateral)",
+   "Sural",
+   "Peroneo superficial",
+   "Safeno"
+  ],
+  "correcta": 0,
+  "explicacion": "El tibial da los plantares medial y lateral y las ramas calcáneas. Túnel del tarso: parestesias plantares con sensibilidad del talón a menudo preservada (las ramas calcáneas pueden salir antes)."
+ },
+ {
+  "id": "rn-cut-017",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué rama inerva la piel de la eminencia tenar y por qué importa?",
+  "opciones": [
+   "Rama cutánea palmar del mediano, que sale antes del túnel carpiano",
+   "Rama motora recurrente del mediano",
+   "Radial superficial, que cruza la palma",
+   "Rama profunda del cubital"
+  ],
+  "correcta": 0,
+  "explicacion": "Si la sensibilidad de la eminencia tenar está alterada, la lesión del mediano es proximal al túnel carpiano."
+ },
+ {
+  "id": "rn-cut-018",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "¿Qué nervio inerva la cara posterior del muslo?",
+  "opciones": [
+   "Cutáneo femoral posterior",
+   "Ciático",
+   "Femorocutáneo lateral",
+   "Obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Nervio sensitivo (S1-S3) que no forma parte del ciático. Por eso la sensibilidad posterior del muslo suele conservarse en lesiones del ciático."
+ },
+ {
+  "id": "rn-cut-019",
+  "grupo": "Territorios cutáneos",
+  "tema": "Sensibilidad",
+  "subtema": "Territorios cutáneos",
+  "teoria": "dermatomas-vs-nervios",
+  "enunciado": "Hipoestesia de 4.º-5.º dedo con dorso cubital de la mano normal. ¿Dónde está la lesión del cubital?",
+  "opciones": [
+   "En la muñeca (canal de Guyon), distal a la rama dorsal",
+   "En el codo",
+   "En la axila",
+   "En el fascículo medial"
+  ],
+  "correcta": 0,
+  "explicacion": "La rama cutánea dorsal sale antes de la muñeca. Dorso alterado = lesión proximal (codo); dorso preservado = Guyon."
+ }
+]

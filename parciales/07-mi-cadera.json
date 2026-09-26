@@ -1,0 +1,250 @@
+[
+ {
+  "id": "rn-mi-001",
+  "enunciado": "¿Qué nervio inerva el iliopsoas?",
+  "opciones": [
+   "Femoral y ramas del plexo lumbar",
+   "Tibial",
+   "Glúteo superior",
+   "Peroneo profundo"
+  ],
+  "correcta": 0,
+  "explicacion": "Músculo clave L2 de la ISNCSCI. El ilíaco recibe el femoral y el psoas ramas directas del plexo: debilidad de flexión de cadera con resto del femoral normal sugiere lesión más proximal (plexo o raíz).",
+  "grupo": "L1",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro"
+ },
+ {
+  "grupo": "L1",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-002",
+  "enunciado": "¿Qué raíces inervan el iliopsoas?",
+  "opciones": [
+   "L1, L2, L3",
+   "L2, L3, L4",
+   "L5",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Iliopsoas: Femoral y ramas del plexo lumbar, L1, L2, L3. Músculo clave L2 de la ISNCSCI. El ilíaco recibe el femoral y el psoas ramas directas del plexo: debilidad de flexión de cadera con resto del femoral normal sugiere lesión más proximal (plexo o raíz)."
+ },
+ {
+  "grupo": "L1",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-003",
+  "enunciado": "¿Cuál es la función principal del iliopsoas?",
+  "opciones": [
+   "Flexión de la cadera",
+   "Aducción de la cadera",
+   "Eversión del pie",
+   "Extensión de los dedos del pie"
+  ],
+  "correcta": 0,
+  "explicacion": "Iliopsoas: flexión de la cadera. Nervio: Femoral y ramas del plexo lumbar, L1, L2, L3. Músculo clave L2 de la ISNCSCI. El ilíaco recibe el femoral y el psoas ramas directas del plexo: debilidad de flexión de cadera con resto del femoral normal sugiere lesión más proximal (plexo o raíz)."
+ },
+ {
+  "grupo": "L1",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "plexo-lumbosacro",
+  "id": "rn-mi-004",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: flexión de la cadera?",
+  "opciones": [
+   "Iliopsoas",
+   "Flexor largo de los dedos",
+   "Abductor del dedo gordo",
+   "Peroneos largo y corto"
+  ],
+  "correcta": 0,
+  "explicacion": "Iliopsoas: Femoral y ramas del plexo lumbar, L1, L2, L3. Músculo clave L2 de la ISNCSCI. El ilíaco recibe el femoral y el psoas ramas directas del plexo: debilidad de flexión de cadera con resto del femoral normal sugiere lesión más proximal (plexo o raíz)."
+ },
+ {
+  "id": "rn-mi-022",
+  "enunciado": "¿Qué nervio inerva el glúteo medio y menor?",
+  "opciones": [
+   "Glúteo superior",
+   "Tibial",
+   "Ciático (división tibial)",
+   "Plantar medial (tibial)"
+  ],
+  "correcta": 0,
+  "explicacion": "Clave en el pie caído: afectado en radiculopatía L5, preservado en neuropatía peroneal. Su debilidad produce marcha de Trendelenburg.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-023",
+  "enunciado": "¿Qué raíces inervan el glúteo medio y menor?",
+  "opciones": [
+   "L5",
+   "L4",
+   "S1, S2",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Glúteo medio y menor: Glúteo superior, L5. Raíces accesorias: L4, S1. Clave en el pie caído: afectado en radiculopatía L5, preservado en neuropatía peroneal. Su debilidad produce marcha de Trendelenburg."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-024",
+  "enunciado": "¿Cuál es la función principal del glúteo medio y menor?",
+  "opciones": [
+   "Abducción y rotación interna de la cadera",
+   "Extensión de la cadera",
+   "Abducción del dedo gordo",
+   "Aducción de la cadera"
+  ],
+  "correcta": 0,
+  "explicacion": "Glúteo medio y menor: abducción y rotación interna de la cadera. Nervio: Glúteo superior, L5. Clave en el pie caído: afectado en radiculopatía L5, preservado en neuropatía peroneal. Su debilidad produce marcha de Trendelenburg."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-025",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: abducción y rotación interna de la cadera?",
+  "opciones": [
+   "Glúteo medio y menor",
+   "Cuádriceps",
+   "Aductores largo y corto",
+   "Iliopsoas"
+  ],
+  "correcta": 0,
+  "explicacion": "Glúteo medio y menor: Glúteo superior, L5. Clave en el pie caído: afectado en radiculopatía L5, preservado en neuropatía peroneal. Su debilidad produce marcha de Trendelenburg."
+ },
+ {
+  "id": "rn-mi-026",
+  "enunciado": "¿Qué nervio inerva el tensor de la fascia lata?",
+  "opciones": [
+   "Glúteo superior",
+   "Glúteo inferior",
+   "Obturador",
+   "Obturador y ciático (división tibial)"
+  ],
+  "correcta": 0,
+  "explicacion": "Comparte nervio con el glúteo medio y menor (glúteo superior, L4-S1).",
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-027",
+  "enunciado": "¿Qué raíces inervan el tensor de la fascia lata?",
+  "opciones": [
+   "L4, L5",
+   "L1, L2, L3",
+   "L5",
+   "S1, S2"
+  ],
+  "correcta": 0,
+  "explicacion": "Tensor de la fascia lata: Glúteo superior, L4, L5. Raíces accesorias: S1. Comparte nervio con el glúteo medio y menor (glúteo superior, L4-S1)."
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-028",
+  "enunciado": "¿Cuál es la función principal del tensor de la fascia lata?",
+  "opciones": [
+   "Abducción y rotación interna de la cadera",
+   "Extensión de la cadera",
+   "Inversión del pie",
+   "Abducción del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Tensor de la fascia lata: abducción y rotación interna de la cadera. Nervio: Glúteo superior, L4, L5. Comparte nervio con el glúteo medio y menor (glúteo superior, L4-S1)."
+ },
+ {
+  "id": "rn-mi-029",
+  "enunciado": "¿Qué nervio inerva el glúteo mayor?",
+  "opciones": [
+   "Glúteo inferior",
+   "Obturador",
+   "Tibial",
+   "Peroneo profundo"
+  ],
+  "correcta": 0,
+  "explicacion": "El glúteo inferior solo inerva el glúteo mayor. Debilidad: dificultad para levantarse de la silla y subir escaleras.",
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-030",
+  "enunciado": "¿Qué raíces inervan el glúteo mayor?",
+  "opciones": [
+   "L5, S1",
+   "L3, L4",
+   "L2, L3",
+   "L1, L2, L3"
+  ],
+  "correcta": 0,
+  "explicacion": "Glúteo mayor: Glúteo inferior, L5, S1. Raíces accesorias: S2. El glúteo inferior solo inerva el glúteo mayor. Debilidad: dificultad para levantarse de la silla y subir escaleras."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-031",
+  "enunciado": "¿Cuál es la función principal del glúteo mayor?",
+  "opciones": [
+   "Extensión de la cadera",
+   "Flexión de la rodilla y extensión de la cadera",
+   "Flexión del dedo gordo",
+   "Abducción del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Glúteo mayor: extensión de la cadera. Nervio: Glúteo inferior, L5, S1. El glúteo inferior solo inerva el glúteo mayor. Debilidad: dificultad para levantarse de la silla y subir escaleras."
+ },
+ {
+  "grupo": "L5",
+  "tema": "Miembro inferior",
+  "subtema": "Cadera y glúteo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-032",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: extensión de la cadera?",
+  "opciones": [
+   "Glúteo mayor",
+   "Extensor largo del dedo gordo",
+   "Tibial anterior",
+   "Extensor corto de los dedos (pedio)"
+  ],
+  "correcta": 0,
+  "explicacion": "Glúteo mayor: Glúteo inferior, L5, S1. El glúteo inferior solo inerva el glúteo mayor. Debilidad: dificultad para levantarse de la silla y subir escaleras."
+ }
+]

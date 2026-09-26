@@ -1,0 +1,333 @@
+[
+ {
+  "id": "rn-mi-060",
+  "enunciado": "¿Qué nervio inerva el tibial posterior?",
+  "opciones": [
+   "Tibial",
+   "Glúteo superior",
+   "Obturador y ciático (división tibial)",
+   "Obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Clave del pie caído: afectado en radiculopatía L5 y lesión ciática, preservado en neuropatía peroneal. Explora la inversión con el pie en flexión plantar.",
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido"
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-061",
+  "enunciado": "¿Qué raíces inervan el tibial posterior?",
+  "opciones": [
+   "L4, L5",
+   "L5, S1",
+   "L5",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Tibial posterior: Tibial, L4, L5. Clave del pie caído: afectado en radiculopatía L5 y lesión ciática, preservado en neuropatía peroneal. Explora la inversión con el pie en flexión plantar."
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-062",
+  "enunciado": "¿Cuál es la función principal del tibial posterior?",
+  "opciones": [
+   "Inversión del pie",
+   "Aducción y extensión de la cadera",
+   "Flexión de la rodilla y extensión de la cadera",
+   "Flexión del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Tibial posterior: inversión del pie. Nervio: Tibial, L4, L5. Clave del pie caído: afectado en radiculopatía L5 y lesión ciática, preservado en neuropatía peroneal. Explora la inversión con el pie en flexión plantar."
+ },
+ {
+  "grupo": "L4",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "pie-caido",
+  "id": "rn-mi-063",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: inversión del pie?",
+  "opciones": [
+   "Tibial posterior",
+   "Cuádriceps",
+   "Flexor largo del dedo gordo",
+   "Sartorio"
+  ],
+  "correcta": 0,
+  "explicacion": "Tibial posterior: Tibial, L4, L5. Clave del pie caído: afectado en radiculopatía L5 y lesión ciática, preservado en neuropatía peroneal. Explora la inversión con el pie en flexión plantar."
+ },
+ {
+  "id": "rn-mi-064",
+  "enunciado": "¿Qué nervio inerva el gastrocnemio (medial y lateral)?",
+  "opciones": [
+   "Tibial",
+   "Peroneo profundo",
+   "Peroneo superficial",
+   "Obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo aquíleo S1; músculo clave S1 de la ISNCSCI. En la RM muscular, el gastrocnemio medial se afecta precozmente en disferlinopatía (Miyoshi) y en otras miopatías distales.",
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos"
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-mi-065",
+  "enunciado": "¿Qué raíces inervan el gastrocnemio (medial y lateral)?",
+  "opciones": [
+   "S1",
+   "L4",
+   "L2, L3",
+   "L5"
+  ],
+  "correcta": 0,
+  "explicacion": "Gastrocnemio (medial y lateral): Tibial, S1. Raíces accesorias: S2. Reflejo aquíleo S1; músculo clave S1 de la ISNCSCI. En la RM muscular, el gastrocnemio medial se afecta precozmente en disferlinopatía (Miyoshi) y en otras miopatías distales."
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-mi-066",
+  "enunciado": "¿Cuál es la función principal del gastrocnemio (medial y lateral)?",
+  "opciones": [
+   "Flexión plantar del tobillo",
+   "Flexión de la cadera",
+   "Extensión de la rodilla",
+   "Extensión del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Gastrocnemio (medial y lateral): flexión plantar del tobillo. Nervio: Tibial, S1. Reflejo aquíleo S1; músculo clave S1 de la ISNCSCI. En la RM muscular, el gastrocnemio medial se afecta precozmente en disferlinopatía (Miyoshi) y en otras miopatías distales."
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-mi-067",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: flexión plantar del tobillo?",
+  "opciones": [
+   "Gastrocnemio (medial y lateral)",
+   "Glúteo medio y menor",
+   "Abductor del dedo gordo",
+   "Iliopsoas"
+  ],
+  "correcta": 0,
+  "explicacion": "Gastrocnemio (medial y lateral): Tibial, S1. Reflejo aquíleo S1; músculo clave S1 de la ISNCSCI. En la RM muscular, el gastrocnemio medial se afecta precozmente en disferlinopatía (Miyoshi) y en otras miopatías distales."
+ },
+ {
+  "id": "rn-mi-068",
+  "enunciado": "¿Qué nervio inerva el sóleo?",
+  "opciones": [
+   "Tibial",
+   "Glúteo inferior",
+   "Glúteo superior",
+   "Peroneo profundo"
+  ],
+  "correcta": 0,
+  "explicacion": "Con la rodilla flexionada el gastrocnemio queda acortado y la flexión plantar depende del sóleo. Músculo donde se registra el reflejo H.",
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos"
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-mi-069",
+  "enunciado": "¿Qué raíces inervan el sóleo?",
+  "opciones": [
+   "S1, S2",
+   "L3, L4",
+   "L5",
+   "L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Sóleo: Tibial, S1, S2. Con la rodilla flexionada el gastrocnemio queda acortado y la flexión plantar depende del sóleo. Músculo donde se registra el reflejo H."
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-mi-070",
+  "enunciado": "¿Cuál es la función principal del sóleo?",
+  "opciones": [
+   "Flexión plantar del tobillo con la rodilla flexionada",
+   "Flexión, abducción y rotación externa de la cadera",
+   "Extensión de los dedos del pie",
+   "Flexión de la rodilla"
+  ],
+  "correcta": 0,
+  "explicacion": "Sóleo: flexión plantar del tobillo con la rodilla flexionada. Nervio: Tibial, S1, S2. Con la rodilla flexionada el gastrocnemio queda acortado y la flexión plantar depende del sóleo. Músculo donde se registra el reflejo H."
+ },
+ {
+  "id": "rn-mi-071",
+  "enunciado": "¿Qué nervio inerva el flexor largo de los dedos?",
+  "opciones": [
+   "Tibial",
+   "Femoral",
+   "Glúteo superior",
+   "Peroneo superficial"
+  ],
+  "correcta": 0,
+  "explicacion": "Compartimento posterior profundo, con el tibial posterior y el flexor largo del dedo gordo.",
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-072",
+  "enunciado": "¿Qué raíces inervan el flexor largo de los dedos?",
+  "opciones": [
+   "S1, S2",
+   "L4",
+   "L2, L3, L4",
+   "L3, L4"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo de los dedos: Tibial, S1, S2. Compartimento posterior profundo, con el tibial posterior y el flexor largo del dedo gordo."
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-073",
+  "enunciado": "¿Cuál es la función principal del flexor largo de los dedos?",
+  "opciones": [
+   "Flexión de los dedos del pie",
+   "Eversión del pie",
+   "Flexión de la rodilla",
+   "Flexión plantar del tobillo con la rodilla flexionada"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo de los dedos: flexión de los dedos del pie. Nervio: Tibial, S1, S2. Compartimento posterior profundo, con el tibial posterior y el flexor largo del dedo gordo."
+ },
+ {
+  "id": "rn-mi-074",
+  "enunciado": "¿Qué nervio inerva el flexor largo del dedo gordo?",
+  "opciones": [
+   "Tibial",
+   "Obturador y ciático (división tibial)",
+   "Peroneo profundo",
+   "Glúteo superior"
+  ],
+  "correcta": 0,
+  "explicacion": "Compartimento posterior profundo de la pierna.",
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-075",
+  "enunciado": "¿Qué raíces inervan el flexor largo del dedo gordo?",
+  "opciones": [
+   "S1, S2",
+   "L4",
+   "L1, L2, L3",
+   "L5"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo del dedo gordo: Tibial, S1, S2. Compartimento posterior profundo de la pierna."
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-076",
+  "enunciado": "¿Cuál es la función principal del flexor largo del dedo gordo?",
+  "opciones": [
+   "Flexión del dedo gordo",
+   "Extensión de los dedos (músculo del dorso del pie)",
+   "Flexión de la rodilla y extensión de la cadera",
+   "Aducción de la cadera"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor largo del dedo gordo: flexión del dedo gordo. Nervio: Tibial, S1, S2. Compartimento posterior profundo de la pierna."
+ },
+ {
+  "id": "rn-mi-077",
+  "enunciado": "¿Qué nervio inerva el abductor del dedo gordo?",
+  "opciones": [
+   "Plantar medial (tibial)",
+   "Femoral",
+   "Obturador y ciático (división tibial)",
+   "Obturador"
+  ],
+  "correcta": 0,
+  "explicacion": "Registro habitual de la conducción motora tibial. Afectado en el síndrome del túnel del tarso.",
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-078",
+  "enunciado": "¿Qué raíces inervan el abductor del dedo gordo?",
+  "opciones": [
+   "S1, S2",
+   "L4",
+   "L4, L5",
+   "S1"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor del dedo gordo: Plantar medial (tibial), S1, S2. Registro habitual de la conducción motora tibial. Afectado en el síndrome del túnel del tarso."
+ },
+ {
+  "grupo": "S1",
+  "tema": "Miembro inferior",
+  "subtema": "Pierna posterior y pie",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-mi-079",
+  "enunciado": "¿Cuál es la función principal del abductor del dedo gordo?",
+  "opciones": [
+   "Abducción del dedo gordo",
+   "Flexión del dedo gordo",
+   "Abducción y rotación interna de la cadera",
+   "Extensión del dedo gordo"
+  ],
+  "correcta": 0,
+  "explicacion": "Abductor del dedo gordo: abducción del dedo gordo. Nervio: Plantar medial (tibial), S1, S2. Registro habitual de la conducción motora tibial. Afectado en el síndrome del túnel del tarso."
+ }
+]

@@ -1,0 +1,210 @@
+[
+ {
+  "id": "rn-emg-007",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-localizacion",
+  "enunciado": "¿Para qué sirve explorar los paraespinales en la EMG?",
+  "opciones": [
+   "Para localizar la lesión en la raíz",
+   "Para valorar la unión neuromuscular",
+   "Para distinguir miopatía de neuropatía",
+   "Para medir la velocidad de conducción"
+  ],
+  "correcta": 0,
+  "explicacion": "El ramo dorsal que inerva los paraespinales sale proximal al plexo. Su denervación sugiere radiculopatía (o enfermedad de motoneurona). Pueden estar normales si la radiculopatía es leve o crónica."
+ },
+ {
+  "id": "rn-emg-008",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "Tras una lesión axonal aguda, ¿cuándo aparecen las fibrilaciones en los músculos distales?",
+  "opciones": [
+   "A las 3-4 semanas (antes en paraespinales, hacia los 10-14 días)",
+   "Inmediatamente",
+   "A las 24-48 horas",
+   "A los 6 meses"
+  ],
+  "correcta": 0,
+  "explicacion": "Por eso una EMG muy precoz puede ser normal. Lo ideal es esperar unas 3 semanas para valorar denervación."
+ },
+ {
+  "id": "rn-emg-010",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "¿Qué significan las fibrilaciones y ondas positivas?",
+  "opciones": [
+   "Fibras musculares denervadas (denervación activa)",
+   "Reinervación crónica",
+   "Actividad normal de placa motora",
+   "Bloqueo de conducción"
+  ],
+  "correcta": 0,
+  "explicacion": "Aparecen en procesos neurógenos y también en miopatías con necrosis o inflamación (las fibras se «desconectan» de su placa)."
+ },
+ {
+  "id": "rn-emg-011",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "PUMs de gran amplitud, larga duración y polifásicos, con reclutamiento reducido. ¿Qué patrón es?",
+  "opciones": [
+   "Neurógeno crónico (reinervación)",
+   "Miopático",
+   "Normal",
+   "Trastorno de la unión neuromuscular"
+  ],
+  "correcta": 0,
+  "explicacion": "Las unidades supervivientes adoptan fibras denervadas por reinervación colateral, por lo que crecen en tamaño."
+ },
+ {
+  "id": "rn-emg-012",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "PUMs pequeños, de corta duración y polifásicos, con reclutamiento precoz. ¿Qué patrón es?",
+  "opciones": [
+   "Miopático",
+   "Neurógeno crónico",
+   "Neurógeno agudo",
+   "Normal"
+  ],
+  "correcta": 0,
+  "explicacion": "Cada unidad tiene menos fibras funcionales: para generar fuerza se reclutan muchas unidades con poco esfuerzo."
+ },
+ {
+  "id": "rn-emg-013",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "¿Qué significa reclutamiento reducido?",
+  "opciones": [
+   "Pocas unidades motoras disparando a alta frecuencia",
+   "Muchas unidades motoras con poco esfuerzo",
+   "Unidades motoras de baja amplitud",
+   "Ausencia de actividad espontánea"
+  ],
+  "correcta": 0,
+  "explicacion": "Es el signo más precoz de pérdida axonal o de bloqueo de conducción: la frecuencia de descarga sube (>20 Hz) antes de que se sumen nuevas unidades."
+ },
+ {
+  "id": "rn-emg-014",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "¿Cómo son las descargas miotónicas?",
+  "opciones": [
+   "Descargas de fibra muscular que aumentan y disminuyen en frecuencia y amplitud («bombardero en picado»)",
+   "Frecuencia constante con inicio y final bruscos",
+   "Descargas agrupadas de PUMs",
+   "Descargas de 150-300 Hz decrecientes"
+  ],
+  "correcta": 0,
+  "explicacion": "Típicas de distrofia miotónica tipo 1 y 2, miotonías congénitas y paramiotonía. También en Pompe, miopatías necrotizantes e hipotiroidea."
+ },
+ {
+  "id": "rn-emg-015",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "Descargas miotónicas en paraespinales sin miotonía clínica en un paciente con debilidad de cinturas. ¿Qué debes sospechar?",
+  "opciones": [
+   "Enfermedad de Pompe",
+   "Distrofia miotónica tipo 1",
+   "Miastenia gravis",
+   "ELA"
+  ],
+  "correcta": 0,
+  "explicacion": "Explorar paraespinales torácicos es clave en la sospecha de Pompe del adulto. Confirmar con actividad de alfa-glucosidasa ácida en gota seca."
+ },
+ {
+  "id": "rn-emg-016",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "¿Qué caracteriza a las descargas repetitivas complejas?",
+  "opciones": [
+   "Frecuencia constante con inicio y final bruscos; indican cronicidad",
+   "Frecuencia y amplitud crecientes y decrecientes",
+   "Descarga aislada de un PUM al azar",
+   "Salvas agrupadas de un PUM"
+  ],
+  "correcta": 0,
+  "explicacion": "Se originan por transmisión efáptica entre fibras musculares. Aparecen en procesos neurógenos o miopáticos crónicos."
+ },
+ {
+  "id": "rn-emg-017",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "Descargas mioquímicas en una plexopatía braquial en una paciente con cáncer de mama previo. ¿Qué sugieren?",
+  "opciones": [
+   "Plexopatía rádica más que infiltración tumoral",
+   "Infiltración tumoral",
+   "Radiculopatía C8",
+   "Síndrome de Parsonage-Turner"
+  ],
+  "correcta": 0,
+  "explicacion": "Las descargas mioquímicas (salvas agrupadas de un mismo PUM) son típicas de la plexopatía por radiación. Otras causas: mioquimia facial por EM o tumor de tronco."
+ },
+ {
+  "id": "rn-emg-018",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "Descargas neuromiotónicas (150-300 Hz, decrecientes). ¿En qué pensar?",
+  "opciones": [
+   "Síndrome de Isaacs (hiperexcitabilidad nerviosa periférica, anti-CASPR2)",
+   "Distrofia miotónica tipo 2",
+   "Enfermedad de Pompe",
+   "Síndrome de Lambert-Eaton"
+  ],
+  "correcta": 0,
+  "explicacion": "Clínicamente: mioquimias, calambres, rigidez y sudoración. Puede asociarse a timoma. Síndrome de Morvan si hay afectación central."
+ },
+ {
+  "id": "rn-emg-038",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-aguja",
+  "enunciado": "Potenciales de placa motora (ruido y espigas de placa). ¿Qué significan?",
+  "opciones": [
+   "Hallazgo normal: la aguja está cerca de la placa motora",
+   "Denervación activa",
+   "Descarga miotónica",
+   "Fasciculación"
+  ],
+  "correcta": 0,
+  "explicacion": "Suelen doler. Las espigas de placa pueden confundirse con fibrilaciones: fíjate en su onda inicial negativa y su disparo irregular."
+ },
+ {
+  "id": "rn-emg-039",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Aguja: actividad espontánea y PUMs",
+  "teoria": "emg-localizacion",
+  "enunciado": "Denervación en paraespinales y en músculos de un mismo miotoma inervados por nervios distintos, con SNAPs normales. ¿Diagnóstico?",
+  "opciones": [
+   "Radiculopatía",
+   "Plexopatía",
+   "Mononeuropatía múltiple",
+   "Miopatía"
+  ],
+  "correcta": 0,
+  "explicacion": "Tres claves: patrón de miotoma (varios nervios, una raíz), paraespinales afectados y SNAPs normales."
+ }
+]

@@ -1,0 +1,254 @@
+[
+ {
+  "id": "rn-ms-040",
+  "enunciado": "¿Qué nervio inerva el bíceps braquial?",
+  "opciones": [
+   "Musculocutáneo",
+   "Axilar",
+   "Supraescapular",
+   "Subescapular inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo bicipital C5-C6. El musculocutáneo sale del fascículo lateral y termina como cutáneo antebraquial lateral (sensibilidad del borde radial del antebrazo).",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-ms-041",
+  "enunciado": "¿Qué raíces inervan el bíceps braquial?",
+  "opciones": [
+   "C5, C6",
+   "C8, T1",
+   "C6, C7, C8",
+   "C5, C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps braquial: Musculocutáneo, C5, C6. Reflejo bicipital C5-C6. El musculocutáneo sale del fascículo lateral y termina como cutáneo antebraquial lateral (sensibilidad del borde radial del antebrazo)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-ms-042",
+  "enunciado": "¿Cuál es la función principal del bíceps braquial?",
+  "opciones": [
+   "Flexión del codo y supinación del antebrazo",
+   "Aducción del pulgar",
+   "Flexión de la interfalángica distal del índice y medio",
+   "Extensión de la metacarpofalángica del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps braquial: flexión del codo y supinación del antebrazo. Nervio: Musculocutáneo, C5, C6. Reflejo bicipital C5-C6. El musculocutáneo sale del fascículo lateral y termina como cutáneo antebraquial lateral (sensibilidad del borde radial del antebrazo)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "reflejos",
+  "id": "rn-ms-043",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: flexión del codo y supinación del antebrazo?",
+  "opciones": [
+   "Bíceps braquial",
+   "Redondo mayor",
+   "Lumbricales I y II",
+   "Extensor cubital del carpo"
+  ],
+  "correcta": 0,
+  "explicacion": "Bíceps braquial: Musculocutáneo, C5, C6. Reflejo bicipital C5-C6. El musculocutáneo sale del fascículo lateral y termina como cutáneo antebraquial lateral (sensibilidad del borde radial del antebrazo)."
+ },
+ {
+  "id": "rn-ms-044",
+  "enunciado": "¿Qué nervio inerva el braquial?",
+  "opciones": [
+   "Musculocutáneo",
+   "Pectorales lateral y medial",
+   "Torácico largo",
+   "Mediano"
+  ],
+  "correcta": 0,
+  "explicacion": "Flexor puro del codo. Recibe además una pequeña contribución del radial en su parte lateral.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-045",
+  "enunciado": "¿Qué raíces inervan el braquial?",
+  "opciones": [
+   "C5, C6",
+   "C7, C8, T1",
+   "C5, C6, C7",
+   "C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Braquial: Musculocutáneo, C5, C6. Flexor puro del codo. Recibe además una pequeña contribución del radial en su parte lateral."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-046",
+  "enunciado": "¿Cuál es la función principal del braquial?",
+  "opciones": [
+   "Flexión del codo en cualquier posición del antebrazo",
+   "Oposición del pulgar",
+   "Aducción, extensión y rotación interna del brazo",
+   "Extensión de la muñeca con desviación radial"
+  ],
+  "correcta": 0,
+  "explicacion": "Braquial: flexión del codo en cualquier posición del antebrazo. Nervio: Musculocutáneo, C5, C6. Flexor puro del codo. Recibe además una pequeña contribución del radial en su parte lateral."
+ },
+ {
+  "id": "rn-ms-047",
+  "enunciado": "¿Qué nervio inerva el tríceps braquial?",
+  "opciones": [
+   "Radial",
+   "Cubital",
+   "Pectoral lateral",
+   "Subescapular inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo tricipital C7. Las ramas al tríceps salen en la axila y la parte alta del brazo: en la lesión en el canal de torsión («parálisis del sábado») el tríceps suele estar preservado.",
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-048",
+  "enunciado": "¿Qué raíces inervan el tríceps braquial?",
+  "opciones": [
+   "C7",
+   "C8, T1",
+   "C4, C5",
+   "C6, C7"
+  ],
+  "correcta": 0,
+  "explicacion": "Tríceps braquial: Radial, C7. Raíces accesorias: C6, C8. Reflejo tricipital C7. Las ramas al tríceps salen en la axila y la parte alta del brazo: en la lesión en el canal de torsión («parálisis del sábado») el tríceps suele estar preservado."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-049",
+  "enunciado": "¿Cuál es la función principal del tríceps braquial?",
+  "opciones": [
+   "Extensión del codo",
+   "Aducción, extensión y rotación interna del brazo",
+   "Rotación interna del brazo",
+   "Flexión y aducción del brazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Tríceps braquial: extensión del codo. Nervio: Radial, C7. Reflejo tricipital C7. Las ramas al tríceps salen en la axila y la parte alta del brazo: en la lesión en el canal de torsión («parálisis del sábado») el tríceps suele estar preservado."
+ },
+ {
+  "grupo": "C7",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-050",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: extensión del codo?",
+  "opciones": [
+   "Tríceps braquial",
+   "Primer interóseo dorsal",
+   "Interóseos palmares",
+   "Braquial"
+  ],
+  "correcta": 0,
+  "explicacion": "Tríceps braquial: Radial, C7. Reflejo tricipital C7. Las ramas al tríceps salen en la axila y la parte alta del brazo: en la lesión en el canal de torsión («parálisis del sábado») el tríceps suele estar preservado."
+ },
+ {
+  "id": "rn-ms-051",
+  "enunciado": "¿Qué nervio inerva el braquiorradial?",
+  "opciones": [
+   "Radial",
+   "Cubital",
+   "Musculocutáneo",
+   "Axilar"
+  ],
+  "correcta": 0,
+  "explicacion": "Reflejo estilorradial C5-C6. Es un músculo del radial que flexiona: útil para localizar lesiones radiales por encima del codo (afectado en el canal de torsión, preservado en el interóseo posterior).",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-052",
+  "enunciado": "¿Qué raíces inervan el braquiorradial?",
+  "opciones": [
+   "C5, C6",
+   "C5, C6, C7",
+   "C6, C7",
+   "C6, C7, C8"
+  ],
+  "correcta": 0,
+  "explicacion": "Braquiorradial: Radial, C5, C6. Reflejo estilorradial C5-C6. Es un músculo del radial que flexiona: útil para localizar lesiones radiales por encima del codo (afectado en el canal de torsión, preservado en el interóseo posterior)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-053",
+  "enunciado": "¿Cuál es la función principal del braquiorradial?",
+  "opciones": [
+   "Flexión del codo con el antebrazo en semipronación",
+   "Abducción del brazo (15–90°)",
+   "Flexión de la MCF con extensión de las IF (anular y meñique)",
+   "Rotación interna del brazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Braquiorradial: flexión del codo con el antebrazo en semipronación. Nervio: Radial, C5, C6. Reflejo estilorradial C5-C6. Es un músculo del radial que flexiona: útil para localizar lesiones radiales por encima del codo (afectado en el canal de torsión, preservado en el interóseo posterior)."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Brazo y codo",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "nervio-radial",
+  "id": "rn-ms-054",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: flexión del codo con el antebrazo en semipronación?",
+  "opciones": [
+   "Braquiorradial",
+   "Subescapular",
+   "Extensor radial largo del carpo",
+   "Abductor largo del pulgar"
+  ],
+  "correcta": 0,
+  "explicacion": "Braquiorradial: Radial, C5, C6. Reflejo estilorradial C5-C6. Es un músculo del radial que flexiona: útil para localizar lesiones radiales por encima del codo (afectado en el canal de torsión, preservado en el interóseo posterior)."
+ }
+]

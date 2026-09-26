@@ -1,0 +1,66 @@
+[
+ {
+  "id": "rn-emg-021",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Unión neuromuscular",
+  "teoria": "emg-union",
+  "enunciado": "Estimulación repetitiva a 3 Hz en la miastenia gravis. ¿Qué hallazgo es positivo?",
+  "opciones": [
+   "Decremento del CMAP >10% entre el 1.º y el 4.º-5.º estímulo",
+   "Incremento >100% tras el ejercicio",
+   "Decremento >50% seguido de incremento",
+   "Respuesta siempre normal"
+  ],
+  "correcta": 0,
+  "explicacion": "Más sensible en músculos proximales y faciales (trapecio, deltoides, nasal/orbicular). El frío reduce el decremento: calienta la extremidad."
+ },
+ {
+  "id": "rn-emg-022",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Unión neuromuscular",
+  "teoria": "emg-union",
+  "enunciado": "¿Qué patrón neurofisiológico sugiere síndrome de Lambert-Eaton?",
+  "opciones": [
+   "CMAP basal bajo con incremento >100% tras 10 s de ejercicio",
+   "CMAP normal con decremento aislado",
+   "Fibrilaciones difusas",
+   "Enlentecimiento uniforme de la conducción"
+  ],
+  "correcta": 0,
+  "explicacion": "Trastorno presináptico (anticuerpos anti canales de calcio P/Q). Un incremento ≥60% ya es muy sugestivo. Busca carcinoma microcítico de pulmón."
+ },
+ {
+  "id": "rn-emg-023",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Unión neuromuscular",
+  "teoria": "emg-union",
+  "enunciado": "¿Cuál es la prueba neurofisiológica más sensible para la miastenia gravis?",
+  "opciones": [
+   "EMG de fibra única (jitter aumentado)",
+   "Estimulación repetitiva a 3 Hz",
+   "Neurografía motora",
+   "EMG con aguja concéntrica"
+  ],
+  "correcta": 0,
+  "explicacion": "Muy sensible pero poco específica: el jitter también aumenta en ELA, neuropatías con reinervación y miopatías."
+ },
+ {
+  "id": "rn-emg-024",
+  "grupo": "EMG",
+  "tema": "Neurofisiología (EMG)",
+  "subtema": "Unión neuromuscular",
+  "teoria": "emg-union",
+  "enunciado": "¿Qué hallazgo neurofisiológico es típico del botulismo?",
+  "opciones": [
+   "CMAP bajos con incremento a alta frecuencia y neurografía sensitiva normal",
+   "Decremento a 3 Hz con CMAP normal",
+   "SNAPs ausentes",
+   "Enlentecimiento difuso de la conducción"
+  ],
+  "correcta": 0,
+  "explicacion": "Trastorno presináptico como el Lambert-Eaton. Clínica descendente con afectación pupilar precoz."
+ }
+]

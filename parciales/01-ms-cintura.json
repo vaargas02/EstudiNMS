@@ -1,0 +1,299 @@
+[
+ {
+  "id": "rn-ms-001",
+  "enunciado": "¿Qué nervio inerva el trapecio?",
+  "opciones": [
+   "Accesorio espinal (XI)",
+   "Pectoral lateral",
+   "Subescapulares superior e inferior",
+   "Mediano"
+  ],
+  "correcta": 0,
+  "explicacion": "Inervación motora por el XI par, con aferencias de C3-C4 por el plexo cervical. Su debilidad da escápula alada lateral (el ángulo inferior se desplaza hacia fuera) y hombro caído. Lesión típica: cirugía del triángulo posterior del cuello.",
+  "grupo": "Pares craneales",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "escapula-alada"
+ },
+ {
+  "grupo": "Pares craneales",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "escapula-alada",
+  "id": "rn-ms-002",
+  "enunciado": "¿Cuál es la función principal del trapecio?",
+  "opciones": [
+   "Elevación y retracción de la escápula",
+   "Flexión y aducción del brazo",
+   "Flexión de la interfalángica distal del índice y medio",
+   "Aducción de los dedos"
+  ],
+  "correcta": 0,
+  "explicacion": "Trapecio: elevación y retracción de la escápula. Nervio: Accesorio espinal (XI). Inervación motora por el XI par, con aferencias de C3-C4 por el plexo cervical. Su debilidad da escápula alada lateral (el ángulo inferior se desplaza hacia fuera) y hombro caído. Lesión típica: cirugía del triángulo posterior del cuello."
+ },
+ {
+  "id": "rn-ms-003",
+  "enunciado": "¿Qué nervio inerva el romboides?",
+  "opciones": [
+   "Dorsal de la escápula",
+   "Pectoral lateral",
+   "Musculocutáneo",
+   "Interóseo anterior"
+  ],
+  "correcta": 0,
+  "explicacion": "El dorsal de la escápula sale directamente de la raíz C5. Por eso distingue una radiculopatía C5 (romboides afectado) de una lesión del tronco superior (romboides preservado).",
+  "grupo": "C4",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "raiz-vs-plexo"
+ },
+ {
+  "grupo": "C4",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "raiz-vs-plexo",
+  "id": "rn-ms-004",
+  "enunciado": "¿Qué raíces inervan el romboides?",
+  "opciones": [
+   "C4, C5",
+   "C5, C6",
+   "C5, C6, C7",
+   "C7, C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Romboides: Dorsal de la escápula, C4, C5. El dorsal de la escápula sale directamente de la raíz C5. Por eso distingue una radiculopatía C5 (romboides afectado) de una lesión del tronco superior (romboides preservado)."
+ },
+ {
+  "grupo": "C4",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "raiz-vs-plexo",
+  "id": "rn-ms-005",
+  "enunciado": "¿Cuál es la función principal del romboides?",
+  "opciones": [
+   "Retracción y elevación de la escápula",
+   "Extensión de la muñeca con desviación cubital",
+   "Extensión del índice",
+   "Abducción del brazo (15–90°)"
+  ],
+  "correcta": 0,
+  "explicacion": "Romboides: retracción y elevación de la escápula. Nervio: Dorsal de la escápula, C4, C5. El dorsal de la escápula sale directamente de la raíz C5. Por eso distingue una radiculopatía C5 (romboides afectado) de una lesión del tronco superior (romboides preservado)."
+ },
+ {
+  "id": "rn-ms-006",
+  "enunciado": "¿Qué nervio inerva el serrato anterior?",
+  "opciones": [
+   "Torácico largo",
+   "Supraescapular",
+   "Interóseo anterior",
+   "Subescapulares superior e inferior"
+  ],
+  "correcta": 0,
+  "explicacion": "Su debilidad produce escápula alada medial, más evidente al empujar contra la pared. El torácico largo nace directamente de las raíces: afectado en radiculopatías, preservado en lesiones de troncos. Frecuente en Parsonage-Turner.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "escapula-alada"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "escapula-alada",
+  "id": "rn-ms-007",
+  "enunciado": "¿Qué raíces inervan el serrato anterior?",
+  "opciones": [
+   "C5, C6, C7",
+   "C8, T1",
+   "C6, C7",
+   "C7, C8, T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Serrato anterior: Torácico largo, C5, C6, C7. Su debilidad produce escápula alada medial, más evidente al empujar contra la pared. El torácico largo nace directamente de las raíces: afectado en radiculopatías, preservado en lesiones de troncos. Frecuente en Parsonage-Turner."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "escapula-alada",
+  "id": "rn-ms-008",
+  "enunciado": "¿Cuál es la función principal del serrato anterior?",
+  "opciones": [
+   "Protracción de la escápula y fijación contra el tórax",
+   "Flexión del codo y supinación del antebrazo",
+   "Extensión de la interfalángica del pulgar",
+   "Aducción, extensión y rotación interna del brazo"
+  ],
+  "correcta": 0,
+  "explicacion": "Serrato anterior: protracción de la escápula y fijación contra el tórax. Nervio: Torácico largo, C5, C6, C7. Su debilidad produce escápula alada medial, más evidente al empujar contra la pared. El torácico largo nace directamente de las raíces: afectado en radiculopatías, preservado en lesiones de troncos. Frecuente en Parsonage-Turner."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "teoria": "escapula-alada",
+  "id": "rn-ms-009",
+  "enunciado": "¿Qué músculo se encarga principalmente de esta acción: protracción de la escápula y fijación contra el tórax?",
+  "opciones": [
+   "Serrato anterior",
+   "Flexor largo del pulgar",
+   "Extensor largo del pulgar",
+   "Primer interóseo dorsal"
+  ],
+  "correcta": 0,
+  "explicacion": "Serrato anterior: Torácico largo, C5, C6, C7. Su debilidad produce escápula alada medial, más evidente al empujar contra la pared. El torácico largo nace directamente de las raíces: afectado en radiculopatías, preservado en lesiones de troncos. Frecuente en Parsonage-Turner."
+ },
+ {
+  "id": "rn-ms-010",
+  "enunciado": "¿Qué nervio inerva el pectoral mayor (porción clavicular)?",
+  "opciones": [
+   "Pectoral lateral",
+   "Interóseo anterior",
+   "Torácico largo",
+   "Dorsal de la escápula"
+  ],
+  "correcta": 0,
+  "explicacion": "La porción clavicular (C5-C6) y la esternocostal (C6-C8) tienen raíces distintas: útil para localizar lesiones del plexo.",
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-011",
+  "enunciado": "¿Qué raíces inervan el pectoral mayor (porción clavicular)?",
+  "opciones": [
+   "C5, C6",
+   "C7, C8, T1",
+   "C5, C6, C7",
+   "C7, C8"
+  ],
+  "correcta": 0,
+  "explicacion": "Pectoral mayor (porción clavicular): Pectoral lateral, C5, C6. La porción clavicular (C5-C6) y la esternocostal (C6-C8) tienen raíces distintas: útil para localizar lesiones del plexo."
+ },
+ {
+  "grupo": "C5",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-012",
+  "enunciado": "¿Cuál es la función principal del pectoral mayor (porción clavicular)?",
+  "opciones": [
+   "Flexión y aducción del brazo",
+   "Flexión del codo con el antebrazo en semipronación",
+   "Retracción y elevación de la escápula",
+   "Flexión de la MCF con extensión de las IF (índice y medio)"
+  ],
+  "correcta": 0,
+  "explicacion": "Pectoral mayor (porción clavicular): flexión y aducción del brazo. Nervio: Pectoral lateral, C5, C6. La porción clavicular (C5-C6) y la esternocostal (C6-C8) tienen raíces distintas: útil para localizar lesiones del plexo."
+ },
+ {
+  "id": "rn-ms-013",
+  "enunciado": "¿Qué nervio inerva el pectoral mayor (porción esternocostal)?",
+  "opciones": [
+   "Pectorales lateral y medial",
+   "Interóseo posterior",
+   "Axilar",
+   "Dorsal de la escápula"
+  ],
+  "correcta": 0,
+  "explicacion": "Recibe fibras del fascículo lateral y del medial. En lesiones del tronco inferior la porción esternocostal se afecta más que la clavicular.",
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-014",
+  "enunciado": "¿Qué raíces inervan el pectoral mayor (porción esternocostal)?",
+  "opciones": [
+   "C6, C7, C8",
+   "C5",
+   "C7",
+   "T1"
+  ],
+  "correcta": 0,
+  "explicacion": "Pectoral mayor (porción esternocostal): Pectorales lateral y medial, C6, C7, C8. Recibe fibras del fascículo lateral y del medial. En lesiones del tronco inferior la porción esternocostal se afecta más que la clavicular."
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-015",
+  "enunciado": "¿Cuál es la función principal del pectoral mayor (porción esternocostal)?",
+  "opciones": [
+   "Aducción y rotación interna del brazo",
+   "Flexión de la MCF con extensión de las IF (anular y meñique)",
+   "Oposición del pulgar",
+   "Abducción del índice"
+  ],
+  "correcta": 0,
+  "explicacion": "Pectoral mayor (porción esternocostal): aducción y rotación interna del brazo. Nervio: Pectorales lateral y medial, C6, C7, C8. Recibe fibras del fascículo lateral y del medial. En lesiones del tronco inferior la porción esternocostal se afecta más que la clavicular."
+ },
+ {
+  "id": "rn-ms-027",
+  "enunciado": "¿Qué nervio inerva el dorsal ancho?",
+  "opciones": [
+   "Toracodorsal",
+   "Musculocutáneo",
+   "Subescapular inferior",
+   "Torácico largo"
+  ],
+  "correcta": 0,
+  "explicacion": "El toracodorsal sale del fascículo posterior, como el axilar y el radial. Se explora pidiendo al paciente que tosa mientras palpas el borde posterior de la axila.",
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)"
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-028",
+  "enunciado": "¿Qué raíces inervan el dorsal ancho?",
+  "opciones": [
+   "C6, C7, C8",
+   "C6, C7",
+   "C5, C6, C7",
+   "C4, C5"
+  ],
+  "correcta": 0,
+  "explicacion": "Dorsal ancho: Toracodorsal, C6, C7, C8. El toracodorsal sale del fascículo posterior, como el axilar y el radial. Se explora pidiendo al paciente que tosa mientras palpas el borde posterior de la axila."
+ },
+ {
+  "grupo": "C6",
+  "tema": "Miembro superior",
+  "subtema": "Cintura escapular",
+  "fuente": "Aids to the Examination of the Peripheral Nervous System (O'Brien, 6.ª ed.)",
+  "id": "rn-ms-029",
+  "enunciado": "¿Cuál es la función principal del dorsal ancho?",
+  "opciones": [
+   "Aducción, extensión y rotación interna del brazo",
+   "Extensión de la metacarpofalángica del pulgar",
+   "Extensión de la muñeca con desviación radial",
+   "Extensión del índice"
+  ],
+  "correcta": 0,
+  "explicacion": "Dorsal ancho: aducción, extensión y rotación interna del brazo. Nervio: Toracodorsal, C6, C7, C8. El toracodorsal sale del fascículo posterior, como el axilar y el radial. Se explora pidiendo al paciente que tosa mientras palpas el borde posterior de la axila."
+ }
+]
